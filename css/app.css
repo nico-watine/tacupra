@@ -2064,6 +2064,12 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .long-delay { animation-delay: 700ms !important; }
 
+.bgvid-container { top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
+
+.bgvid-container div { position: static !important; }
+
+.bgvid-container div .gfy-video { position: absolute !important; z-index: 1 !important; top: 50% !important; left: 50% !important; min-width: 100% !important; min-height: 100% !important; -webkit-transform: translateX(-50%) translateY(-50%) !important; transform: translateX(-50%) translateY(-50%) !important; width: auto !important; height: auto !important; }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }
