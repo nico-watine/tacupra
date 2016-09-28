@@ -12,14 +12,12 @@ UNCSS_OPTIONS:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
     - ".gfy-video"
-    - "img"
     - ".gfyitem"
-    - ".bgvid-container"
+    # - ".bgvid-container"
+    # - ".bgvid-container div"
     - ".bgvid-container div .gfy-video"
-    - ".bgvid-container div"
-    - ".logo-wrapper"
-    - ".bgvid-container .row.absolute-top .medium-push-2"
-    - ".bgvid-container .row.absolute-top"
+    # - ".bgvid-container .row.absolute-top .medium-push-2"
+    # - ".bgvid-container .row.absolute-top"
 
 # Gulp will reference these paths when it copies files
 PATHS:
