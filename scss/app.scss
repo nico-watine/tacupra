@@ -9,8 +9,9 @@
 @include foundation-global-styles;
 @include foundation-grid;
 @include foundation-typography;
-@include foundation-off-canvas;
-@include foundation-button;
+
+// @include foundation-off-canvas;
+// @include foundation-button;
 // @include foundation-forms;
 // @include foundation-range-input;
 // @include foundation-accordion;
@@ -78,6 +79,7 @@
 @import "components/_extras.scss";
 @import "components/_resets.scss";
 @import "components/_utility-classes.scss";
+
 
 
 
