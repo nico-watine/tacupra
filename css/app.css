@@ -2064,7 +2064,7 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .long-delay { animation-delay: 700ms !important; }
 
-.bgvid-container { top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
 
 .bgvid-container div { position: static !important; }
 
