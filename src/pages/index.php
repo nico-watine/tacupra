@@ -10,7 +10,7 @@ body-class:
 ---
 <div class="bgvid-container">
 	<div class="row">
-		<div class="medium-8 medium-push-2 columns end logo-wrapper">
+		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
 			<img src="/img/logo/white-alpha-bg.png" alt="">
 		</div>
 	</div>
