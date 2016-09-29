@@ -8,15 +8,11 @@
 	min-height: 100%;
 	overflow: hidden;
 
-	.row.absolute-top {
-		position: absolute !important;
-		max-width: 100%;
-		height: 100%;
-		width: 100%;
-		z-index: 20;
-
-		.medium-push-2 {
-			position: relative !important;
+	.row {
+		.logo-wrapper {
+			position: absolute !important;
+			background: rgba(255,255,255,0.40);
+			z-index: 20;
 			@include vertical-center;
 		}
 	}
@@ -39,6 +35,3 @@
 	}
 }
 
-.logo-wrapper {
-	background: rgba(255,255,255,0.40);
-}
