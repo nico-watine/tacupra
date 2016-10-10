@@ -7,6 +7,7 @@ og-description: The official site of Team QuattroStig's Tacoma Supra Engine Swap
 og-image: /img/og/og-image-1.jpg
 body-id: index
 body-class:
+layout: index-video-splash
 ---
 <div class="bgvid-container">
 	<div class="row">
