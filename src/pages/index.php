@@ -17,7 +17,7 @@ layout: index-video-splash
 	</div>
 	<div class='gfyitem' data-id='OccasionalDecisiveKoi'></div>
 </div>
-<section class="build-specs" style="padding: 50px 0;">
+<section class="build-specs">
 	<div class="row" style="margin-bottom: 20px;">
 		<div class="columns text-center">
 			<h1><strong>Build Specs</strong></h1>
