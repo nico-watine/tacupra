@@ -8,6 +8,7 @@
 #mc_embed_signup {
 	input.email {
 		height: 45px;
+		font-size: 20px;
 	}
 
 	.button {
@@ -17,6 +18,10 @@
 		text-transform: uppercase;
 		letter-spacing: 1px;
 		height: 45px;
+
+		&:hover {
+			background-color: #000;
+		}
 	}
 }
 
