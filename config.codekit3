@@ -4282,11 +4282,32 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
+	"\/dist\/img\/index\/build-specs\/build-truck\/tacoma.png": {
+		"ft": 32768,
+		"iS": 263339,
+		"oA": 0,
+		"oAP": "\/dist\/img\/index\/build-specs\/build-truck\/tacoma.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/index\/build-specs\/engine-background.jpg": {
 		"ft": 16384,
 		"iS": 560332,
 		"oA": 0,
 		"oAP": "\/dist\/img\/index\/build-specs\/engine-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg": {
+		"ft": 16384,
+		"iS": 27738,
+		"oA": 0,
+		"oAP": "\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4400,11 +4421,32 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/img\/index\/build-specs\/build-truck\/tacoma.png": {
+		"ft": 32768,
+		"iS": 263339,
+		"oA": 0,
+		"oAP": "\/img\/index\/build-specs\/build-truck\/tacoma.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/index\/build-specs\/engine-background.jpg": {
 		"ft": 16384,
 		"iS": 560332,
 		"oA": 0,
 		"oAP": "\/img\/index\/build-specs\/engine-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/build-specs\/swap-engine\/supra.jpg": {
+		"ft": 16384,
+		"iS": 27738,
+		"oA": 0,
+		"oAP": "\/img\/index\/build-specs\/swap-engine\/supra.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

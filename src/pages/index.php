@@ -24,8 +24,15 @@ layout: index-video-splash
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-6 columns" style="height: 430px; border: 2px solid blue; margin-bottom: 40px;">
-			&nbsp;
+		<div class="medium-6 columns">
+			<div class="specCard">
+				<div class="specCard-header" style="position: relative;">
+					<h2 style="position: absolute; bottom: 0;">Build Truck</h2>
+					<div class="image-scrim">
+						<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
+					</div>
+				</div>
+			</div>
 		</div>
 		<div class="medium-6 columns" style="height: 430px; border: 2px solid blue; margin-bottom: 40px;">
 			&nbsp;
