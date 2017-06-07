@@ -4233,6 +4233,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4272,14 +4282,24 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
+	"\/dist\/img\/index\/build-specs\/engine-background.jpg": {
+		"ft": 16384,
+		"iS": 560332,
+		"oA": 0,
+		"oAP": "\/dist\/img\/index\/build-specs\/engine-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/logo\/white-alpha-bg.png": {
 		"ft": 32768,
 		"iS": 130591,
 		"oA": 0,
 		"oAP": "\/dist\/img\/logo\/white-alpha-bg.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4290,7 +4310,7 @@
 		"oAP": "\/dist\/img\/og\/og-image-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/index.php": {
@@ -4379,6 +4399,16 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/img\/index\/build-specs\/engine-background.jpg": {
+		"ft": 16384,
+		"iS": 560332,
+		"oA": 0,
+		"oAP": "\/img\/index\/build-specs\/engine-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/logo\/white-alpha-bg.png": {
 		"ft": 32768,
@@ -4625,6 +4655,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/components\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_build-specs.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_build-specs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
