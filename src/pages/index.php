@@ -78,3 +78,16 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
+<section class="triple-image-banner">
+	<div class="row expanded collapse">
+		<div class="medium-4 columns">
+			<img src="/img/index/triple-image-banner/1.jpg" alt="">
+		</div>
+		<div class="medium-4 columns">
+			<img src="/img/index/triple-image-banner/2.jpg" alt="">
+		</div>
+		<div class="medium-4 columns">
+			<img src="/img/index/triple-image-banner/3.jpg" alt="">
+		</div>
+	</div>
+</section>
