@@ -31,14 +31,20 @@ layout: index-video-splash
 					<div class="image-scrim">&nbsp;</div>
 					<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
 				</div>
+				<div class="specCard-body">
+					<h4><strong>2001 Toyota Tacoma Xtra Cab</strong></h4>
+					<p>Manual Transmission <br>
+					4x4 Drivetrain <br>
+					Electronic Locking Rear Differential</p>
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="specCard">
 				<div class="specCard-header">
-					<h2><strong>Build Truck</strong></h2>
+					<h2><strong>Swap Engine</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
-					<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
+					<img src="/img/index/build-specs/swap-engine/supra.jpg" alt="Supra Swap Engine">
 				</div>
 			</div>
 		</div>
