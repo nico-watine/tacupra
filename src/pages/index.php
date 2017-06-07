@@ -56,5 +56,10 @@ layout: index-video-splash
 	</div>
 </section>
 <section class="subscribe-section">
-	
+	<div class="row">
+		<div class="columns text-center">
+			<h2><strong>Subscribe for Updates!</strong></h2>
+			<p>We send out periodic updates about the build status and progress.</p>
+		</div>
+	</div>
 </section>
