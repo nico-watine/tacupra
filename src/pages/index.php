@@ -29,7 +29,7 @@ layout: index-video-splash
 				<div class="specCard-header">
 					<h2><strong>Build Truck</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
-					<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
+					<img src="/img/index/build-specs/build-truck/tacoma.jpg" alt="Tacoma Build Truck">
 				</div>
 				<div class="specCard-body">
 					<h4><strong>2001 Toyota Tacoma Xtra Cab</strong></h4>
