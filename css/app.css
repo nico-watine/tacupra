@@ -704,7 +704,7 @@ p + .stat { margin-top: -1rem; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
-.specCard { background: #F7F7F7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 40px; }
+.specCard { background: #F7F7F7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 60px; }
 
 .specCard-header { position: relative; }
 
