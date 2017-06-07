@@ -692,6 +692,14 @@ p + .stat { margin-top: -1rem; }
   h2, h3 { page-break-after: avoid; }
   .print-break-inside { page-break-inside: auto; } }
 
+footer.colophon { background: #282B2F; }
+
+footer.colophon a { color: #F1F1F1; letter-spacing: 2px; font-size: 14px; text-transform: uppercase; line-height: 36px; }
+
+footer.colophon a span { text-decoration: underline; }
+
+footer.colophon a:hover { text-decoration: underline; }
+
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
 
 .bgvid-container .row .logo-wrapper { position: absolute !important; background: rgba(255, 255, 255, 0.4); z-index: 20; position: absolute; top: 50%; transform: translateY(-50%); }

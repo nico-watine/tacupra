@@ -91,3 +91,6 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
+<footer class="colophon text-center">
+	<a href="http://studioncreations.com/">A <span>Studio N</span> Creation</a>
+</footer>
