@@ -62,4 +62,19 @@ layout: index-video-splash
 			<p>We send out periodic updates about the build status and progress.</p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="medium-10 columns medium-push-2">
+			<div id="mc_embed_signup">
+			<form action="//tacupra.us16.list-manage.com/subscribe/post?u=903b555d6a54b73bf9559f92d&amp;id=39b1037e0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			    <div id="mc_embed_signup_scroll">
+				
+				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_903b555d6a54b73bf9559f92d_39b1037e0e" tabindex="-1" value=""></div>
+			    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+			    </div>
+			</form>
+			</div>
+		</div>
+	</div>
 </section>
