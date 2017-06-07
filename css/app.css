@@ -714,6 +714,8 @@ p + .stat { margin-top: -1rem; }
 
 .specCard-body { padding: 0.75rem 1.25rem; }
 
+.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("/img/index/subscribe/toyota.png") center center/contain no-repeat; }
+
 html, body { height: 100%; }
 
 .p-0 { padding: 0; }

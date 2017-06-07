@@ -55,6 +55,6 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
-<section class="subscribe" style="height: 300px;">
+<section class="subscribe-section">
 	
 </section>
