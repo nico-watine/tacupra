@@ -17,10 +17,18 @@ layout: index-video-splash
 	</div>
 	<div class='gfyitem' data-id='OccasionalDecisiveKoi'></div>
 </div>
-<section class="build-specs">
+<section class="build-specs" style="padding: 50px 0;">
 	<div class="row">
 		<div class="columns text-center">
 			<h1><strong>Build Specs</strong></h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns" style="height: 430px; border: 2px solid blue; margin-bottom: 40px;">
+			&nbsp;
+		</div>
+		<div class="medium-6 columns" style="height: 430px; border: 2px solid blue; margin-bottom: 40px;">
+			&nbsp;
 		</div>
 	</div>
 </section>
