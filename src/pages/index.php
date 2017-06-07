@@ -63,7 +63,7 @@ layout: index-video-splash
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-10 columns medium-push-2">
+		<div class="medium-10 columns medium-push-1">
 			<div id="mc_embed_signup">
 			<form action="//tacupra.us16.list-manage.com/subscribe/post?u=903b555d6a54b73bf9559f92d&amp;id=39b1037e0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
