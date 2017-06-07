@@ -4168,13 +4168,13 @@
 		},
 	"\/dist\/403.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/403.html",
 		"oF": 0
 		},
 	"\/dist\/404.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
@@ -4233,16 +4233,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4272,7 +4262,7 @@
 		},
 	"\/dist\/googlea536b0ce9879dae9.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
@@ -4319,8 +4309,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/logo\/white-alpha-bg.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -4331,12 +4321,12 @@
 		"oAP": "\/dist\/img\/og\/og-image-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/dist\/index.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
@@ -4369,7 +4359,7 @@
 		},
 	"\/dist\/php\/autoVer.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},

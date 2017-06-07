@@ -48,8 +48,7 @@ layout: index-video-splash
 				</div>
 				<div class="specCard-body">
 					<h4><strong>1998 Toyota Supra</strong></h4>
-					<p>3.4L V6 <br>
-					2JZ-GTE Non-VVTi <br>
+					<p>2JZ-GTE Non-VVTi <br>
 					BW EFR 7064 w/ SP Quick Spool Valve</p>
 				</div>
 			</div>
