@@ -68,7 +68,7 @@ layout: index-video-splash
 			<form action="//tacupra.us16.list-manage.com/subscribe/post?u=903b555d6a54b73bf9559f92d&amp;id=39b1037e0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
 				
-				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
 			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 			    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_903b555d6a54b73bf9559f92d_39b1037e0e" tabindex="-1" value=""></div>
 			    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>

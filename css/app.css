@@ -716,6 +716,10 @@ p + .stat { margin-top: -1rem; }
 
 .subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("/img/index/subscribe/toyota.png") center center/contain no-repeat; }
 
+#mc_embed_signup input.email { height: 45px; }
+
+#mc_embed_signup .button { background-color: #DE0E0D; font-size: 20px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; height: 45px; }
+
 html, body { height: 100%; }
 
 .p-0 { padding: 0; }
