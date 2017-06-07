@@ -26,11 +26,10 @@ layout: index-video-splash
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="specCard">
-				<div class="specCard-header" style="position: relative;">
-					<h2 style="position: absolute; bottom: 0;">Build Truck</h2>
-					<div class="image-scrim">
-						<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
-					</div>
+				<div class="specCard-header">
+					<h2><strong>Build Truck</strong></h2>
+					<div class="image-scrim">&nbsp;</div>
+					<img src="/img/index/build-specs/build-truck/tacoma.png" alt="Tacoma Build Truck">
 				</div>
 			</div>
 		</div>
