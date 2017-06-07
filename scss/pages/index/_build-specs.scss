@@ -1,8 +1,12 @@
 @import "../../_settings.scss";
 
 .build-specs {
-	background: #F1F1F1 url('#{$url}/img/index/build-specs/engine-background.jpg') center center/cover no-repeat;
-	
+	background:
+		linear-gradient(
+			rgba(222,14,13,0.50), 
+			rgba(222,14,13,0.50)
+		), url('#{$url}/img/index/build-specs/engine-background.jpg') center center/cover no-repeat;
+
 	h1 {
 		color: #fff;
 		text-shadow: 0 2px 2px rgba(0,0,0,0.50);
