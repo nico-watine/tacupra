@@ -702,17 +702,17 @@ p + .stat { margin-top: -1rem; }
 
 .build-specs { background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
 
-.build-specs h1 { color: #fff; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); text-transform: uppercase; }
+.build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
-.specCard { background: #F7F7F7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 60px; }
+.specCard { background: #F7F7F7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
 
 .specCard-header { position: relative; }
 
-.specCard-header h2 { position: absolute; bottom: 0; padding: 0 20px; color: #fff; z-index: 10; }
+.specCard-header h2 { position: absolute; bottom: 0; padding: 0 1.25rem; color: #fff; z-index: 10; }
 
-.specCard-header .image-scrim { position: absolute; height: 100%; width: 100%; background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0) 0%, rgba(71, 71, 71, 0.5) 72%, #000000 100%); }
+.specCard-header .image-scrim { position: absolute; height: 100%; width: 100%; background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0) 0%, rgba(71, 71, 71, 0.5) 72%, #000 100%); }
 
-.specCard-body { padding: 12px 20px; }
+.specCard-body { padding: 0.75rem 1.25rem; }
 
 html, body { height: 100%; }
 
