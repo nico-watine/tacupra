@@ -4308,9 +4308,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/index\/subscribe\/tacupra.png": {
+		"ft": 32768,
+		"iS": 25653,
+		"oA": 0,
+		"oAP": "\/dist\/img\/index\/subscribe\/tacupra.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/index\/subscribe\/toyota.png": {
 		"ft": 32768,
-		"iS": 46496,
+		"iS": 104476,
 		"oA": 0,
 		"oAP": "\/dist\/img\/index\/subscribe\/toyota.png",
 		"oF": 0,
