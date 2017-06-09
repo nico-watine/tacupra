@@ -4239,16 +4239,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4295,7 +4285,7 @@
 		"oAP": "\/dist\/img\/index\/build-specs\/build-truck\/tacoma.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/build-specs\/engine-background.jpg": {
@@ -4305,7 +4295,7 @@
 		"oAP": "\/dist\/img\/index\/build-specs\/engine-background.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg": {
@@ -4315,7 +4305,7 @@
 		"oAP": "\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/subscribe\/tacupra.png": {
@@ -4324,8 +4314,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/index\/subscribe\/tacupra.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4335,8 +4325,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/index\/subscribe\/toyota.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4347,7 +4337,7 @@
 		"oAP": "\/dist\/img\/index\/triple-image-banner\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/triple-image-banner\/2.jpg": {
@@ -4357,7 +4347,7 @@
 		"oAP": "\/dist\/img\/index\/triple-image-banner\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/triple-image-banner\/3.jpg": {
@@ -4367,7 +4357,7 @@
 		"oAP": "\/dist\/img\/index\/triple-image-banner\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/img\/logo\/white-alpha-bg.png": {
@@ -4376,8 +4366,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/logo\/white-alpha-bg.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4388,7 +4378,7 @@
 		"oAP": "\/dist\/img\/og\/og-image-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/dist\/index.php": {
@@ -4510,7 +4500,7 @@
 		},
 	"\/img\/index\/subscribe\/tacupra.png": {
 		"ft": 32768,
-		"iS": 25653,
+		"iS": 7443,
 		"oA": 0,
 		"oAP": "\/img\/index\/subscribe\/tacupra.png",
 		"oF": 0,
