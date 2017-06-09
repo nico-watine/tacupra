@@ -708,7 +708,7 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .bgvid-container div .gfy-video { position: absolute !important; z-index: 1 !important; top: 50% !important; left: 50% !important; min-width: 100% !important; min-height: 100% !important; -webkit-transform: translateX(-50%) translateY(-50%) !important; transform: translateX(-50%) translateY(-50%) !important; width: auto !important; height: auto !important; }
 
-.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("http://cdn.studionclient.rocks/project/tacupra/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
+.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
@@ -722,9 +722,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .specCard-body { padding: 0.75rem 1.25rem; }
 
-.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("http://cdn.studionclient.rocks/project/tacupra/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
+.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
 
-@media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("http://cdn.studionclient.rocks/project/tacupra/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
+@media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
 
 #mc_embed_signup input.email { height: 2.8125rem; font-size: 1.125rem; border: 1px solid #979797; background: #FEFEFE; box-shadow: inset 0 0 0.0625rem 0.125rem rgba(10, 10, 10, 0.1); }
 
