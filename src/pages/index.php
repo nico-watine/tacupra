@@ -12,7 +12,7 @@ layout: index-video-splash
 <div class="bgvid-container">
 	<div class="row">
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
-			<img src="/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
+			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
 		</div>
 	</div>
 	<div class='gfyitem' data-id='OccasionalDecisiveKoi'></div>
@@ -29,7 +29,7 @@ layout: index-video-splash
 				<div class="specCard-header">
 					<h2><strong>Build Truck</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
-					<img src="/img/index/build-specs/build-truck/tacoma.jpg" alt="Tacoma Build Truck" title="Tacoma Build Truck">
+					<img src="{{ cdn }}/img/index/build-specs/build-truck/tacoma.jpg" alt="Tacoma Build Truck" title="Tacoma Build Truck">
 				</div>
 				<div class="specCard-body">
 					<h4><strong>2001 Toyota Tacoma Xtra Cab</strong></h4>
@@ -44,7 +44,7 @@ layout: index-video-splash
 				<div class="specCard-header">
 					<h2><strong>Swap Engine</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
-					<img src="/img/index/build-specs/swap-engine/supra.jpg" alt="Supra Swap Engine" title="Supra Swap Engine">
+					<img src="{{ cdn }}/img/index/build-specs/swap-engine/supra.jpg" alt="Supra Swap Engine" title="Supra Swap Engine">
 				</div>
 				<div class="specCard-body">
 					<h4><strong>1998 Toyota Supra</strong></h4>
@@ -81,13 +81,13 @@ layout: index-video-splash
 <section class="triple-image-banner">
 	<div class="row expanded collapse">
 		<div class="medium-4 columns">
-			<img src="/img/index/triple-image-banner/1.jpg" alt="">
+			<img src="{{ cdn }}/img/index/triple-image-banner/1.jpg" alt="">
 		</div>
 		<div class="medium-4 columns">
-			<img src="/img/index/triple-image-banner/2.jpg" alt="">
+			<img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="">
 		</div>
 		<div class="medium-4 columns">
-			<img src="/img/index/triple-image-banner/3.jpg" alt="">
+			<img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="">
 		</div>
 	</div>
 </section>
