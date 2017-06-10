@@ -44,7 +44,7 @@ layout: index-video-splash
 				<div class="specCard-header">
 					<h2><strong>Swap Engine</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
-					<img src="{{ cdn }}/img/index/build-specs/swap-engine/supra-2.jpg" alt="Supra Swap Engine" title="Supra Swap Engine">
+					<img src="{{ cdn }}/img/index/build-specs/swap-engine/supra-3.jpg" alt="Supra Swap Engine" title="Supra Swap Engine">
 				</div>
 				<div class="specCard-body">
 					<h4><strong>1998 Toyota Supra</strong></h4>
