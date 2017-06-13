@@ -736,7 +736,7 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .update-post .hero .prose { position: absolute; top: 60%; width: 100%; }
 
-.update-post .hero .prose h1 { text-transform: uppercase; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); letter-spacing: 1px; color: #fff; }
+.update-post .hero .prose h1, .update-post .hero .prose h4 { text-transform: uppercase; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); letter-spacing: 1px; color: #fff; }
 
 html, body { height: 100%; }
 
