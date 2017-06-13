@@ -23,10 +23,12 @@
 			position: absolute;
 			height: 100%;
 			width: 100%;
-			background-image: linear-gradient(-180deg, rgba(245,81,95,0.00) 0%, rgba(187,29,49,0.50) 62%, #9F031B 100%);
+			background: linear-gradient(
+				-180deg, 
+				rgba(245,81,95,0.00) 0%, 
+				rgba(187,29,49,0.50) 62%, 
+				#9F031B 100%),
+				url('#{$url}/img/update-post/template-layout/tacupra-wordmark.png') center bottom/contain no-repeat;
 		}
 	}
 }
-
-
-
