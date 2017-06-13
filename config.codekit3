@@ -4479,6 +4479,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/update-post-template.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/update-post-template.php",
+		"oF": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"mi": 0,
@@ -4957,6 +4963,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/update-post-template-layout.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/update-post-template-layout.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
