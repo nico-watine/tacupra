@@ -732,6 +732,12 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
+.update-post .hero { position: relative; }
+
+.update-post .hero .prose { position: absolute; top: 60%; width: 100%; }
+
+.update-post .hero .prose h1 { text-transform: uppercase; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); letter-spacing: 1px; color: #fff; }
+
 html, body { height: 100%; }
 
 .p-0 { padding: 0; }

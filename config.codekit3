@@ -4666,6 +4666,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/update-post\/template-layout\/hero-max.jpg": {
+		"ft": 16384,
+		"iS": 376882,
+		"oA": 1,
+		"oAP": "\/img\/update-post\/template-layout\/hero-max.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/update-post\/template-layout\/tacupra-wordmark.png": {
 		"ft": 32768,
 		"iS": 50412,
@@ -4966,6 +4976,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_triple-image-banner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/update-post\/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
