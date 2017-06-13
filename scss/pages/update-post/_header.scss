@@ -8,6 +8,7 @@
 			position: absolute;
 			top: 60%;
 			width: 100%;
+			z-index: 10;
 
 			h1,
 			h4 {
@@ -16,6 +17,13 @@
 				letter-spacing: 1px;
 				color: #fff;
 			}
+		}
+
+		.hero-scrim {
+			position: absolute;
+			height: 100%;
+			width: 100%;
+			background-image: linear-gradient(-180deg, rgba(245,81,95,0.00) 0%, rgba(187,29,49,0.50) 62%, #9F031B 100%);
 		}
 	}
 }
