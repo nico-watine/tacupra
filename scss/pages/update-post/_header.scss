@@ -18,6 +18,7 @@
 			position: absolute;
 			width: 100%;
 			z-index: 10;
+			padding: 0 rem-calc(10);
 			@include vertical-center;
 
 			h1,
