@@ -5,6 +5,15 @@
 		&:nth-child(2n) {
 			background: #fdfdfd;
 		}
+
+		&:nth-child(2) {
+			background: #BB3938;
+
+			p {
+				font-weight: 500;
+				color: #fff;
+			}
+		}
 	}
 
 	.row {

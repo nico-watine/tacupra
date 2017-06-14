@@ -29,11 +29,11 @@ layout:
 			</div>
 		</div>
 	</div>
-	<div class="red-container" style="background: #BB3938;">
+	<div class="container">
 		<div class="row">
 			<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
 				<img src="http://i.imgur.com/2idX8KI.jpg" alt="">
-				<p style="font-weight: 500; color: #fff;">Pressing out ball joints with OTC press (Part# 7249)  and Toyota specific ball joint press adapter (Part# 6733). I was unimpressed by the fact that in combination with the relief cup and the Toyota specific adapter the tool could only get one thread to start. But, it did end up working (Just sketchy)</p>
+				<p>Pressing out ball joints with OTC press (Part# 7249)  and Toyota specific ball joint press adapter (Part# 6733). I was unimpressed by the fact that in combination with the relief cup and the Toyota specific adapter the tool could only get one thread to start. But, it did end up working (Just sketchy)</p>
 			</div>
 		</div>
 	</div>
