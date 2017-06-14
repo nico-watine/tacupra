@@ -22,7 +22,7 @@ layout:
 <article>
 	<div class="container">
 		<div class="row">
-			<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
+			<div class="content large-8 large-push-2 columns end">
 				<img src="http://i.imgur.com/wXh51Wo.jpg" alt="">
 				<h5><strong>Stock setup (with Tundra Brakes)</strong></h5>
 				<p>In effort to minimize distracting watermarks I have put urls at the bottom of each image description. Please excuse its repetitive nature, I have just been experiencing issues where only a single image is shared in which there is no reference.</p>

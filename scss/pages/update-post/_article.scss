@@ -29,7 +29,17 @@
 			margin: rem-calc(16) 0;
 		}
 	}
-
-	
 }
 
+.update-post {
+	.row {
+		.content {
+			@include breakpoint(medium) {
+				@include grid-column(10);
+				@include grid-col-pos(1);
+			}
+		}
+	}
+}
+
+// large-8 large-push-2 columns end
