@@ -2,16 +2,23 @@
 
 .update-post {
 	.hero {
+		@include breakpoint(small only) {
+			height: 300px;
+			background: #f1f1f1 url('#') center center/auto 100% no-repeat;
+
+			img {
+				display: none;
+				visibility: hidden;
+			}
+		}
+
 		position: relative;
 
 		.prose {
 			position: absolute;
 			width: 100%;
 			z-index: 10;
-
-			@include breakpoint(medium) {
-				@include vertical-center;
-			}
+			@include vertical-center;
 
 			h1,
 			h4 {
