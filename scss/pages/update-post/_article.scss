@@ -1,2 +1,14 @@
 @import "../../_settings.scss";
 
+.update-post {
+	.row {
+		padding: rem-calc(16) 0;
+
+		img {
+			border: rem-calc(3) solid #fff;
+			box-shadow: $z-1;
+			margin: rem-calc(16) 0;
+		}
+	}
+}
+
