@@ -34,6 +34,8 @@
 .update-post {
 	.row {
 		.content {
+			@include grid-col;
+			
 			@include breakpoint(medium) {
 				@include grid-column(10);
 				@include grid-col-pos(1);
