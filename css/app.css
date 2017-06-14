@@ -734,7 +734,7 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .update-post .hero { position: relative; }
 
-@media screen and (max-width: 39.9375em) { .update-post .hero { height: 300px; background: #f1f1f1 url("#") center center/auto 100% no-repeat; }
+@media screen and (max-width: 39.9375em) { .update-post .hero { height: 22.5rem; background: #f1f1f1 url("#") center center/auto 100% no-repeat; }
   .update-post .hero img { display: none; visibility: hidden; } }
 
 .update-post .hero .prose { position: absolute; width: 100%; z-index: 10; padding: 0 0.625rem; position: absolute; top: 50%; transform: translateY(-50%); }

@@ -3,7 +3,7 @@
 .update-post {
 	.hero {
 		@include breakpoint(small only) {
-			height: 300px;
+			height: rem-calc(360);
 			background: #f1f1f1 url('#') center center/auto 100% no-repeat;
 
 			img {
