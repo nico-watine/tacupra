@@ -734,7 +734,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .update-post .hero { position: relative; }
 
-.update-post .hero .prose { position: absolute; top: 60%; width: 100%; z-index: 10; }
+.update-post .hero .prose { position: absolute; width: 100%; z-index: 10; }
+
+@media print, screen and (min-width: 40em) { .update-post .hero .prose { position: absolute; top: 50%; transform: translateY(-50%); } }
 
 .update-post .hero .prose h1, .update-post .hero .prose h4 { text-transform: uppercase; text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5); letter-spacing: 1px; color: #fff; }
 

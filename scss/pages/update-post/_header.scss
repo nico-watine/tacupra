@@ -6,9 +6,12 @@
 
 		.prose {
 			position: absolute;
-			top: 60%;
 			width: 100%;
 			z-index: 10;
+
+			@include breakpoint(medium) {
+				@include vertical-center;
+			}
 
 			h1,
 			h4 {
