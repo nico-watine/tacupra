@@ -742,6 +742,8 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .update-post .row { padding: 1rem 0; }
 
+@media screen and (max-width: 39.9375em) { .update-post .row { padding: 1rem 0.5rem; } }
+
 .update-post .row img { border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin: 1rem 0; }
 
 html, body { height: 100%; }

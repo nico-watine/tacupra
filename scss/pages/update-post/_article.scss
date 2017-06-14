@@ -2,6 +2,10 @@
 
 .update-post {
 	.row {
+		@include breakpoint(small only) {
+			padding: rem-calc(16) rem-calc(8);
+		}
+
 		padding: rem-calc(16) 0;
 
 		img {
