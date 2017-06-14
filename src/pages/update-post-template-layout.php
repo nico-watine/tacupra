@@ -35,10 +35,12 @@ layout:
 			</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
-			<img src="http://i.imgur.com/rq8U3EF.jpg" alt="">
-			<p>Upper ball joints pressed out of the spindle. </p>
+	<div class="container" style="background: #fff;">
+		<div class="row">
+			<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
+				<img src="http://i.imgur.com/rq8U3EF.jpg" alt="">
+				<p>Upper ball joints pressed out of the spindle. </p>
+			</div>
 		</div>
 	</div>
 	<div class="row">
