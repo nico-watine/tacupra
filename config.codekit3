@@ -4239,6 +4239,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4406,6 +4416,26 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/dist\/img\/svg-assets\/supra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/svg-assets\/supra\/vertical\/supra-clipped-f1f1f1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra\/vertical\/supra-clipped-f1f1f1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -4664,6 +4694,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/svg-assets\/supra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
