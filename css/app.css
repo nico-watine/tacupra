@@ -745,7 +745,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .update-post .container:nth-child(2n) { background: #fdfdfd; }
 
-.update-post .container:nth-child(2) { background: #bb3938 url("/img/svg-assets/supra/vertical/supra-clipped-f1f1f1.svg") left top/contain no-repeat; }
+.update-post .container:nth-child(2) { background: #bb3938 url("/img/svg-assets/supra/supra-clipped-f1f1f1.svg") center top/contain no-repeat; }
+
+@media print, screen and (min-width: 64em) { .update-post .container:nth-child(2) { background: #bb3938 url("/img/svg-assets/supra/vertical/supra-clipped-f1f1f1.svg") left top/contain no-repeat; } }
 
 .update-post .container:nth-child(2) p { font-weight: 500; color: #fff; }
 
