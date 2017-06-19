@@ -3,5 +3,23 @@
 .update-post {
 	footer {
 		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') center top/cover no-repeat;
+
+		a.colophon {
+			color: #F1F1F1;
+			letter-spacing: 2px;
+			font-size: 12px;
+			text-transform: uppercase;
+			line-height: 36px;
+
+			span {
+				text-decoration: underline;
+			}
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 }
+
+

@@ -152,4 +152,9 @@ layout:
 			<h5><a style="color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase;" href="#">Build Progress</a></h5>
 		</div>
 	</div>
+	<div class="row">
+		<div class="columns text-center">
+			<a class="colophon" href="http://studioncreations.com/">A <span>Studio N</span> Creation</a>	
+		</div>
+	</div>
 </footer>
