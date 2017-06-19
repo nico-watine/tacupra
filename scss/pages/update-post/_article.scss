@@ -2,15 +2,23 @@
 
 .update-post {
 	.container {
+		&:hover {
+			background: #f9f9f9;
+		}
+
 		&:nth-child(2n) {
 			background: #fdfdfd;
+
+			&:hover {
+				background: #fafafa;
+			}
 		}
 
 		&:nth-child(2) {
-			background: #bb3938 url('#{$url}/img/svg-assets/supra/supra-clipped-922829.svg') center bottom/contain no-repeat;
+			background: #bb3938 url('#{$url}/img/svg-assets/supra/supra-clipped-922829.svg') center bottom/contain no-repeat !important;
 
 			@include breakpoint(large) {
-				background: #bb3938 url('#{$url}/img/svg-assets/supra/vertical/supra-clipped-f1f1f1.svg') left top/contain no-repeat;
+				background: #bb3938 url('#{$url}/img/svg-assets/supra/vertical/supra-clipped-f1f1f1.svg') left top/contain no-repeat !important;
 			}
 
 			p {
