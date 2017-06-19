@@ -789,6 +789,8 @@ footer.colophon a:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 40em) { .update-post footer { background-position: center top; } }
 
+@media print, screen and (min-width: 64em) { .update-post footer { background-size: cover; } }
+
 .update-post footer h5 a { color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase; }
 
 .update-post footer a.colophon { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
