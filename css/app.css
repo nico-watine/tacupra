@@ -785,6 +785,8 @@ footer.colophon a:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 64em) { .update-post .row .content:last-child:not(:first-child) { float: right; } }
 
+.update-post footer { background: #282B2F url("/img/update-post/template-layout/footer/tacupra-wordmark.png") center top/cover no-repeat; }
+
 html, body { height: 100%; }
 
 .p-0 { padding: 0; }

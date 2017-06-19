@@ -1,2 +1,7 @@
 @import "../../_settings.scss";
 
+.update-post {
+	footer {
+		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') center top/cover no-repeat;
+	}
+}
