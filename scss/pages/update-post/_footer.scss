@@ -4,6 +4,14 @@
 	footer {
 		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') center top/cover no-repeat;
 
+		h5 {
+			a {
+				color: #f5f5f5;
+				letter-spacing: 1.5px;
+				text-transform: uppercase;
+			}
+		}
+
 		a.colophon {
 			color: #F1F1F1;
 			letter-spacing: 2px;
