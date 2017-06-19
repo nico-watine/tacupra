@@ -145,11 +145,11 @@ layout:
 		</div>
 	</div>
 </article>
-<footer>
+<footer style="padding-top: 30px;">
 	<div class="row">
-		<div class="columns">
-			<h5><a href="/">Home</a></h5>
-			<h5><a href="#">Build Progress</a></h5>
+		<div class="columns text-center medium-text-left">
+			<h5><a style="color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase;" href="/">Home</a></h5>
+			<h5><a style="color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase;" href="#">Build Progress</a></h5>
 		</div>
 	</div>
 </footer>
