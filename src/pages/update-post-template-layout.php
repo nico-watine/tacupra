@@ -145,3 +145,11 @@ layout:
 		</div>
 	</div>
 </article>
+<footer>
+	<div class="row">
+		<div class="columns">
+			<h5><a href="/">Home</a></h5>
+			<h5><a href="#">Build Progress</a></h5>
+		</div>
+	</div>
+</footer>

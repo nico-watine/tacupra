@@ -28,34 +28,38 @@
 		}
 	}
 
-	.row {
-		@include breakpoint(small only) {
-			padding: rem-calc(16) rem-calc(8);
-		}
+	article {
+		.row {
+			@include breakpoint(small only) {
+				padding: rem-calc(16) rem-calc(8);
+			}
 
-		padding: rem-calc(16) 0;
+			padding: rem-calc(16) 0;
 
-		img {
-			border: rem-calc(3) solid #fff;
-			box-shadow: $z-1;
-			margin: rem-calc(16) 0;
+			img {
+				border: rem-calc(3) solid #fff;
+				box-shadow: $z-1;
+				margin: rem-calc(16) 0;
+			}
 		}
 	}
 }
 
 .update-post {
-	.row {
-		.content {
-			@include grid-col;
-			
-			@include breakpoint(medium) {
-				@include grid-column(10);
-				@include grid-col-pos(1);
-			}
+	article {
+		.row {
+			.content {
+				@include grid-col;
+				
+				@include breakpoint(medium) {
+					@include grid-column(10);
+					@include grid-col-pos(1);
+				}
 
-			@include breakpoint(large) {
-				@include grid-column(8);
-				@include grid-col-pos(2);
+				@include breakpoint(large) {
+					@include grid-column(8);
+					@include grid-col-pos(2);
+				}
 			}
 		}
 	}
