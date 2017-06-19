@@ -5,7 +5,7 @@
 		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') left top/auto 100% no-repeat;
 
 		@include breakpoint(medium) {
-			background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') center top/auto 100% no-repeat;
+			background-position: center top;
 		}
 
 		h5 {
