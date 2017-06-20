@@ -785,7 +785,7 @@ footer.colophon a:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 64em) { .update-post article .row .content:last-child:not(:first-child) { float: right; } }
 
-.update-post footer { background: #282B2F url("/img/update-post/template-layout/footer/tacupra-wordmark.png") left top/auto 100% no-repeat; }
+.update-post footer { background: #282B2F url("/img/update-post/template-layout/footer/tacupra.svg") left top/auto 100% no-repeat; }
 
 @media print, screen and (min-width: 40em) { .update-post footer { background-position: center top; } }
 

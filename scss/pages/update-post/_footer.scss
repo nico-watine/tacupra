@@ -2,7 +2,7 @@
 
 .update-post {
 	footer {
-		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra-wordmark.png') left top/auto 100% no-repeat;
+		background: #282B2F url('#{$url}/img/update-post/template-layout/footer/tacupra.svg') left top/auto 100% no-repeat;
 
 		@include breakpoint(medium) {
 			background-position: center top;
