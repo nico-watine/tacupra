@@ -15,10 +15,10 @@
 		}
 
 		&:nth-child(2) {
-			background: #bb3938 url('#{$url}/img/svg-assets/supra/supra-clipped-922829.svg') center bottom/contain no-repeat !important;
+			background: #bb3938 url('#{$url}/img/update-post/assets/article/container-2/supra.svg') center bottom/contain no-repeat !important;
 
 			@include breakpoint(large) {
-				background: #bb3938 url('#{$url}/img/svg-assets/supra/vertical/supra-clipped-f1f1f1.svg') left top/contain no-repeat !important;
+				background: #bb3938 url('#{$url}/img/update-post/assets/article/container-2/breakpoint-large/supra.svg') left top/contain no-repeat !important;
 			}
 
 			p {
