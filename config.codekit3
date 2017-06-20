@@ -4239,16 +4239,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4451,71 +4441,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint(large)\/supra-large.svg": {
+	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint-large\/supra.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint(large)\/supra-large.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakPoint-large\/supra-large.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/breakPoint-large\/supra-large.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakPoint-large\/supra.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/breakPoint-large\/supra.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/supra-clipped-922829.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/supra-clipped-922829.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/supra-clipped-f1f1f1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/supra-clipped-f1f1f1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/supra-large.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/supra-large.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/assets\/article\/container-2\/supra-small.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/supra-small.svg",
+		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint-large\/supra.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -4551,26 +4481,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"\/dist\/img\/update-post\/template-layout\/footer\/tacupra-wordmark.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/template-layout\/footer\/tacupra-wordmark.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/img\/update-post\/template-layout\/footer\/tacupra.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/update-post\/template-layout\/footer\/tacupra.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/dist\/img\/update-post\/template-layout\/hero-image.png": {
 		"ft": 32768,
