@@ -7,7 +7,7 @@
 		"uuidString": "2CAE26B9-B39D-4B10-AA5A-AE8B8C1BE057"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/.babelrc": {
 		"ft": 8192,
@@ -4401,6 +4401,46 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/svg-assets\/supra.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/svg-assets\/supra\/supra-clipped-922829.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra\/supra-clipped-922829.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra\/supra-clipped-f1f1f1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/svg-assets\/supra\/vertical\/supra-clipped-f1f1f1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/svg-assets\/supra\/vertical\/supra-clipped-f1f1f1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint-large\/supra.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4441,6 +4481,28 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/dist\/img\/update-post\/template-layout\/footer\/tacupra-wordmark.png": {
+		"ft": 32768,
+		"iS": 23417,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/template-layout\/footer\/tacupra-wordmark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/template-layout\/hero-image.png": {
+		"ft": 32768,
+		"iS": 1167846,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/template-layout\/hero-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/update-post\/template-layout\/hero-max.jpg": {
 		"ft": 16384,
 		"iS": 376882,
@@ -4459,6 +4521,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/template-layout\/tacupra-wordmark.png": {
+		"ft": 32768,
+		"iS": 50412,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/template-layout\/tacupra-wordmark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/dist\/index.php": {
@@ -7090,6 +7163,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
