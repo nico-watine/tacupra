@@ -14,7 +14,7 @@ layout:
 		<div class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
-					<li><img src="/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon" style="height: 50px; width: 50px;"></li>
+					<li class="logo-icon"><img src="/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
 					<li><a href="/">Home</a></li>
 					<li><a href="#">Build Progress</a></li>
 					<li><a href="#">About</a></li>
