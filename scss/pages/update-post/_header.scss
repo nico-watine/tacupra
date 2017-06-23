@@ -6,13 +6,26 @@
 
 .update-post {
 	nav {
+		.title-bar {
+			.menu-icon {
+				// margin-top: 5px;
+				width: 30px;
+				height: 40px;
+
+				&:after {
+					height: 4px;
+					box-shadow: 0 10px 0 #fefefe, 0 20px 0 #fefefe;
+					top: 8px;
+				}
+			}
+		}
 		.logo-icon {
 			img {
 				width: 50px;
 				height: 50px;
 			}
 		}
-		
+
 		a {
 			color: #fff;
 			font-size: rem-calc(20);

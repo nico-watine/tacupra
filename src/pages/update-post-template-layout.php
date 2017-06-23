@@ -11,10 +11,14 @@ layout:
 ---
 <header>
 	<nav>
-		<div class="top-bar">
+		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+			<div class="title-bar-title"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon" style="height: 40px; width: 40px;"></div>
+			<button class="float-right menu-icon" type="button" data-toggle="main-menu"></button>
+		</div>
+		<div class="top-bar" id="main-menu">
 			<div class="top-bar-left">
-				<ul class="dropdown menu" data-dropdown-menu>
-					<li class="logo-icon"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
+				<ul class="text-right vertical medium-horizontal menu">
+					<li class="show-for-medium logo-icon"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
 					<li><a href="/">Home</a></li>
 					<li><a href="#">Build Progress</a></li>
 					<li><a href="#">About</a></li>
