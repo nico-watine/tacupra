@@ -1919,15 +1919,19 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
+.update-post nav .title-bar .title-bar-title a { padding: 0; }
+
+.update-post nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }
+
 .update-post nav .title-bar .menu-icon { width: 30px; height: 40px; }
 
 .update-post nav .title-bar .menu-icon:after { height: 4px; box-shadow: 0 10px 0 #fefefe, 0 20px 0 #fefefe; top: 8px; }
 
-.update-post nav .logo-icon img { width: 50px; height: 50px; }
+.update-post nav .top-bar .logo-icon img { width: 50px; height: 50px; }
 
-.update-post nav a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; line-height: 3.125rem; padding: 0 1rem; font-weight: bold; text-transform: uppercase; }
+.update-post nav .top-bar a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; line-height: 3.125rem; padding: 0 1rem; font-weight: bold; text-transform: uppercase; }
 
-.update-post nav a:hover { color: #0a0a0a; background-color: #fff; }
+.update-post nav .top-bar a:hover { color: #0a0a0a; background-color: #fff; }
 
 .update-post .hero { position: relative; }
 
