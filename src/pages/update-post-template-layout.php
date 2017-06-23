@@ -13,7 +13,7 @@ layout:
 	<nav>
 		<div class="top-bar">
 			<div class="top-bar-left">
-				<ul class="menu">
+				<ul class="dropdown menu" data-dropdown-menu>
 					<li class="logo-icon"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
 					<li><a href="/">Home</a></li>
 					<li><a href="#">Build Progress</a></li>
