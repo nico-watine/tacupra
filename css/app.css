@@ -1753,7 +1753,7 @@ a.thumbnail image { box-shadow: none; }
 
 .top-bar::after { clear: both; }
 
-.top-bar, .top-bar ul { background-color: #e6e6e6; }
+.top-bar, .top-bar ul { background-color: #282B2F; }
 
 .top-bar input { max-width: 200px; margin-right: 1rem; }
 
@@ -1918,6 +1918,8 @@ footer.colophon a:hover { text-decoration: underline; }
 #mc_embed_signup .button { background-color: #DE0E0D; font-size: 1.25rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.0625rem; height: 2.8125rem; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
+
+.update-post nav a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; font-weight: bold; text-transform: uppercase; }
 
 .update-post .hero { position: relative; }
 

@@ -1,5 +1,26 @@
 @import "../../_settings.scss";
 
+// ---------------------------------
+// |            nav-bar            |
+// ---------------------------------
+
+.update-post {
+	nav {
+		a {
+			color: #fff;
+			font-size: rem-calc(20);
+			letter-spacing: rem-calc(1);
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+	}
+}
+
+
+// ---------------------------------------
+// |            hero-image ::            |
+// ---------------------------------------
+
 .update-post {
 	.hero {
 		@include breakpoint(small only) {
