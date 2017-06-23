@@ -1747,7 +1747,7 @@ a.thumbnail image { box-shadow: none; }
 
 .tooltip.right::before { display: block; width: 0; height: 0; border: inset 0.75rem; content: ''; border-left-width: 0; border-right-style: solid; border-color: transparent #0a0a0a transparent transparent; top: 50%; right: 100%; bottom: auto; left: auto; transform: translateY(-50%); }
 
-.top-bar { padding: 0.5rem; }
+.top-bar { padding: 0; }
 
 .top-bar::before, .top-bar::after { display: table; content: ' '; }
 
