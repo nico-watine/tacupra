@@ -1919,7 +1919,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
-.update-post nav a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; font-weight: bold; text-transform: uppercase; }
+.update-post nav a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; line-height: 3.125rem; padding: 0 1rem; font-weight: bold; text-transform: uppercase; }
+
+.update-post nav a:hover { color: #0a0a0a; background-color: #fff; }
 
 .update-post .hero { position: relative; }
 
