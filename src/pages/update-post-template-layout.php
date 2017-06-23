@@ -10,6 +10,15 @@ body-class: update-post
 layout: 
 ---
 <header>
+	<nav class="row">
+		<div class="columns">
+			<ul class="menu">
+				<li><a href="/">Home</a></li>
+				<li><a href="#">Build Progress</a></li>
+				<li><a href="#">About</a></li>
+			</ul>
+		</div>
+	</nav>
 	<div class="hero" style="background-image: url(/img/update-post/template-layout/hero.jpg);">
 		<div class="prose text-center">
 			<h1><strong>2001 Toyota Tacoma Suspension</strong></h1>
