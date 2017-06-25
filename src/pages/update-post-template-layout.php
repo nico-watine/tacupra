@@ -7,7 +7,7 @@ og-description:
 og-image: 
 body-id: 
 body-class: update-post
-layout: 
+layout: updatePost
 ---
 <header>
 	<div class="hero" style="background-image: url(/img/update-post/template-layout/hero.jpg);">
