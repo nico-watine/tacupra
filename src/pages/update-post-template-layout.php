@@ -138,16 +138,3 @@ upload-date: Uploaded March 18 2016
 		</div>
 	</div>
 </article>
-<footer>
-	<div class="row" style="padding: 30px 0;">
-		<div class="columns text-center medium-text-left">
-			<h5><a href="/">Home</a></h5>
-			<!-- <h5><a href="#">Build Progress</a></h5> -->
-		</div>
-	</div>
-	<div class="row">
-		<div class="columns text-center">
-			<a class="colophon" href="http://studioncreations.com/">A <span>Studio N</span> Creation</a>	
-		</div>
-	</div>
-</footer>
