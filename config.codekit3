@@ -5162,6 +5162,12 @@
 		"oA": 0,
 		"oAP": "\/src\/partials\/google-tracking-id.html",
 		"oF": 0
+		},
+	"\/src\/partials\/updatePost-nav.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/updatePost-nav.html",
+		"oF": 0
 		}
 	},
 "hooks": [
