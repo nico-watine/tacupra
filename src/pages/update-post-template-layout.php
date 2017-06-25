@@ -8,6 +8,9 @@ og-image:
 body-id: 
 body-class: update-post
 layout: updatePost
+hero-background-image: 
+post-title: 
+upload-date: 
 ---
 <article>
 	<div class="container">
