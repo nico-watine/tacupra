@@ -9,23 +9,23 @@ body-id:
 body-class: update-post
 layout: 
 ---
+<nav>
+	<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+		<div class="title-bar-title"><a href="/"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></a></div>
+		<button class="float-right menu-icon" type="button" data-toggle="main-menu"></button>
+	</div>
+	<div class="top-bar" id="main-menu">
+		<div class="top-bar-left">
+			<ul class="text-right vertical medium-horizontal menu">
+				<li class="show-for-medium logo-icon"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
+				<li><a href="/">Home</a></li>
+				<li><a href="#">Build Progress</a></li>
+				<li><a href="#">About</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
 <header>
-	<nav>
-		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
-			<div class="title-bar-title"><a href="/"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></a></div>
-			<button class="float-right menu-icon" type="button" data-toggle="main-menu"></button>
-		</div>
-		<div class="top-bar" id="main-menu">
-			<div class="top-bar-left">
-				<ul class="text-right vertical medium-horizontal menu">
-					<li class="show-for-medium logo-icon"><img src="{{ cdn }}/img/update-post/assets/header/nav/ts-icon.png" alt="TS Icon"></li>
-					<li><a href="/">Home</a></li>
-					<li><a href="#">Build Progress</a></li>
-					<li><a href="#">About</a></li>
-				</ul>
-			</div>
-		</div>
-	</nav>
 	<div class="hero" style="background-image: url(/img/update-post/template-layout/hero.jpg);">
 		<div class="prose text-center">
 			<h1><strong>2001 Toyota Tacoma Suspension</strong></h1>
