@@ -8,7 +8,7 @@ og-image:
 body-id: 
 body-class: update-post
 layout: updatePost
-hero-background-image: 
+hero-background-image: /img/update-post/template-layout/hero.jpg
 post-title: 
 upload-date: 
 ---
