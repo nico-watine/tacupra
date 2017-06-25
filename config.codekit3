@@ -5133,6 +5133,12 @@
 		"oAP": "\/src\/layouts\/index-video-splash.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/updatePost.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/updatePost.html",
+		"oF": 0
+		},
 	"\/src\/pages\/index.php": {
 		"ft": 8192,
 		"oA": 0,
