@@ -9,8 +9,8 @@ body-id:
 body-class: update-post
 layout: updatePost
 hero-background-image: /img/update-post/template-layout/hero.jpg
-post-title: 
-upload-date: 
+post-title: 2001 Toyota Tacoma Suspension
+upload-date: Uploaded March 18 2016
 ---
 <article>
 	<div class="container">
