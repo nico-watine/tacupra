@@ -91,6 +91,19 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
+<section class="updatePost-links">
+	<div class="row expanded collapse">
+		<div class="medium-4 columns">
+			<img src="{{ cdn }}/img/index/triple-image-banner/1.jpg" alt="">
+		</div>
+		<div class="medium-4 columns">
+			<img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="">
+		</div>
+		<div class="medium-4 columns">
+			<img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="">
+		</div>
+	</div>
+</section>
 <footer class="colophon text-center">
 	<a href="http://studioncreations.com/">A <span>Studio N</span> Creation</a>
 </footer>
