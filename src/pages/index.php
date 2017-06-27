@@ -78,29 +78,27 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
-<section class="triple-image-banner">
-	<div class="row expanded collapse">
-		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/1.jpg" alt="">
-		</div>
-		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="">
-		</div>
-		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="">
-		</div>
-	</div>
-</section>
 <section class="updatePost-links">
 	<div class="row expanded collapse">
 		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/1.jpg" alt="">
+			<div class="postLink-card">
+				<div class="card-overlay">
+					
+				</div>
+				<div class="card-base">
+					<img src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
+					<div class="card-header">
+						<h4><strong>Suspension</strong></h4>
+						<div class="plus float-right"></div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="">
+			<!-- <img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt=""> -->
 		</div>
 		<div class="medium-4 columns">
-			<img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="">
+			<!-- <img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt=""> -->
 		</div>
 	</div>
 </section>

@@ -1919,6 +1919,12 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
+.postLink-card .card-base .card-header { background: #D8D8D8; padding-left: 1.25rem; }
+
+.postLink-card .card-base .card-header h4 { line-height: 3.125rem; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0; display: inline-block; }
+
+.postLink-card .card-base .card-header .plus { width: 50px; height: 50px; background: #333 url("/img/index/updatePost-links/plus.svg") center center/cover no-repeat; }
+
 .update-post nav .title-bar .title-bar-title a { padding: 0; }
 
 .update-post nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }
