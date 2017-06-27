@@ -4239,6 +4239,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/build-progress.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress.php",
+		"oF": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5137,6 +5143,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/layouts\/updatePost.html",
+		"oF": 0
+		},
+	"\/src\/pages\/build-progress.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/build-progress.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
