@@ -4,7 +4,7 @@ title: 2001 Toyota Tacoma Suspension
 description: Check out the mega-upgrade done on Tacupra's stock Tacoma suspension
 og-title: 2001 Toyota Tacoma Suspension
 og-description: Check out the mega-upgrade done on Tacupra's stock Tacoma suspension
-og-image: /img/og/og-image-1.jpg
+og-image: /img/update-post/2001-toyota-tacoma-suspension/og-image-1.png
 body-id: 
 body-class: update-post
 layout: updatePost
