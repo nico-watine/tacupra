@@ -8,7 +8,7 @@ og-image: /img/og/og-image-1.jpg
 body-id: 
 body-class: update-post
 layout: updatePost
-hero-background-image: /img/update-post/template-layout/hero.jpg
+hero-background-image: /img/update-post/2001-toyota-tacoma-suspension/hero.jpg
 post-title: 2001 Toyota Tacoma Suspension
 upload-date: Uploaded March 18 2016
 ---
