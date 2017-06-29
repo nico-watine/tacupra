@@ -1919,7 +1919,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
-.postLink-card#style-2 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+.postLink-card#style-2 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px; }
+
+.postLink-card#style-2 .prose { padding: 1rem; }
 
 .postLink-card#style-2 .prose .post-title { letter-spacing: 0.0625rem; text-transform: uppercase; }
 
