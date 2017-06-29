@@ -80,14 +80,11 @@ ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
 
-    RewriteEngine On
-    Options +FollowSymlinks
+  RewriteEngine On
+  Options +FollowSymlinks
 
-    # (1)
-    RewriteCond %{HTTPS} =on
-    RewriteRule ^ - [env=proto:https]
-    RewriteCond %{HTTPS} !=on
-    RewriteRule ^ - [env=proto:http]
+  # RewriteCond %{HTTPS} !=on
+  # RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
 </IfModule>
 
