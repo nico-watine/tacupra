@@ -1925,7 +1925,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .postLink-card#style-2 .prose .post-title { letter-spacing: 0.0625rem; text-transform: uppercase; }
 
-.postLink-card#style-2 .prose .post-link { font-size: 1.25rem; line-height: 1.25rem; background: #9F031B; border-radius: 0.25rem; max-width: 13.75rem; width: 100%; display: inline-block; color: #fff; padding: 0.75rem 0; }
+.postLink-card#style-2 .prose .post-link { font-size: 1rem; line-height: 1.25rem; background: #9F031B; border-radius: 0.25rem; max-width: 13.75rem; width: 100%; display: inline-block; color: #fff; padding: 0.75rem 0; }
+
+@media print, screen and (min-width: 40em) { .postLink-card#style-2 .prose .post-link { font-size: 1.25rem; } }
 
 .update-post nav .title-bar .title-bar-title a { padding: 0; }
 

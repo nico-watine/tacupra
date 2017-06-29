@@ -16,7 +16,7 @@
 		}
 
 		.post-link {
-			font-size: rem-calc(20);
+			font-size: rem-calc(16);
 			line-height: rem-calc(20);
 			background: #9F031B;
 			border-radius: rem-calc(4);
@@ -25,6 +25,10 @@
 			display: inline-block;
 			color: #fff;
 			padding: rem-calc(12) 0;
+
+			@include breakpoint(medium) {
+				font-size: rem-calc(20);
+			}
 		}
 	}
 }
