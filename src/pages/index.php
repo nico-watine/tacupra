@@ -78,10 +78,10 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
-<section class="updatePost-links">
-	<div class="row expanded collapse">
-		<div class="medium-4 columns">
-			<div class="postLink-card">
+<section class="updatePost-links" style="margin-bottom: 20px;">
+	<div class="row expanded">
+		<div class="medium-6 large-4 columns">
+			<div class="postLink-card" id="style-1">
 				<div class="card-overlay">
 					
 				</div>
@@ -89,16 +89,23 @@ layout: index-video-splash
 					<img src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 					<div class="card-header">
 						<h4><strong>Suspension</strong></h4>
-						<div class="plus float-right"></div>
+						<!-- <div class="plus float-right"></div> -->
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="medium-4 columns">
-			<!-- <img src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt=""> -->
+		<div class="medium-6 large-4 columns">
+			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px;">
+				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
+				<div class="prose" style="padding: 16px;">
+					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
+					<!-- <div class="post-link"></div> -->
+					<a href="#" class="post-link">Build Update</a>
+				</div>
+			</div>
 		</div>
-		<div class="medium-4 columns">
-			<!-- <img src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt=""> -->
+		<div class="medium-6 large-4 columns">
+			&nbsp;
 		</div>
 	</div>
 </section>

@@ -1919,11 +1919,19 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
-.postLink-card .card-base .card-header { background: #D8D8D8; padding-left: 1.25rem; }
+.postLink-card#style-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9F031B; border-radius: 0.1875rem; }
 
-.postLink-card .card-base .card-header h4 { line-height: 3.125rem; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0; display: inline-block; }
+.postLink-card#style-1 .card-base .card-header { background: #fff; padding-left: 1.25rem; }
 
-.postLink-card .card-base .card-header .plus { width: 50px; height: 50px; background: #333 url("/img/index/updatePost-links/plus.svg") center center/cover no-repeat; }
+.postLink-card#style-1 .card-base .card-header h4 { line-height: 3.125rem; letter-spacing: 0.0625rem; text-transform: uppercase; margin: 0; display: inline-block; }
+
+.postLink-card#style-1 .card-base .card-header .plus { width: 50px; height: 50px; background: #333 url("/img/index/updatePost-links/plus.svg") center center/cover no-repeat; }
+
+.postLink-card#style-2 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
+.postLink-card#style-2 .prose .post-title { letter-spacing: 0.0625rem; text-transform: uppercase; }
+
+.postLink-card#style-2 .prose .post-link { font-size: 1.25rem; line-height: 1.25rem; background: #9F031B; border-radius: 4px; max-width: 220px; width: 100%; display: inline-block; text-align: center; color: #fff; padding: 0.75rem 0; }
 
 .update-post nav .title-bar .title-bar-title a { padding: 0; }
 
