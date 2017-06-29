@@ -3,13 +3,13 @@
 
 .postLink-card#style-2 {
 	box-shadow: $z-1;
-	border: 3px solid #9F031B; 
-	border-radius: 4px; 
-	margin-bottom: 30px;
+	border: rem-calc(3) solid #9F031B; 
+	border-radius: rem-calc(4); 
+	margin-bottom: rem-calc(30);
 
 	.prose {
 		padding: rem-calc(16);
-		
+
 		.post-title {
 			letter-spacing: rem-calc(1);
 			text-transform: uppercase;
@@ -19,8 +19,8 @@
 			font-size: rem-calc(20);
 			line-height: rem-calc(20);
 			background: #9F031B;
-			border-radius: 4px;
-			max-width: 220px;
+			border-radius: rem-calc(4);
+			max-width: rem-calc(220);
 			width: 100%;
 			display: inline-block;
 			text-align: center;
