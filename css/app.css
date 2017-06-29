@@ -1931,6 +1931,10 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .postLink-card .prose .post-link:hover { background: #000; }
 
+.postLink-card .prose .post-link.inactive { cursor: default; }
+
+.postLink-card .prose .post-link.inactive:hover { background: #9F031B; }
+
 .update-post nav .title-bar .title-bar-title a { padding: 0; }
 
 .update-post nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }

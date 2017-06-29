@@ -94,7 +94,7 @@ layout: index-video-splash
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
 					<h4 class="post-title"><strong>Turbo Placement</strong></h4>
-					<a href="#" class="post-link text-center">Upcoming</a>
+					<a href="#" class="post-link text-center inactive">Upcoming</a>
 				</div>
 			</div>
 		</div>
@@ -103,7 +103,7 @@ layout: index-video-splash
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
 					<h4 class="post-title"><strong>Engine Swap</strong></h4>
-					<a href="#" class="post-link text-center">Upcoming</a>
+					<a href="#" class="post-link text-center inactive">Upcoming</a>
 				</div>
 			</div>
 		</div>
