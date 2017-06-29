@@ -80,8 +80,8 @@ layout: index-video-splash
 </section>
 <section class="updatePost-links">
 	<div class="row expanded">
-		<div class="medium-6 large-4 columns">
-			<div class="postLink-card" id="style-1" style="margin-bottom: 20px;">
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+			<div class="postLink-card" id="style-1" style="margin-bottom: 30px;">
 				<div class="card-overlay">
 					
 				</div>
@@ -94,8 +94,8 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 large-4 columns">
-			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 20px;">
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose" style="padding: 16px;">
 					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
@@ -103,8 +103,14 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 large-4 columns">
-			&nbsp;
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;">
+				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
+				<div class="prose" style="padding: 16px;">
+					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
+					<a href="#" class="post-link">Build Update</a>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
