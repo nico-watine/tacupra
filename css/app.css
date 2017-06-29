@@ -1929,6 +1929,8 @@ footer.colophon a:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 40em) { .postLink-card#style-2 .prose .post-link { font-size: 1.25rem; } }
 
+.postLink-card#style-2 .prose .post-link:hover { background: #000; }
+
 .update-post nav .title-bar .title-bar-title a { padding: 0; }
 
 .update-post nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }

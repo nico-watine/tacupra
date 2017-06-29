@@ -29,6 +29,10 @@
 			@include breakpoint(medium) {
 				font-size: rem-calc(20);
 			}
+
+			&:hover {
+				background: #000;
+			}
 		}
 	}
 }
