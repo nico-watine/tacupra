@@ -89,7 +89,7 @@ layout: index-video-splash
 					<img src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 					<div class="card-header">
 						<h4><strong>Suspension</strong></h4>
-						<!-- <div class="plus float-right"></div> -->
+						<div class="plus float-right"></div>
 					</div>
 				</div>
 			</div>
