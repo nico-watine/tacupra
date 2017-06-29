@@ -79,9 +79,9 @@ layout: index-video-splash
 	</div>
 </section>
 <section class="updatePost-links">
-	<div class="row expanded">
+	<div class="row expanded" data-equalizer>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card" id="style-1" style="margin-bottom: 30px;">
+			<div class="postLink-card" id="style-1" style="margin-bottom: 30px;" data-equalizer-watch>
 				<div class="card-overlay">
 					
 				</div>
@@ -95,7 +95,7 @@ layout: index-video-splash
 			</div>
 		</div>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;">
+			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;" data-equalizer-watch>
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose" style="padding: 16px;">
 					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
@@ -103,8 +103,8 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;">
+		<div class="medium-8 medium-push-2 large-4 large-push-0 end columns">
+			<div class="postLink-card" id="style-2" style="border: 3px solid #9F031B; border-radius: 4px; margin-bottom: 30px;" data-equalizer-watch>
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose" style="padding: 16px;">
 					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
