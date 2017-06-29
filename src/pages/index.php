@@ -99,7 +99,6 @@ layout: index-video-splash
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose" style="padding: 16px;">
 					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
-					<!-- <div class="post-link"></div> -->
 					<a href="#" class="post-link">Build Update</a>
 				</div>
 			</div>
