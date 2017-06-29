@@ -98,7 +98,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
 			<div class="postLink-card" data-equalizer-watch>
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
