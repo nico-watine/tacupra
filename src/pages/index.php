@@ -98,8 +98,14 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 end columns">
-			&nbsp;
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+			<div class="postLink-card" data-equalizer-watch>
+				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/2.jpg" alt="Update Post Thumbnail">
+				<div class="prose">
+					<h4 class="post-title"><strong>Engine Swap</strong></h4>
+					<a href="" class="post-link text-center">Upcoming</a>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
