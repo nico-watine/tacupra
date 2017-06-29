@@ -90,22 +90,10 @@ layout: index-video-splash
 			</div>
 		</div>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card" data-equalizer-watch>
-				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
-				<div class="prose">
-					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
-					<a href="#" class="post-link text-center">Build Update</a>
-				</div>
-			</div>
+			&nbsp;
 		</div>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 end columns">
-			<div class="postLink-card" data-equalizer-watch>
-				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
-				<div class="prose">
-					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
-					<a href="#" class="post-link text-center">Build Update</a>
-				</div>
-			</div>
+			&nbsp;
 		</div>
 	</div>
 </section>
