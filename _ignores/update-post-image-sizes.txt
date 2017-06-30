@@ -1,0 +1,17 @@
+# -------------------------------------------------
+# |            Update-Post Image Sizes            |
+# -------------------------------------------------
+
+An Update Post (aka Build Update) should have at least 3 image ::
+
+1. A splash image titled hero.jpg OR hero.png
+	Dimensions of AT LEAST 1920px wide
+
+2. A Facebook Share image titled og-image-1.png
+	The post can have multiple og-images over time, so ALWAYS number them, beginning with -1.
+	The og-image can also be a .jpg
+	Dimensions of 1200x630
+
+3. A key thumbnail for the post, title post-thumb.jpg OR post-thumb.png
+	Image aspect ratio of 16:9
+	Dimensions of AT LEASE 800x450
