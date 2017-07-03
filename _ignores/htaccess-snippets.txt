@@ -60,3 +60,22 @@ RewriteRule ^(.*)\.htm$ /$1 [R=301,L]
 #301 from example.com/page.html to example.com/page
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.html\ HTTP/
 RewriteRule ^(.*)\.html$ /$1 [R=301,L]
+
+
+
+
+
+PASTE BELOW PRIOR TO HTACCESS UPLOAD UPDATE
+THIS CANNOT BE ACTIVELY PRESENT IN HTACCESS WHILE IN DEV MODE
+# ----------------------------------------------------------------------
+# | Forcing `https://`                                                 |
+# ----------------------------------------------------------------------
+
+# Redirect from the `http://` to the `https://` version of the URL.
+# https://wiki.apache.org/httpd/RewriteHTTPToHTTPS
+
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+   RewriteCond %{HTTPS} !=on
+   RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
