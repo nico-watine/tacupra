@@ -1919,9 +1919,9 @@ footer.colophon a:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
-.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9F031B; border-radius: 0.25rem; margin-bottom: 1.875rem; }
+.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9F031B; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
 
-.postLink-card .prose { padding: 1rem; background: #fff; }
+.postLink-card .prose { padding: 1rem; }
 
 .postLink-card .prose .post-title { letter-spacing: 0.0625rem; text-transform: uppercase; }
 
