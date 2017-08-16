@@ -93,8 +93,8 @@ layout: index-video-splash
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
-					<h4 data-equalizer-watch class="post-title"><strong>Turbo Placement</strong></h4>
-					<a href="/build-progress/2jz-tacoma-turbo-placement.php" class="post-link text-center">Build Update</a>
+					<h4 data-equalizer-watch class="post-title"><strong>Single Turbo Fitment</strong></h4>
+					<a href="/build-progress/single-turbo-fitment.php" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>
