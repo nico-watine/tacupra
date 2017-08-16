@@ -94,7 +94,7 @@ layout: index-video-splash
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
 					<h4 data-equalizer-watch class="post-title"><strong>Turbo Placement</strong></h4>
-					<a href="#" class="post-link text-center inactive">Upcoming</a>
+					<a href="/build-progress/2jz-tacoma-turbo-placement.php" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>

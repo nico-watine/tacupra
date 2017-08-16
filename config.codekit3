@@ -4251,6 +4251,30 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/build-progress\/2001-toyota-tacoma-suspension.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/2001-toyota-tacoma-suspension.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/2jz-tacoma-turbo-placement.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/2jz-tacoma-turbo-placement.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/index.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/single-turbo-placement.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/single-turbo-placement.php",
+		"oF": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4467,7 +4491,7 @@
 		},
 	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/post-thumb.jpg": {
 		"ft": 16384,
-		"iS": 86785,
+		"iS": 63547,
 		"oA": 1,
 		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/post-thumb.jpg",
 		"oF": 0,
@@ -4525,6 +4549,12 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
 		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
@@ -5260,6 +5290,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/2001-toyota-tacoma-suspension.php",
+		"oF": 0
+		},
+	"\/src\/pages\/build-progress\/2jz-tacoma-turbo-placement.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/build-progress\/2jz-tacoma-turbo-placement.php",
 		"oF": 0
 		},
 	"\/src\/pages\/build-progress\/index.php": {
