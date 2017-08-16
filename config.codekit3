@@ -4269,6 +4269,12 @@
 		"oAP": "\/dist\/build-progress\/index.php",
 		"oF": 0
 		},
+	"\/dist\/build-progress\/single-turbo-fitment.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/single-turbo-fitment.php",
+		"oF": 0
+		},
 	"\/dist\/build-progress\/single-turbo-placement.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -5292,16 +5298,16 @@
 		"oAP": "\/src\/pages\/build-progress\/2001-toyota-tacoma-suspension.php",
 		"oF": 0
 		},
-	"\/src\/pages\/build-progress\/2jz-tacoma-turbo-placement.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/pages\/build-progress\/2jz-tacoma-turbo-placement.php",
-		"oF": 0
-		},
 	"\/src\/pages\/build-progress\/index.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/build-progress\/single-turbo-fitment.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/build-progress\/single-turbo-fitment.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
