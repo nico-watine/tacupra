@@ -33,7 +33,7 @@ upload-date: Uploaded June 10 2017
 	<div class="row">
 		<div class="content">
 			<img src="http://i.imgur.com/5xa8Ubg.jpg" alt="Tacupra Update Post Image">
-			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill. Get the SPA Manifold here:</p>
+			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill. <strong>Get the SPA Manifold here: <a href="http://www.ebay.com/itm/172337191151?rmvSB=true" target="_blank">ebay link</a>.</strong></p>
 		</div>
 	</div>
 </div>
@@ -41,7 +41,15 @@ upload-date: Uploaded June 10 2017
 	<div class="row">
 		<div class="content">
 			<img src="http://i.imgur.com/A6liXgZ.jpg" alt="Tacupra Update Post Image">
-			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill.</p>
+			<p>Another shot of the SPA Manifold.</p>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="content">
+			<img src="http://i.imgur.com/eOWhTqN.jpg" alt="Tacupra Update Post Image">
+			<p>One more view of the SPA Manifold.</p>
 		</div>
 	</div>
 </div>
@@ -51,14 +59,6 @@ upload-date: Uploaded June 10 2017
 			<img src="http://i.imgur.com/tBROpJn.jpg" alt="Tacupra Update Post Image">
 			<p>Needed a block off for the external wastegate provision in the SPA manifold. I used the EFR 7064 with an internal wastegate.</p>
 			<p>Vibrant perfomance block off plate: </p>
-		</div>
-	</div>
-</div>
-<div class="container">
-	<div class="row">
-		<div class="content">
-			<img src="http://i.imgur.com/eOWhTqN.jpg" alt="Tacupra Update Post Image">
-			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill.</p>
 		</div>
 	</div>
 </div>
