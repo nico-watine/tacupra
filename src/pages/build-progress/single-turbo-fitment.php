@@ -23,7 +23,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<img src="//i.imgur.com/2idX8KI.jpg" alt="Tacupra Update Post Image">
+			<div class='gfyitem' data-id='PaltryLividJoey'></div>
 			<p>The stock twins will not fit for this application without cutting into the firewall and relocating critical A/C components. The rear turbo is right up against the firewall. Then the hard piping extends even further for the inlet. The engine could not move further forward without moving the radiator/core support/front bumper forward. <br>
 			This is when I decided that the single turbo was my plan of action.</p>
 		</div>
