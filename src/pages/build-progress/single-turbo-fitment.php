@@ -1,9 +1,9 @@
 ---
 url: /build-progress/single-turbo-fitment
-title: 
-description: 
-og-title: 
-og-description: 
+title: Single Turbo Fitment on 4x4 2JZ Tacoma
+description: I decided that the single turbo was my plan of action because the stock twins…
+og-title: Single Turbo Fitment on 4x4 2JZ Tacoma
+og-description: I decided that the single turbo was my plan of action because the stock twins… 
 og-image: 
 body-id: 
 body-class: update-post
