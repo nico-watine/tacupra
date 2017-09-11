@@ -33,7 +33,8 @@ upload-date: Uploaded June 10 2017
 	<div class="row">
 		<div class="content">
 			<img src="//i.imgur.com/5xa8Ubg.jpg" alt="Tacupra Update Post Image">
-			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill. <strong>Get the SPA Manifold here: <a href="//www.ebay.com/itm/172337191151?rmvSB=true" target="_blank">ebay link</a>.</strong></p>
+			<p>A thick cast manifold was perfect for my application (Offroad - Exposure to water). SPAs manifold fit the bill.</p>
+			<p><strong>SPA T4 Manifold: <a href="//www.ebay.com/itm/172337191151?rmvSB=true" target="_blank">eBay Link</a></strong></p>
 		</div>
 	</div>
 </div>
@@ -58,7 +59,7 @@ upload-date: Uploaded June 10 2017
 		<div class="content">
 			<img src="//i.imgur.com/tBROpJn.jpg" alt="Tacupra Update Post Image">
 			<p>Needed a block off for the external wastegate provision in the SPA manifold. I used the EFR 7064 with an internal wastegate.</p>
-			<p>Vibrant perfomance block off plate: </p>
+			<p><strong>Vibrant Performance Block Off Plate: <a href="http://a.co/5iPRFVe" target="_blank">Amazon Link</a></strong></p>
 		</div>
 	</div>
 </div>
@@ -75,7 +76,7 @@ upload-date: Uploaded June 10 2017
 		<div class="content">
 			<img src="//i.imgur.com/rhNUAyK.jpg" alt="Tacupra Update Post Image">
 			<p>First test fit of the thin T4 Twinscroll flange before printing the full 3/4" version which would take several hours to print.</p>
-			<p>High quality ABS 3D printing filament:</p>
+			<p><strong>High Quality ABS 3D Printing Filament: <a href="http://a.co/7H1suXh" target="_blank">Amazon Link</a></strong></p>
 		</div>
 	</div>
 </div>
@@ -134,7 +135,8 @@ upload-date: Uploaded June 10 2017
 			<img src="//i.imgur.com/PJnMzyd.jpg" alt="Tacupra Update Post Image">
 			<p>2JZ GTE (Supra) in a 2001 4x4 Tacoma</p>
 			<p>The EFR 7064 turbo is fully supported by the sandwiched 3D printed model of the Quickspool valve and the associated hardware.</p>
-			<p>ARB bumper that will house the winch and reinforces the front end that I got for a great deal and free shipping! : https://www.amazon.com/gp/product/B004LQCG7E/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=1fddb663bed35f234ac26c9667e5bfd2</p>
+			<p>I chose a bumper from <strong>ARB 4x4 Accessories</strong> (<a href="http://arbusa.com" target="_blank">www.arbusa.com</a>) that will house the winch and reinforce the front end.</p>
+			<p><strong>ARB Winch Compatible Bull Bar: <a href="http://a.co/5s4wpPi" target="_blank">Amazon Link</a>.</strong> Great deal + free shipping!</p>
 		</div>
 	</div>
 </div>
