@@ -23,7 +23,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class='gfyitem' data-id='PaltryLividJoey'></div>
+			<div class='gfyitem gfyEmbed' data-id='PaltryLividJoey'></div>
 			<p>The stock twins will not fit for this application without cutting into the firewall and relocating critical A/C components. The rear turbo is right up against the firewall. Then the hard piping extends even further for the inlet. The engine could not move further forward without moving the radiator/core support/front bumper forward.</p>
 			<p>This is when I decided that the single turbo was my plan of action.</p>
 		</div>
