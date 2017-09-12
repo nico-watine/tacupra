@@ -10,7 +10,7 @@ body-class: update-post
 layout: updatePost
 hero-background-image: /img/update-post/2001-toyota-tacoma-suspension/hero-2.jpg
 post-title: 2001 Toyota Tacoma Suspension
-upload-date: Uploaded March 18 2016
+upload-date: Uploaded March 18, 2016
 ---
 <div class="container">
 	<div class="row">
