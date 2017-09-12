@@ -16,8 +16,7 @@ upload-date: Uploaded March 18 2016
 	<div class="row">
 		<div class="content">
 			<img src="//i.imgur.com/wXh51Wo.jpg" alt="Tacupra Update Post Image">
-			<h5><strong>Stock setup (with Tundra Brakes)</strong></h5>
-			<p>In effort to minimize distracting watermarks I have put urls at the bottom of each image description. Please excuse its repetitive nature, I have just been experiencing issues where only a single image is shared in which there is no reference.</p>
+			<p>Stock setup (with Tundra Brakes)</p>
 		</div>
 	</div>
 </div>
