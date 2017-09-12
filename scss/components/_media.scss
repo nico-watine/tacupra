@@ -1,1 +1,11 @@
 @import "../_settings.scss";
+
+// ---------------------------------------
+// |            Gfycat Embeds            |
+// ---------------------------------------
+
+.updatePost-gfyEmbed {
+	border: rem-calc(3) solid #FFFFFF;
+	box-shadow: $z-1;
+	margin: rem-calc(16) 0;
+}
