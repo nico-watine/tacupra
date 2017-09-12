@@ -10,7 +10,7 @@ body-class: update-post
 layout: updatePost
 hero-background-image: /img/update-post/single-turbo-fitment/hero.jpg
 post-title: Single Turbo Fitment on 4x4 2JZ Tacoma
-upload-date: Uploaded June 10 2017
+upload-date: Uploaded September 12, 2017
 ---
 <div class="container">
 	<div class="row">
