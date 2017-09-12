@@ -144,7 +144,7 @@ upload-date: Uploaded June 10 2017
 	<div class="row">
 		<div class="content">
 			<div class='gfyitem updatePost-gfyEmbed' data-id='ImaginativeIlliterateFurseal'></div>
-			<p>CX Racing intercooler: </p>
+			<p>CX Racing Intercooler</p>
 		</div>
 	</div>
 </div>
