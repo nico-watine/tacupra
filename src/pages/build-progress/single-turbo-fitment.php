@@ -23,7 +23,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class='gfyitem updatePost-gfyEmbed' data-id='PaltryLividJoey'></div>
+			<div class="gfyitem updatePost-gfyEmbed" data-id="PaltryLividJoey"></div>
 			<p>The stock twins will not fit for this application without cutting into the firewall and relocating critical A/C components. The rear turbo is right up against the firewall. Then the hard piping extends even further for the inlet. The engine could not move further forward without moving the radiator/core support/front bumper forward.</p>
 			<p>This is when I decided that the single turbo was my plan of action.</p>
 		</div>
@@ -66,7 +66,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class='gfyitem updatePost-gfyEmbed' data-id='ShadySlimyHarpyeagle'></div>
+			<div class="gfyitem updatePost-gfyEmbed" data-id="ShadySlimyHarpyeagle"></div>
 			<p>Mockup of BorgWarner EFR 7064 and SPA Turbo Manifold placement.</p>
 		</div>
 	</div>
@@ -107,7 +107,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class='gfyitem updatePost-gfyEmbed' data-id='HatefulSeveralJay'></div>
+			<div class="gfyitem updatePost-gfyEmbed" data-id="HatefulSeveralJay"></div>
 			<p>Testing a placement mockup of the 3D printed Quick Spool Valve.</p>
 		</div>
 	</div>
@@ -143,7 +143,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class='gfyitem updatePost-gfyEmbed' data-id='ImaginativeIlliterateFurseal'></div>
+			<div class="gfyitem updatePost-gfyEmbed" data-id="ImaginativeIlliterateFurseal"></div>
 			<p>CX Racing Intercooler</p>
 		</div>
 	</div>
