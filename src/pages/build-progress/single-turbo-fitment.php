@@ -143,7 +143,7 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<img src="//i.imgur.com/PJnMzyd.jpg" alt="Tacupra Update Post Image">
+			<div class='gfyitem updatePost-gfyEmbed' data-id='ImaginativeIlliterateFurseal'></div>
 			<p>CX Racing intercooler: </p>
 		</div>
 	</div>
