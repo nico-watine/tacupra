@@ -2026,4 +2026,4 @@ html, body { height: 100%; }
 
 .p-y { padding: rem(16) 0; }
 
-.updatePost-gfyEmbed { border: 0.1875rem solid #FFFFFF; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin: 1rem 0; }
+.updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
