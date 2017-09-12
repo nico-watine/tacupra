@@ -2018,12 +2018,6 @@ footer.colophon a:hover { text-decoration: underline; }
 
 html, body { height: 100%; }
 
-.p-0 { padding: 0; }
-
-.m-0 { margin: 0; }
-
-.p-x { padding: 0 rem(16); }
-
-.p-y { padding: rem(16) 0; }
+.inline-block { display: inline-block; }
 
 .updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
