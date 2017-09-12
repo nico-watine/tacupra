@@ -67,7 +67,7 @@ upload-date: Uploaded June 10 2017
 	<div class="row">
 		<div class="content">
 			<div class='gfyitem updatePost-gfyEmbed' data-id='ShadySlimyHarpyeagle'></div>
-			<p>Mockup of BorgWarner EFR 7064 and SPA Turbo Manifold.</p>
+			<p>Mockup of BorgWarner EFR 7064 and SPA Turbo Manifold placement.</p>
 		</div>
 	</div>
 </div>
