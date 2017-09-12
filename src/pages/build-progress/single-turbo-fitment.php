@@ -66,8 +66,8 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<img src="//i.imgur.com/S9FdPh8.jpg" alt="Tacupra Update Post Image">
-			<p>Mock up of BorgWarner EFR 7064 and SPA Turbo Manifold.</p>
+			<div class='gfyitem updatePost-gfyEmbed' data-id='ShadySlimyHarpyeagle'></div>
+			<p>Mockup of BorgWarner EFR 7064 and SPA Turbo Manifold.</p>
 		</div>
 	</div>
 </div>
