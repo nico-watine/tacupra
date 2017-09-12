@@ -107,8 +107,8 @@ upload-date: Uploaded June 10 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<img src="//i.imgur.com/XfO1qIk.jpg" alt="Tacupra Update Post Image">
-			<p>Doing a mockup of the 3D printed Quick Spool Valve.</p>
+			<div class='gfyitem updatePost-gfyEmbed' data-id='HatefulSeveralJay'></div>
+			<p>Testing a placement mockup of the 3D printed Quick Spool Valve.</p>
 		</div>
 	</div>
 </div>
