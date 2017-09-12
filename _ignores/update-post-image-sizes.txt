@@ -15,3 +15,6 @@ An Update Post (aka Build Update) should have at least 3 image ::
 3. A key thumbnail for the post, title post-thumb.jpg OR post-thumb.png
 	Image aspect ratio of 16:9
 	Dimensions of AT LEASE 800x450
+
+4. Largest in-post image width is 830px
+	Create image assets of 1245px (x1.5)
