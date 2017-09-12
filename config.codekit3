@@ -4458,6 +4458,12 @@
 		"oAP": "\/dist\/build-progress\/2001-toyota-tacoma-suspension.php",
 		"oF": 0
 		},
+	"\/dist\/build-progress\/2jz-tacoma-turbo-placement.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/2jz-tacoma-turbo-placement.php",
+		"oF": 0
+		},
 	"\/dist\/build-progress\/index.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -7460,7 +7466,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
