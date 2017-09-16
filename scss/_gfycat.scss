@@ -1,2 +1,61 @@
 @import "_settings.scss";
 
+body#gfycat {
+	.iframe-video-container {
+		.overlay.overlay--desktop {
+			display: none !important;
+			visibility: hidden !important;
+
+			&:hover {
+				.control-bar {
+					bottom: -50px !important;
+				}
+			}
+		}
+	}
+
+	.iframe-video-container {
+		.overlay {
+			display: none !important;
+			visibility: hidden !important;
+
+			.control-bar {
+				display: none !important;
+				visibility: hidden !important;
+			}
+		}
+	}
+
+	#gfycat-iframe {
+		iframe {
+			.iframe-video-container {
+				.overlay.overlay--desktop {
+					display: none !important;
+					visibility: hidden !important;
+
+					&:hover {
+						.control-bar {
+							bottom: -50px !important;
+						}
+					}
+				}
+			}
+		}
+
+		iframe {
+			.iframe-video-container {
+				.overlay {
+					display: none !important;
+					visibility: hidden !important;
+
+					.control-bar {
+						display: none !important;
+						visibility: hidden !important;
+					}
+				}
+			}
+		}
+	}
+}
+
+

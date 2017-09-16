@@ -2037,3 +2037,19 @@ html, body { height: 100%; }
 .margin-XY { margin: 0.9375rem; }
 
 .updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
+body#gfycat .iframe-video-container .overlay.overlay--desktop { display: none !important; visibility: hidden !important; }
+
+body#gfycat .iframe-video-container .overlay.overlay--desktop:hover .control-bar { bottom: -50px !important; }
+
+body#gfycat .iframe-video-container .overlay { display: none !important; visibility: hidden !important; }
+
+body#gfycat .iframe-video-container .overlay .control-bar { display: none !important; visibility: hidden !important; }
+
+body#gfycat #gfycat-iframe iframe .iframe-video-container .overlay.overlay--desktop { display: none !important; visibility: hidden !important; }
+
+body#gfycat #gfycat-iframe iframe .iframe-video-container .overlay.overlay--desktop:hover .control-bar { bottom: -50px !important; }
+
+body#gfycat #gfycat-iframe iframe .iframe-video-container .overlay { display: none !important; visibility: hidden !important; }
+
+body#gfycat #gfycat-iframe iframe .iframe-video-container .overlay .control-bar { display: none !important; visibility: hidden !important; }
