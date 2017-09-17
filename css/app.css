@@ -2020,6 +2020,10 @@ html, body { height: 100%; }
 
 .inline-block { display: inline-block; }
 
+.ie-only { display: none; visibility: hidden; }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }
+
 .padding-0 { padding: 0; }
 
 .padding-X { padding: 0 0.9375rem; }
