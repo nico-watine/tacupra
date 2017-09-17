@@ -2042,4 +2042,4 @@ html, body { height: 100%; }
 
 .updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
-.bgvid-container .gfycat-cover { position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
+.gfycat-cover#gfycat-cover { position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
