@@ -15,8 +15,10 @@ layout: index-video-splash
 			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
 		</div>
 	</div>
+	<!--[if IE]>
 	<div class="gfycat-cover"></div>
 	<div style='position:relative;padding-bottom:54%' id="gfycat-iframe"><iframe src='https://gfycat.com/ifr/OccasionalDecisiveKoi' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+	<![endif]-->
 </div>
 <section class="build-specs">
 	<div class="row" style="margin-bottom: 20px;">
