@@ -1,12 +1,39 @@
 @import "_settings.scss";
 
 body#gfycat {
-	.gfycat-cover {
-		position: absolute !important;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		z-index: 10;
+	.ieWrapper {
+		display: none;
+		visibility: hidden;
 	}
 }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.ie-on
+	body#gfycat {
+		.ieWrapper {
+			display: block;
+			visibility: visible;
+
+			.gfycat-cover {
+				position: absolute !important;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				z-index: 10;
+			}
+		}
+	}
+}
+
+
+.ie-only {
+	display: none;
+	visibility: hidden;
+
+	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+		display: block;
+		visibility: visible;
+	}
+}
+
