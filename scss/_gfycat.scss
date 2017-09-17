@@ -1,12 +1,14 @@
 @import "_settings.scss";
 
-.gfycat-cover {
-	position: absolute !important;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 10;
+.bgvid-container {
+	.gfycat-cover {
+		position: absolute !important;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: 10;
+	}
 }
 
 
