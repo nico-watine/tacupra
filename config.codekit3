@@ -4470,6 +4470,16 @@
 		"oAP": "\/dist\/build-progress\/single-turbo-fitment.php",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5722,12 +5732,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/single-turbo-fitment.php",
-		"oF": 0
-		},
-	"\/src\/pages\/gfycat.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/pages\/gfycat.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
