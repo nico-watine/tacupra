@@ -10,6 +10,9 @@
 	<title>{{ title }} | Toyota Tacupra</title>
 	<meta name="description" content="{{ description }}">
 	<link href="https://tacupra.com{{ url }}" rel="canonical">
+
+	{{> googleTagManager-head}}
+
 	<link href="/humans.txt" rel="author">
 
 	<meta name="apple-mobile-web-app-title" content="Tacupra">
@@ -39,7 +42,7 @@
 	
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
-
+{{> googleTagManager-body}}
 
 
 
@@ -52,8 +55,6 @@
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
 
 <script type="text/javascript" src="https://assets.gfycat.com/gfycat.js"></script>
-
-{{> google-tracking-id}}
 
 </body>
 </html>
