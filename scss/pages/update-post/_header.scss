@@ -51,6 +51,22 @@
 					background-color: #fff;
 				}
 			}
+
+			a.socialMedia-link {
+				background: none;
+				padding: 0 rem-calc(16) 0 0;
+
+				img {
+					width: 50px;
+					height: 50px;
+				}
+			}
+		}
+
+		.top-bar-right {
+			@include breakpoint(medium) {
+				padding-right: rem-calc(16);
+			}
 		}
 	}
 }
