@@ -28,7 +28,7 @@ upload-date: October 28, 2017
 	<h3 class="text-center"><strong>Parts &amp; Specs</strong></h3>
 	<br>
 	<div class="row">
-		<div class="medium-4 columns">
+		<div class="medium-4 columns" style="margin-bottom: 20px;">
 			<h4><strong>Calipers</strong></h4>
 			<h5>Stamped "13WL" from a 2006 Tundra 4x4﻿</h5>
 			<ul>
@@ -36,14 +36,14 @@ upload-date: October 28, 2017
 				<li>Raybestos FRC11549 <a href="http://amzn.to/2sKCeiw" target="_blank">on Amazon</a></li>
 			</ul>
 		</div>
-		<div class="medium-4 columns">
+		<div class="medium-4 columns" style="margin-bottom: 20px;">
 			<h4><strong>Rotors</strong></h4>
 			<h5>Factory-fit replacement for 2006 Tundra 4x4</h5>
 			<ul>
 				<li>Brembo 09.8196.81 UV Coated <a href="http://amzn.to/2ss5Y0j" target="_blank">on Amazon</a></li>
 			</ul>
 		</div>
-		<div class="medium-4 columns">
+		<div class="medium-4 columns" style="margin-bottom: 20px;">
 			<h4><strong>Pads</strong></h4>
 			<h5>Factory-fit replacement for 2006 Tundra ﻿4x4﻿</h5>
 			<ul>
