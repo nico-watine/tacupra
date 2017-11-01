@@ -1,6 +1,24 @@
 @import "../../../_settings.scss";
 
 .updatePost#tacoma-tundra-brake-swap {
+	.intro-prose {
+		padding: rem-calc(40) 0;
+
+		.imageCard {
+			background: #fff;
+			box-shadow: $z-1;
+			padding-bottom: rem-calc(16);
+
+			img {
+				margin-bottom: rem-calc(12);
+			}
+
+			h5 {
+				width: 100%;
+			}
+		}
+	}
+
 	.parts-specs {
 		background: $body-background url("#{$url}/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat;
 		padding: rem-calc(40) 0;

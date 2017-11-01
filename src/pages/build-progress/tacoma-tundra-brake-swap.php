@@ -12,12 +12,13 @@ hero-background-image: /img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-b
 post-title: Tacoma Tundra Brake Swap
 upload-date: October 28, 2017
 ---
-<div class="row" style="padding: 40px 0;">
+<div class="row intro-prose">
 	<div class="medium-6 columns">
-		<div class="imageCard" style="background: #FFFFFF; box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37); padding-bottom: 12px;">
-			<img src="/img/update-post/tacoma-tundra-brake-swap/factory-tacoma-brakes.jpg" alt="Factory Tacoma Brakes" title="Factory Tacoma Brakes" style="margin-bottom: 12px;">
-			<h5 class="text-center inline-block margin-0" style="width: 100%;"><strong>Factory Tacoma brakes</strong></h5>
+		<div class="imageCard">
+			<img src="/img/update-post/tacoma-tundra-brake-swap/factory-tacoma-brakes.jpg" alt="Factory Tacoma Brakes" title="Factory Tacoma Brakes">
+			<h5 class="text-center inline-block margin-0"><strong>Factory Tacoma brakes</strong></h5>
 		</div>
+		<br>
 	</div>
 	<div class="medium-6 columns">
 		<h2><strong>Brake Upgrade from Tacoma to Tundra Calipers and Rotors</strong></h2>
