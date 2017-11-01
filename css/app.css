@@ -1951,7 +1951,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #index footer a:hover { text-decoration: underline; }
 
-.updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; }
+.updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; padding: 2.5rem 0; border-top: 0.1875rem solid #000; }
 
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 { background: #fff; }
 
