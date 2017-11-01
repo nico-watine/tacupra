@@ -1963,6 +1963,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 { background: #fff; }
 
+.updatePost#tacoma-tundra-brake-swap .step-1-2-3 .positionWrapper { position: relative; }
+
+.updatePost#tacoma-tundra-brake-swap .step-1-2-3 .positionWrapper span { font-size: 3rem; color: #fff; line-height: 1; background: rgba(148, 39, 38, 0.6); position: absolute; left: 0; bottom: 0; }
+
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 h5 { width: 100%; margin: 0 0 1.25rem; padding: 0 0.5rem; }
 
 .updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }

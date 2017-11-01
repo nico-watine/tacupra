@@ -58,17 +58,26 @@ upload-date: October 28, 2017
 </section>
 <div class="row expanded collapse step-1-2-3">
 	<div class="medium-4 columns">
-		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
+		<div class="positionWrapper">
+			<span class="padding-XY"><strong>1</strong></span>
+			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
+		</div>
 		<br>
 		<h5 class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
 	</div>
 	<div class="medium-4 columns">
-		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
+		<div class="positionWrapper">
+			<span class="padding-XY"><strong>2</strong></span>
+			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
+		</div>
 		<br>
 		<h5 class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
 	</div>
 	<div class="medium-4 columns">
-		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
+		<div class="positionWrapper">
+			<span class="padding-XY"><strong>3</strong></span>
+			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
+		</div>
 		<br>
 		<h5 class="text-center inline-block">Install rotors and calipers</h5>
 	</div>

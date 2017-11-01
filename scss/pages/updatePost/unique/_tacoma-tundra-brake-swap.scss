@@ -28,6 +28,20 @@
 	.step-1-2-3 {
 		background: #fff;
 
+		.positionWrapper {
+			position: relative;
+
+			span {
+				font-size: rem-calc(48);
+				color: #fff;
+				line-height: 1;
+				background: rgba(148,39,38,0.60);
+				position: absolute;
+				left: 0;
+				bottom: 0;
+			}
+		}
+
 		h5 {
 			width: 100%;
 			margin: 0 0 rem-calc(20);
