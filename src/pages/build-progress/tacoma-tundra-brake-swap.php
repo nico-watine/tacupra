@@ -69,5 +69,13 @@ upload-date: October 28, 2017
 		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Install rotors and calipers</h5>
 	</div>
 </div>
+<div class="row" style="padding: 40px 0 80px;">
+	<div class="medium-8 columns">
+		<img src="/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
+	</div>
+	<div class="medium-4 columns">
+		<h4 style="background: #fff; padding: 8px 12px;">Install pads and associated hardware</h4>
+	</div>
+</div>
 
 
