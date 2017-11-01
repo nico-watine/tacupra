@@ -4,4 +4,54 @@
 	.parts-specs {
 		background: $body-background url("#{$url}/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat;
 	}
+
+	.redBG {
+		background: #BB3938 url("#{$url}/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat;
+
+		.row {
+			padding: 40px 0 80px;
+
+			img {
+				border: 3px solid #fff;
+				box-shadow: $z-1;
+				margin-bottom: rem-calc(16);
+			}
+
+			.step {
+				background: #fff;
+				box-shadow: $z-1;
+				height: rem-calc(70);
+
+				@include breakpoint(medium) {
+					height: rem-calc(160);
+				}
+
+				@include breakpoint(large) {
+					height: rem-calc(90);
+				}
+
+				.count {
+					font-size: rem-calc(30);
+					background: #282B2F;
+					margin-right: 10px;
+					color: #fff;
+					float: left;
+					line-height: rem-calc(70);
+
+					@include breakpoint(medium) {
+						line-height: rem-calc(160);
+					}
+
+					@include breakpoint(large) {
+						line-height: rem-calc(90);
+						height: rem-calc(90);
+					}
+				}
+
+				h4 {
+					padding: rem-calc(10);
+				}
+			}
+		}
+	}
 }

@@ -4476,22 +4476,6 @@
 		"oAP": "\/dist\/build-progress\/tacoma-tundra-brake-swap.php",
 		"oF": 0
 		},
-	"\/dist\/build-progress\/transmission-mount.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/build-progress\/transmission-mount.php",
-		"oF": 0
-		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4530,6 +4514,26 @@
 		"oA": 2,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
+		},
+	"\/dist\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/dist\/img\/emails\/sigs\/sig-1.png": {
 		"ft": 32768,
@@ -5276,6 +5280,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

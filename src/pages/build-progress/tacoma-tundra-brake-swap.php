@@ -52,7 +52,7 @@ upload-date: October 28, 2017
 		</div>
 	</div>	
 </section>
-<div class="row expanded collapse" style="background: #fff;">
+<div class="row expanded collapse step-1-2-3" style="background: #fff;">
 	<div class="medium-4 columns">
 		<img style="display: block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
 		<br>
@@ -69,13 +69,17 @@ upload-date: October 28, 2017
 		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Install rotors and calipers</h5>
 	</div>
 </div>
-<div class="row" style="padding: 40px 0 80px;">
-	<div class="medium-8 columns">
-		<img src="/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
+<section class="redBG">
+	<div class="row">
+		<div class="medium-8 columns">
+			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
+		</div>
+		<div class="medium-4 columns">
+			<div class="step">
+				<div class="count padding-X">4</div>
+				<h4>Install pads and associated hardware</h4>
+			</div>
+		</div>
 	</div>
-	<div class="medium-4 columns">
-		<h4 style="background: #fff; padding: 8px 12px;">Install pads and associated hardware</h4>
-	</div>
-</div>
-
+</section>
 
