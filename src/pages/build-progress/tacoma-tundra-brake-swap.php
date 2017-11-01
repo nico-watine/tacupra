@@ -52,21 +52,21 @@ upload-date: October 28, 2017
 		</div>
 	</div>	
 </section>
-<div class="row expanded collapse step-1-2-3" style="background: #fff;">
+<div class="row expanded collapse step-1-2-3">
 	<div class="medium-4 columns">
 		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
 		<br>
-		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
+		<h5 class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
 	</div>
 	<div class="medium-4 columns">
 		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
 		<br>
-		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
+		<h5 class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
 	</div>
 	<div class="medium-4 columns">
 		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
 		<br>
-		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Install rotors and calipers</h5>
+		<h5 class="text-center inline-block">Install rotors and calipers</h5>
 	</div>
 </div>
 <section class="step-4">

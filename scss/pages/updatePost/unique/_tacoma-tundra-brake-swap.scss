@@ -5,6 +5,16 @@
 		background: $body-background url("#{$url}/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat;
 	}
 
+	.step-1-2-3 {
+		background: #fff;
+
+		h5 {
+			width: 100%;
+			margin: 0 0 rem-calc(20);
+			padding: 0 rem-calc(8);
+		}
+	}
+
 	.step-4 {
 		background: #BB3938 url("#{$url}/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat;
 

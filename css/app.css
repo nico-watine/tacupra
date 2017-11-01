@@ -1953,6 +1953,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; }
 
+.updatePost#tacoma-tundra-brake-swap .step-1-2-3 { background: #fff; }
+
+.updatePost#tacoma-tundra-brake-swap .step-1-2-3 h5 { width: 100%; margin: 0 0 1.25rem; padding: 0 0.5rem; }
+
 .updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
 
 .updatePost#tacoma-tundra-brake-swap .step-4 .row { padding: 40px 0 80px; }
