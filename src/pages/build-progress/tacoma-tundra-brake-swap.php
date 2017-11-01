@@ -5,8 +5,8 @@ description: I decided that the single turbo was my plan of action because the s
 og-title: Tacoma Tundra Brake Swap
 og-description: I decided that the single turbo was my plan of action because the stock twins… 
 og-image: /img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
-body-id: 
-body-class: updatePost
+body-id: tacoma-tundra-brake-swap
+body-class: updatePost updatePost-unique
 layout: updatePost
 hero-background-image: /img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-brakes-swap.jpg
 post-title: Tacoma Tundra Brake Swap
