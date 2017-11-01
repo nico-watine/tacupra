@@ -113,6 +113,6 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
-<footer class="colophon text-center">
+<footer class="text-center">
 	<a href="https://studioncreations.com/" target="_blank">A <span>Studio N</span> Creation</a>
 </footer>

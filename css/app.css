@@ -1879,13 +1879,19 @@ a.thumbnail image { box-shadow: none; }
   .large-order-5 { order: 5; }
   .large-order-6 { order: 6; } }
 
-footer.colophon { background: #282B2F; }
+footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
 
-footer.colophon a { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
+@media print, screen and (min-width: 40em) { footer { background-position: center top; } }
 
-footer.colophon a span { text-decoration: underline; }
+@media print, screen and (min-width: 64em) { footer { background-size: cover; } }
 
-footer.colophon a:hover { text-decoration: underline; }
+footer h5 a { color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase; }
+
+footer a.colophon { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
+
+footer a.colophon span { text-decoration: underline; }
+
+footer a.colophon:hover { text-decoration: underline; }
 
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
 
@@ -1937,92 +1943,86 @@ footer.colophon a:hover { text-decoration: underline; }
 
 .postLink-card .prose .post-link.inactive:hover { background: #9F031B; }
 
-.update-post nav .title-bar .title-bar-title a { padding: 0; }
+#index footer { background: #282B2F; }
 
-.update-post nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }
+#index footer a { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
 
-.update-post nav .title-bar .menu-icon { width: 30px; height: 40px; }
+#index footer a span { text-decoration: underline; }
 
-.update-post nav .title-bar .menu-icon:after { height: 4px; box-shadow: 0 10px 0 #fefefe, 0 20px 0 #fefefe; top: 8px; }
+#index footer a:hover { text-decoration: underline; }
 
-.update-post nav .top-bar .logo-icon img { width: 50px; height: 50px; }
+.updatePost-stock .container:hover { background: #f9f9f9; }
 
-.update-post nav .top-bar a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; line-height: 3.125rem; padding: 0 1rem; font-weight: bold; text-transform: uppercase; }
+.updatePost-stock .container:nth-child(2n) { background: #fdfdfd; }
 
-.update-post nav .top-bar a:hover { color: #0a0a0a; background-color: #fff; }
+.updatePost-stock .container:nth-child(2n):hover { background: #fafafa; }
 
-.update-post nav .top-bar a.socialMedia-link { background: none; padding: 0 1rem 0 0; }
+.updatePost-stock .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/supra.svg") center bottom/contain no-repeat !important; }
 
-.update-post nav .top-bar a.socialMedia-link img { width: 50px; height: 50px; }
+@media print, screen and (min-width: 64em) { .updatePost-stock .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/breakpoint-large/supra.svg") left top/contain no-repeat !important; } }
 
-@media print, screen and (min-width: 40em) { .update-post nav .top-bar-right { padding-right: 1rem; } }
+.updatePost-stock .container:nth-child(2) p { font-weight: 500; color: #fff; }
 
-.update-post .hero { position: relative; }
+.updatePost-stock article .row { padding: 1rem 0; }
 
-@media screen and (max-width: 39.9375em) { .update-post .hero { height: 22.5rem; background: #f1f1f1 url("#") center center/auto 100% no-repeat; }
-  .update-post .hero img { display: none; visibility: hidden; } }
+@media screen and (max-width: 39.9375em) { .updatePost-stock article .row { padding: 1rem 0.5rem; } }
 
-.update-post .hero .prose { position: absolute; width: 100%; z-index: 10; padding: 0 0.625rem; position: absolute; top: 50%; transform: translateY(-50%); }
+.updatePost-stock article .row img { border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin: 1rem 0; }
 
-.update-post .hero .prose h1, .update-post .hero .prose h4 { text-transform: uppercase; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); letter-spacing: 0.0625rem; color: #fff; }
+.updatePost-stock article .row .content { width: 100%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; }
 
-.update-post .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
+@media print, screen and (min-width: 40em) { .updatePost-stock article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
 
-.update-post .container:hover { background: #f9f9f9; }
+@media print, screen and (min-width: 64em) { .updatePost-stock article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
 
-.update-post .container:nth-child(2n) { background: #fdfdfd; }
+.updatePost-stock article .row .content:last-child:not(:first-child) { float: right; }
 
-.update-post .container:nth-child(2n):hover { background: #fafafa; }
+@media print, screen and (min-width: 40em) { .updatePost-stock article .row .content { width: 83.3333333333%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; position: relative; left: 8.3333333333%; } }
 
-.update-post .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/supra.svg") center bottom/contain no-repeat !important; }
+@media print, screen and (min-width: 40em) and (min-width: 40em) { .updatePost-stock article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
 
-@media print, screen and (min-width: 64em) { .update-post .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/breakpoint-large/supra.svg") left top/contain no-repeat !important; } }
+@media print, screen and (min-width: 40em) and (min-width: 64em) { .updatePost-stock article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
 
-.update-post .container:nth-child(2) p { font-weight: 500; color: #fff; }
+@media print, screen and (min-width: 40em) { .updatePost-stock article .row .content:last-child:not(:first-child) { float: right; } }
 
-.update-post article .row { padding: 1rem 0; }
+@media print, screen and (min-width: 64em) { .updatePost-stock article .row .content { width: 66.6666666667%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; position: relative; left: 16.6666666667%; } }
 
-@media screen and (max-width: 39.9375em) { .update-post article .row { padding: 1rem 0.5rem; } }
+@media print, screen and (min-width: 64em) and (min-width: 40em) { .updatePost-stock article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
 
-.update-post article .row img { border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin: 1rem 0; }
+@media print, screen and (min-width: 64em) and (min-width: 64em) { .updatePost-stock article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
 
-.update-post article .row .content { width: 100%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; }
+@media print, screen and (min-width: 64em) { .updatePost-stock article .row .content:last-child:not(:first-child) { float: right; } }
 
-@media print, screen and (min-width: 40em) { .update-post article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
+.updatePost nav .title-bar .title-bar-title a { padding: 0; }
 
-@media print, screen and (min-width: 64em) { .update-post article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
+.updatePost nav .title-bar .title-bar-title a img { width: 40px; height: 40px; }
 
-.update-post article .row .content:last-child:not(:first-child) { float: right; }
+.updatePost nav .title-bar .menu-icon { width: 30px; height: 40px; }
 
-@media print, screen and (min-width: 40em) { .update-post article .row .content { width: 83.3333333333%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; position: relative; left: 8.3333333333%; } }
+.updatePost nav .title-bar .menu-icon:after { height: 4px; box-shadow: 0 10px 0 #fefefe, 0 20px 0 #fefefe; top: 8px; }
 
-@media print, screen and (min-width: 40em) and (min-width: 40em) { .update-post article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
+.updatePost nav .top-bar .logo-icon img { width: 50px; height: 50px; }
 
-@media print, screen and (min-width: 40em) and (min-width: 64em) { .update-post article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
+.updatePost nav .top-bar a { color: #fff; font-size: 1.25rem; letter-spacing: 0.0625rem; line-height: 3.125rem; padding: 0 1rem; font-weight: bold; text-transform: uppercase; }
 
-@media print, screen and (min-width: 40em) { .update-post article .row .content:last-child:not(:first-child) { float: right; } }
+.updatePost nav .top-bar a:hover { color: #0a0a0a; background-color: #fff; }
 
-@media print, screen and (min-width: 64em) { .update-post article .row .content { width: 66.6666666667%; float: left; padding-right: 0.625rem; padding-left: 0.625rem; position: relative; left: 16.6666666667%; } }
+.updatePost nav .top-bar a.socialMedia-link { background: none; padding: 0 1rem 0 0; }
 
-@media print, screen and (min-width: 64em) and (min-width: 40em) { .update-post article .row .content { padding-right: 0.78125rem; padding-left: 0.78125rem; } }
+.updatePost nav .top-bar a.socialMedia-link img { width: 50px; height: 50px; }
 
-@media print, screen and (min-width: 64em) and (min-width: 64em) { .update-post article .row .content { padding-right: 0.9375rem; padding-left: 0.9375rem; } }
+@media print, screen and (min-width: 40em) { .updatePost nav .top-bar-right { padding-right: 1rem; } }
 
-@media print, screen and (min-width: 64em) { .update-post article .row .content:last-child:not(:first-child) { float: right; } }
+.updatePost .hero { position: relative; }
 
-.update-post footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
+@media screen and (max-width: 39.9375em) { .updatePost .hero { height: 22.5rem; background: #f1f1f1 url("#") center center/auto 100% no-repeat; }
+  .updatePost .hero img { display: none; visibility: hidden; } }
 
-@media print, screen and (min-width: 40em) { .update-post footer { background-position: center top; } }
+.updatePost .hero .prose { position: absolute; width: 100%; z-index: 10; padding: 0 0.625rem; position: absolute; top: 50%; transform: translateY(-50%); }
 
-@media print, screen and (min-width: 64em) { .update-post footer { background-size: cover; } }
+.updatePost .hero .prose h1, .updatePost .hero .prose h4 { text-transform: uppercase; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); letter-spacing: 0.0625rem; color: #fff; }
 
-.update-post footer h5 a { color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase; }
-
-.update-post footer a.colophon { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
-
-.update-post footer a.colophon span { text-decoration: underline; }
-
-.update-post footer a.colophon:hover { text-decoration: underline; }
+.updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
 html, body { height: 100%; }
 

@@ -1,0 +1,23 @@
+@import "../../_settings.scss";
+
+#index {
+	footer {
+		background: #282B2F;
+
+		a {
+			color: #F1F1F1;
+			letter-spacing: 2px;
+			font-size: 12px;
+			text-transform: uppercase;
+			line-height: 36px;
+
+			span {
+				text-decoration: underline;
+			}
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}	
+}

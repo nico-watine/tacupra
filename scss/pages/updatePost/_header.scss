@@ -4,7 +4,7 @@
 // |            nav-bar            |
 // ---------------------------------
 
-.update-post {
+.updatePost {
 	nav {
 		.title-bar {
 			.title-bar-title {
@@ -76,7 +76,7 @@
 // |            hero-image ::            |
 // ---------------------------------------
 
-.update-post {
+.updatePost {
 	.hero {
 		@include breakpoint(small only) {
 			height: rem-calc(360);
