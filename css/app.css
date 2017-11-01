@@ -1953,25 +1953,25 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; }
 
-.updatePost#tacoma-tundra-brake-swap .redBG { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
+.updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
 
-.updatePost#tacoma-tundra-brake-swap .redBG .row { padding: 40px 0 80px; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row { padding: 40px 0 80px; }
 
-.updatePost#tacoma-tundra-brake-swap .redBG .row img { border: 3px solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 1rem; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row img { border: 3px solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 1rem; }
 
-.updatePost#tacoma-tundra-brake-swap .redBG .row .step { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); height: 4.375rem; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row .prose { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); height: 4.375rem; }
 
-@media print, screen and (min-width: 40em) { .updatePost#tacoma-tundra-brake-swap .redBG .row .step { height: 10rem; } }
+@media print, screen and (min-width: 40em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose { height: 10rem; } }
 
-@media print, screen and (min-width: 64em) { .updatePost#tacoma-tundra-brake-swap .redBG .row .step { height: 5.625rem; } }
+@media print, screen and (min-width: 64em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose { height: 5.625rem; } }
 
-.updatePost#tacoma-tundra-brake-swap .redBG .row .step .count { font-size: 1.875rem; background: #282B2F; margin-right: 10px; color: #fff; float: left; line-height: 4.375rem; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { font-size: 1.875rem; background: #282B2F; margin-right: 10px; color: #fff; float: left; line-height: 4.375rem; }
 
-@media print, screen and (min-width: 40em) { .updatePost#tacoma-tundra-brake-swap .redBG .row .step .count { line-height: 10rem; } }
+@media print, screen and (min-width: 40em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { line-height: 10rem; } }
 
-@media print, screen and (min-width: 64em) { .updatePost#tacoma-tundra-brake-swap .redBG .row .step .count { line-height: 5.625rem; height: 5.625rem; } }
+@media print, screen and (min-width: 64em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { line-height: 5.625rem; height: 5.625rem; } }
 
-.updatePost#tacoma-tundra-brake-swap .redBG .row .step h4 { padding: 0.625rem; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row .prose h4 { padding: 0.625rem; }
 
 .updatePost-stock .container:hover { background: #f9f9f9; }
 
@@ -2049,6 +2049,8 @@ footer a.colophon:hover { text-decoration: underline; }
 html, body { height: 100%; }
 
 .inline-block { display: inline-block; }
+
+.block { display: block; }
 
 .ie-only { display: none; visibility: hidden; }
 

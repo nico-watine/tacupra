@@ -54,28 +54,28 @@ upload-date: October 28, 2017
 </section>
 <div class="row expanded collapse step-1-2-3" style="background: #fff;">
 	<div class="medium-4 columns">
-		<img style="display: block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
+		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
 		<br>
 		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
 	</div>
 	<div class="medium-4 columns">
-		<img style="display: block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
+		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
 		<br>
 		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
 	</div>
 	<div class="medium-4 columns">
-		<img style="display: block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
+		<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
 		<br>
 		<h5 style="width: 100%; margin: 0 0 20px; padding: 0 8px;" class="text-center inline-block">Install rotors and calipers</h5>
 	</div>
 </div>
-<section class="redBG">
+<section class="step-4">
 	<div class="row">
 		<div class="medium-8 columns">
 			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
 		</div>
 		<div class="medium-4 columns">
-			<div class="step">
+			<div class="prose">
 				<div class="count padding-X">4</div>
 				<h4>Install pads and associated hardware</h4>
 			</div>
