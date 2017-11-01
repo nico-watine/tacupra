@@ -24,3 +24,19 @@ upload-date: October 28, 2017
 		<p>This upgrade is very similar for similar generation 4Runners with the exception of brake lines. The brake lines on the 4Runners are hardline (as opposed to the softlines of the Tacoma), therefore the 4Runners require no brake line fitting modification.</p>
 	</div>
 </div>
+<section class="parts-specs" style="padding: 40px 0; border-top: 3px solid #000;">
+	<h3 class="text-center"><strong>Parts &amp; Specs</strong></h3>
+	<br>
+	<div class="row">
+		<div class="medium-4 columns">
+			<h4><strong>Calipers</strong></h4>
+			<h5>Stamped "13WL" from a 2006 Tundra 4x4﻿</h5>
+			<ul>
+				<li>Raybestos FRC11550 <a href="http://amzn.to/2sKIwib" target="_blank">on Amazon</a></li>
+				<li>Raybestos FRC11549 <a href="http://amzn.to/2sKCeiw" target="_blank">on Amazon</a></li>
+			</ul>
+		</div>
+		<div class="medium-4 columns"></div>
+		<div class="medium-4 columns"></div>
+	</div>	
+</section>
