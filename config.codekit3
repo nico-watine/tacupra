@@ -4476,6 +4476,16 @@
 		"oAP": "\/dist\/build-progress\/tacoma-tundra-brake-swap.php",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5179,6 +5189,16 @@
 		"iS": 65636,
 		"oA": 1,
 		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/trimmed-banjo-bolts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg": {
+		"ft": 16384,
+		"iS": 48505,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5939,6 +5959,16 @@
 		"iS": 65636,
 		"oA": 1,
 		"oAP": "\/img\/update-post\/tacoma-tundra-brake-swap\/trimmed-banjo-bolts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg": {
+		"ft": 16384,
+		"iS": 48505,
+		"oA": 1,
+		"oAP": "\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
