@@ -1951,6 +1951,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #index footer a:hover { text-decoration: underline; }
 
+.updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; }
+
 .updatePost-stock .container:hover { background: #f9f9f9; }
 
 .updatePost-stock .container:nth-child(2n) { background: #fdfdfd; }
