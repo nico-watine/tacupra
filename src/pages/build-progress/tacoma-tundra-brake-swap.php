@@ -19,5 +19,8 @@ upload-date: October 28, 2017
 			<h5 class="text-center inline-block margin-0" style="width: 100%;"><strong>Factory Tacoma brakes</strong></h5>
 		</div>
 	</div>
-	<div class="medium-6 columns">	</div>
+	<div class="medium-6 columns">
+		<h2><strong>Brake Upgrade from Tacoma to Tundra Calipers and Rotors</strong></h2>
+		<p>This upgrade is very similar for similar generation 4Runners with the exception of brake lines. The brake lines on the 4Runners are hardline (as opposed to the softlines of the Tacoma), therefore the 4Runners require no brake line fitting modification.</p>
+	</div>
 </div>
