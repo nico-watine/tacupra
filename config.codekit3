@@ -4470,6 +4470,12 @@
 		"oAP": "\/dist\/build-progress\/single-turbo-fitment.php",
 		"oF": 0
 		},
+	"\/dist\/build-progress\/tacoma-tundra-brake-swap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/tacoma-tundra-brake-swap.php",
+		"oF": 0
+		},
 	"\/dist\/build-progress\/transmission-mount.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -6226,6 +6232,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/single-turbo-fitment.php",
+		"oF": 0
+		},
+	"\/src\/pages\/build-progress\/tacoma-tundra-brake-swap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/build-progress\/tacoma-tundra-brake-swap.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
