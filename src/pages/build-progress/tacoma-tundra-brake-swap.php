@@ -43,6 +43,12 @@ upload-date: October 28, 2017
 				<li>Brembo 09.8196.81 UV Coated <a href="http://amzn.to/2ss5Y0j" target="_blank">on Amazon</a></li>
 			</ul>
 		</div>
-		<div class="medium-4 columns"></div>
+		<div class="medium-4 columns">
+			<h4><strong>Pads</strong></h4>
+			<h5>Factory-fit replacement for 2006 Tundra ﻿4x4﻿</h5>
+			<ul>
+				<li>Brembo P83066N <a href="http://amzn.to/2rN8uwi" target="_blank">on Amazon</a></li>
+			</ul>
+		</div>
 	</div>	
 </section>
