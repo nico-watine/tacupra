@@ -1,9 +1,9 @@
 ---
 url: /build-progress/tacoma-tundra-brake-swap
-title: Tacoma Tundra Brake Swap
-description: I decided that the single turbo was my plan of action because the stock twins…
-og-title: Tacoma Tundra Brake Swap
-og-description: I decided that the single turbo was my plan of action because the stock twins… 
+title: Toyota Tacoma Tundra Brake Swap
+description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
+og-title: Toyota Tacoma Tundra Brake Swap
+og-description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
 og-image: /img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
 body-id: tacoma-tundra-brake-swap
 body-class: updatePost updatePost-unique
