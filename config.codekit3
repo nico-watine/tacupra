@@ -7,105 +7,122 @@
 		"uuidString": "2CAE26B9-B39D-4B10-AA5A-AE8B8C1BE057"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26097",
 "files": {
 	"\/.babelrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.babelrc",
 		"oF": 0
 		},
 	"\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.bowerrc",
 		"oF": 0
 		},
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/_ignores\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_ignores\/_notes.txt",
 		"oF": 0
 		},
 	"\/_ignores\/clone-setup-guide.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/clone-setup-guide.txt",
 		"oF": 0
 		},
 	"\/_ignores\/head\/favicon-linking.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/head\/favicon-linking.html",
 		"oF": 0
 		},
 	"\/_ignores\/head\/head-references.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/head\/head-references.html",
 		"oF": 0
 		},
 	"\/_ignores\/htaccess-snippets.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/htaccess-snippets.txt",
 		"oF": 0
 		},
 	"\/_ignores\/mailchimp-form-1.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/mailchimp-form-1.html",
 		"oF": 0
 		},
 	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/misc\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
 	"\/_ignores\/tacupra.sublime-project": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/tacupra.sublime-project",
 		"oF": 0
 		},
 	"\/_ignores\/tacupra.sublime-workspace": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/tacupra.sublime-workspace",
 		"oF": 0
 		},
 	"\/_ignores\/update-post-image-sizes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/update-post-image-sizes.txt",
 		"oF": 0
 		},
 	"\/_ignores\/youtube-upload-links.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/youtube-upload-links.html",
 		"oF": 0
 		},
 	"\/assets\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/.htaccess",
 		"oF": 0
 		},
 	"\/assets\/403.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/403.html",
 		"oF": 0
 		},
 	"\/assets\/404.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/404.html",
@@ -167,6 +184,7 @@
 		"q": 100
 		},
 	"\/assets\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/favicon.ico",
@@ -184,24 +202,28 @@
 		"q": 100
 		},
 	"\/assets\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
 	"\/assets\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/humans.txt",
 		"oF": 0
 		},
 	"\/assets\/php\/autoVer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/assets\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/robots.txt",
@@ -257,22 +279,24 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.bowerrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.eslintrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -287,10 +311,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -305,12 +329,14 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.sass-lint.yml",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.travis.yml",
@@ -515,10 +541,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -541,6 +567,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/config.yml",
@@ -555,6 +582,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/index.html",
@@ -1238,6 +1266,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/docslink.sh",
@@ -1534,16 +1563,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2541,6 +2571,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/AUTHORS.txt",
@@ -2575,6 +2606,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.map",
@@ -2601,28 +2633,31 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2637,6 +2672,7 @@
 		"uCM": 0
 		},
 	"\/bower_components\/jquery\/src\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/.jshintrc",
@@ -3667,10 +3703,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3685,10 +3721,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3703,10 +3739,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3721,10 +3757,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3739,10 +3775,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3757,10 +3793,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3775,10 +3811,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3793,10 +3829,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3831,6 +3867,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/LICENSE",
@@ -3868,10 +3905,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4180,18 +4217,21 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.editorconfig",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.gitignore",
 		"oF": 0
 		},
 	"\/bower_components\/normalize-css\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/normalize-css\/.travis.yml",
@@ -4206,10 +4246,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/normalize-css\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4290,12 +4330,14 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/index.html",
 		"oF": 0
 		},
 	"\/bower_components\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/LICENSE",
@@ -4310,10 +4352,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4358,12 +4400,14 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
 		"oF": 0
 		},
 	"\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/config.yml",
@@ -4378,6 +4422,915 @@
 		"oAP": "\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/dist\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.htaccess",
+		"oF": 0
+		},
+	"\/dist\/403.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/403.html",
+		"oF": 0
+		},
+	"\/dist\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/404.html",
+		"oF": 0
+		},
+	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 2054,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 2529,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 3080,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 1463,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3080,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/build-progress\/2001-toyota-tacoma-suspension.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/2001-toyota-tacoma-suspension.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/index.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/single-turbo-fitment.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/single-turbo-fitment.php",
+		"oF": 0
+		},
+	"\/dist\/build-progress\/tacoma-tundra-brake-swap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/build-progress\/tacoma-tundra-brake-swap.php",
+		"oF": 0
+		},
+	"\/dist\/css\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dist\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/favicon.ico",
+		"oF": 0
+		},
+	"\/dist\/favicon.png": {
+		"ft": 32768,
+		"iS": 1641,
+		"oA": 1,
+		"oAP": "\/dist\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
+		"oF": 0
+		},
+	"\/dist\/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/humans.txt",
+		"oF": 0
+		},
+	"\/dist\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/assets\/logos\/toyota\/icon\/F1F1F1\/toyota-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/emails\/sigs\/sig-1.png": {
+		"ft": 32768,
+		"iS": 58324,
+		"oA": 1,
+		"oAP": "\/dist\/img\/emails\/sigs\/sig-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/emails\/sigs\/sig-2.png": {
+		"ft": 32768,
+		"iS": 45762,
+		"oA": 1,
+		"oAP": "\/dist\/img\/emails\/sigs\/sig-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/build-truck\/tacoma.jpg": {
+		"ft": 16384,
+		"iS": 114699,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/build-specs\/build-truck\/tacoma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/engine-background.jpg": {
+		"ft": 16384,
+		"iS": 560332,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/build-specs\/engine-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/swap-engine\/supra-2-2.jpg": {
+		"ft": 16384,
+		"iS": 95254,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/build-specs\/swap-engine\/supra-2-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/swap-engine\/supra-2.jpg": {
+		"ft": 16384,
+		"iS": 61553,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/build-specs\/swap-engine\/supra-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg": {
+		"ft": 16384,
+		"iS": 45181,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/build-specs\/swap-engine\/supra.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/subscribe\/tacupra.png": {
+		"ft": 32768,
+		"iS": 7443,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/subscribe\/tacupra.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/subscribe\/toyota.png": {
+		"ft": 32768,
+		"iS": 104476,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/subscribe\/toyota.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/triple-image-banner\/1.jpg": {
+		"ft": 16384,
+		"iS": 74621,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/triple-image-banner\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/triple-image-banner\/2.jpg": {
+		"ft": 16384,
+		"iS": 74646,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/triple-image-banner\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/triple-image-banner\/3.jpg": {
+		"ft": 16384,
+		"iS": 67203,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/triple-image-banner\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/updatePost-links\/plus.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/index\/updatePost-links\/plus.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/logo\/white-alpha-bg.png": {
+		"ft": 32768,
+		"iS": 130591,
+		"oA": 1,
+		"oAP": "\/dist\/img\/logo\/white-alpha-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/og\/og-image-1.jpg": {
+		"ft": 16384,
+		"iS": 511714,
+		"oA": 1,
+		"oAP": "\/dist\/img\/og\/og-image-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/social-media\/facebook\/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/social-media\/facebook\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/social-media\/instagram\/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/social-media\/instagram\/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/before-after-toyota-tacupra-suspension.jpg": {
+		"ft": 16384,
+		"iS": 175216,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/before-after-toyota-tacupra-suspension.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-arm-encouragement.jpg": {
+		"ft": 16384,
+		"iS": 280136,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-arm-encouragement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-control-arms-mockup-2.jpg": {
+		"ft": 16384,
+		"iS": 175066,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-control-arms-mockup-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-control-arms-mockup.jpg": {
+		"ft": 16384,
+		"iS": 146830,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/camburg-upper-control-arms-mockup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/cleaning-total-chaos-spindle-gusset.jpg": {
+		"ft": 16384,
+		"iS": 160394,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/cleaning-total-chaos-spindle-gusset.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/fox-shocks-factory-dsc-series.jpg": {
+		"ft": 16384,
+		"iS": 175123,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/fox-shocks-factory-dsc-series.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/hero-2.jpg": {
+		"ft": 16384,
+		"iS": 233111,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/hero-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/hero.jpg": {
+		"ft": 16384,
+		"iS": 376882,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/increased-wheel-travel.jpg": {
+		"ft": 16384,
+		"iS": 220856,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/increased-wheel-travel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/inner-fender-harness-clamp.jpg": {
+		"ft": 16384,
+		"iS": 104442,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/inner-fender-harness-clamp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/og-image-1.png": {
+		"ft": 32768,
+		"iS": 912218,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/og-image-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/og-image-2.png": {
+		"ft": 32768,
+		"iS": 922538,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/og-image-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/one-off-deaver-leaf-springs.jpg": {
+		"ft": 16384,
+		"iS": 327114,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/one-off-deaver-leaf-springs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/post-thumb.jpg": {
+		"ft": 16384,
+		"iS": 63547,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/post-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/prepping-tacupra-suspension-for-paint.jpg": {
+		"ft": 16384,
+		"iS": 105495,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/prepping-tacupra-suspension-for-paint.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/pressing-out-toyota-ball-joints.jpg": {
+		"ft": 16384,
+		"iS": 211338,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/pressing-out-toyota-ball-joints.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/stock-tundra-brakes-setup.jpg": {
+		"ft": 16384,
+		"iS": 136487,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/stock-tundra-brakes-setup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/upper-ball-joints.jpg": {
+		"ft": 16384,
+		"iS": 151523,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/upper-ball-joints.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/upper-control-arm-cross-bolt.jpg": {
+		"ft": 16384,
+		"iS": 73369,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/upper-control-arm-cross-bolt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/welding-mig-uphill.jpg": {
+		"ft": 16384,
+		"iS": 179945,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/2001-toyota-tacoma-suspension\/welding-mig-uphill.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint-large\/supra.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/breakpoint-large\/supra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/assets\/article\/container-2\/supra.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/assets\/article\/container-2\/supra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/assets\/footer\/tacupra.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/assets\/footer\/tacupra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/assets\/header\/nav\/ts-icon.png": {
+		"ft": 32768,
+		"iS": 3293,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/assets\/header\/nav\/ts-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/assets\/header\/tacupra.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/assets\/header\/tacupra.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/2jz-tacoma-single-turbo-fitment.png": {
+		"ft": 32768,
+		"iS": 282339,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/2jz-tacoma-single-turbo-fitment.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/3d-printed-sp-quickspool-valve.jpg": {
+		"ft": 16384,
+		"iS": 127384,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/3d-printed-sp-quickspool-valve.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/3d-printed-t4-twinscroll-flange.jpg": {
+		"ft": 16384,
+		"iS": 95092,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/3d-printed-t4-twinscroll-flange.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/arb-4x4-winch-pull-bar.jpg": {
+		"ft": 16384,
+		"iS": 168557,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/arb-4x4-winch-pull-bar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/bellhousing-waterpump.jpg": {
+		"ft": 16384,
+		"iS": 143769,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/bellhousing-waterpump.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/efr-7064-3d-vector-1.jpg": {
+		"ft": 16384,
+		"iS": 76548,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/efr-7064-3d-vector-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/efr-7064-3d-vector-2.jpg": {
+		"ft": 16384,
+		"iS": 65503,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/efr-7064-3d-vector-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/hero.jpg": {
+		"ft": 16384,
+		"iS": 154544,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/manifold-1.jpg": {
+		"ft": 16384,
+		"iS": 138148,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/manifold-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/manifold-2.jpg": {
+		"ft": 16384,
+		"iS": 191775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/manifold-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/manifold-3.jpg": {
+		"ft": 16384,
+		"iS": 229058,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/manifold-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/t4-twinscroll-flange.jpg": {
+		"ft": 16384,
+		"iS": 121639,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/t4-twinscroll-flange.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/single-turbo-fitment\/vibrant-performance-block-off-plate.jpg": {
+		"ft": 16384,
+		"iS": 170533,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/single-turbo-fitment\/vibrant-performance-block-off-plate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/cut-to-fit-tundra-caliper.jpg": {
+		"ft": 16384,
+		"iS": 128319,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/cut-to-fit-tundra-caliper.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/factory-tacoma-brakes.jpg": {
+		"ft": 16384,
+		"iS": 98979,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/factory-tacoma-brakes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/installed-pads-hardware.jpg": {
+		"ft": 16384,
+		"iS": 164890,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/installed-pads-hardware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/installed-rotors-calipers.jpg": {
+		"ft": 16384,
+		"iS": 141770,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/installed-rotors-calipers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/pads.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/pads.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/rotor.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/rotor.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/rotors-pads.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/rotors-pads.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tacoma-tundra-brakes-swap.jpg": {
+		"ft": 16384,
+		"iS": 112552,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tacoma-tundra-brakes-swap.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/trimmed-banjo-bolts.jpg": {
+		"ft": 16384,
+		"iS": 65636,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/trimmed-banjo-bolts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg": {
+		"ft": 16384,
+		"iS": 48505,
+		"oA": 1,
+		"oAP": "\/dist\/img\/update-post\/tacoma-tundra-brake-swap\/tundra-brake-setup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
+	"\/dist\/js\/app-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/app-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/vendor\/jquery\/2-2-2\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/vendor\/jquery\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/php\/autoVer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/dist\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/dist\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 5680,
+		"oA": 1,
+		"oAP": "\/dist\/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/tile.png": {
+		"ft": 32768,
+		"iS": 7252,
+		"oA": 1,
+		"oAP": "\/dist\/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 3113,
+		"oA": 1,
+		"oAP": "\/dist\/touch-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
@@ -5406,108 +6359,126 @@
 		"uL": 1
 		},
 	"\/src\/data\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/data\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/data\/cdn.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/data\/cdn.yml",
 		"oF": 0
 		},
 	"\/src\/helpers\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/helpers\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/layouts\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/layouts\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/layouts\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/index-video-splash.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/index-video-splash.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/updatePost.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/layouts\/updatePost.html",
 		"oF": 0
 		},
 	"\/src\/pages\/build-progress\/2001-toyota-tacoma-suspension.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/2001-toyota-tacoma-suspension.php",
 		"oF": 0
 		},
 	"\/src\/pages\/build-progress\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/index.php",
 		"oF": 0
 		},
 	"\/src\/pages\/build-progress\/single-turbo-fitment.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/single-turbo-fitment.php",
 		"oF": 0
 		},
 	"\/src\/pages\/build-progress\/tacoma-tundra-brake-swap.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/build-progress\/tacoma-tundra-brake-swap.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/partials\/_notes.txt",
 		"oF": 0
 		},
 	"\/src\/partials\/google-tracking-id.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/google-tracking-id.html",
 		"oF": 0
 		},
 	"\/src\/partials\/googleTagManager-body.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/googleTagManager-body.html",
 		"oF": 0
 		},
 	"\/src\/partials\/googleTagManager-head.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/googleTagManager-head.html",
 		"oF": 0
 		},
 	"\/src\/partials\/updatePost-footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/updatePost-footer.html",
 		"oF": 0
 		},
 	"\/src\/partials\/updatePost-nav.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/updatePost-nav.html",
@@ -6058,6 +7029,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -6122,9 +7097,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -6154,6 +7129,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -6163,14 +7142,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -7274,7 +8245,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -7307,6 +8279,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -7348,7 +8321,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -7380,13 +8354,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -7395,7 +8369,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 1,
@@ -7415,7 +8390,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -7443,7 +8419,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
