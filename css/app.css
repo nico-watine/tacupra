@@ -2097,20 +2097,20 @@ html, body { height: 100%; }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }
 
-.padding-0 { padding: 0; }
+.padding-0 { padding: 0 !important; }
 
-.padding-X { padding: 0 0.9375rem; }
+.padding-X { padding: 0 0.9375rem !important; }
 
-.padding-Y { padding: 0.9375rem 0; }
+.padding-Y { padding: 0.9375rem 0 !important; }
 
-.padding-XY { padding: 0.9375rem; }
+.padding-XY { padding: 0.9375rem !important; }
 
-.margin-0 { margin: 0; }
+.margin-0 { margin: 0 !important; }
 
-.margin-X { margin: 0 0.9375rem; }
+.margin-X { margin: 0 0.9375rem !important; }
 
-.margin-Y { margin: 0.9375rem 0; }
+.margin-Y { margin: 0.9375rem 0 !important; }
 
-.margin-XY { margin: 0.9375rem; }
+.margin-XY { margin: 0.9375rem !important; }
 
 .updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
