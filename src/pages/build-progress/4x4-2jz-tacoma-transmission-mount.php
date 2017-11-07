@@ -114,7 +114,7 @@ upload-date: November 6, 2017
 		</div>
 	</div>
 </section>
-<section>
+<section class="masonrySection">
 	<br>
 	<br>
 	<div id="masonryGrid" class="row small-up-2 medium-up-3">
@@ -155,7 +155,7 @@ upload-date: November 6, 2017
 			<div class="tileBase">
 				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/weld-close-to-mount-holes-cleared-by-washers.jpg" alt="">
 				<div class="padding-XY">
-					<p class="margin-0">The weld was a little close to the mount holes, but the washer and bolt heads just cleared it</p>
+					<p class="margin-0">The weld was a little close to the mount holes, but the washer and bolt heads <em>just</em> cleared it</p>
 				</div>
 			</div>
 		</div>

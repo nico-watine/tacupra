@@ -2005,6 +2005,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection .caption p { color: #fff; }
 
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .masonrySection { background: #f1f1f1 url("/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png") center/auto; }
+
 .updatePost#id-4x4-2jz-tacoma-transmission-mount #masonryGrid .tile .tileBase { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; border-radius: 0.25rem; }
 
 .updatePost-stock .container:hover { background: #f9f9f9; }
