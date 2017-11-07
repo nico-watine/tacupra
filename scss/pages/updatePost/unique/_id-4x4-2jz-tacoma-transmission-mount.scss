@@ -22,7 +22,15 @@
 			background: #fff;
 			border: rem-calc(4) solid #BB3938;
 			box-shadow: $z-2;
-			border-radius: rem-calc(4)
+			border-radius: rem-calc(4);
+
+			p {
+				span {
+					font-size: rem-calc(48);
+					color: #BB3938;
+					line-height: 1.4;
+				}
+			}
 		}
 	}
 }
