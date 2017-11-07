@@ -5,6 +5,10 @@
 		background: #fff;
 		box-shadow: $z-1;
 		border-radius: rem-calc(4);
+
+		img {
+			border-bottom: rem-calc(4) solid #BB3938;
+		}
 	}
 }
 
