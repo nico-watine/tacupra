@@ -115,7 +115,7 @@ upload-date: November 6, 2017
 	</div>
 </section>
 <section id="masonryGrid">
-		<div class="row small-up-2 medium-up-3 large-up-4">
+	<div class="row small-up-2 medium-up-3">
 		  <div class="tile column column-block">
 		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
 		  </div>
@@ -134,5 +134,5 @@ upload-date: November 6, 2017
 		  <div class="tile column column-block">
 		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
 		  </div>
-		</div>
+	</div>
 </section>
