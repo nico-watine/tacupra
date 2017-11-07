@@ -22,6 +22,8 @@ upload-date: November 6, 2017
 				<p>The 2JZ is longer than the Tacoma's original V6, so the make room, I cut the original driveshaft and pushed the transmission back. This meant I had to fabricate a whole new transmission crossmember.</p>
 				<br>
 				<span style="background: #BB3938; height: 15px; max-width: 270px; display: block;"></span>
+				<br>
+				<br>
 			</div>
 		</div>
 		<div class="medium-6 medium-pull-6 columns">
