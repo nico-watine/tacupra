@@ -114,64 +114,25 @@ upload-date: November 6, 2017
 		</div>
 	</div>
 </section>
-<ul id="container" style="list-style-type: none;" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-  <li>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-	  <p>We're stoked to finally release the newest member of the Foundation family…</p>
-  </li>
-</ul>
-
+<section id="masonryGrid">
+		<div class="row small-up-2 medium-up-3 large-up-4">
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		  <div class="tile column column-block">
+		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		  </div>
+		</div>
+</section>

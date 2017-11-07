@@ -31,12 +31,6 @@
 	<meta property="og:image" content="https://tacupra.com{{ og-image }}">
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
-	
-	<style>
-		#container > li {
-			border: 1px solid red; /* !test */
-		}
-	</style>
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 {{> googleTagManager-body}}
@@ -69,9 +63,9 @@
 <script>
 $(window).load(function(){
 
-  $('#container').masonry({
+  $('#masonryGrid').masonry({
 
-    itemSelector: '#container li'
+    itemSelector: '#masonryGrid .tile'
 
   });
 
