@@ -92,6 +92,14 @@ upload-date: November 6, 2017
 </section>
 <section class="toolSetupSection padding-Y">
 	<h2 class="text-center" style="color: #fff;"><strong>Tool Setup</strong></h2>
+	<div class="row expanded collapse">
+		<div class="large-6 columns">
+			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
+		</div>
+		<div class="large-6 columns">
+			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/mig-settings-weld-job.jpg" alt="">
+		</div>
+	</div>
 </section>
 
 
