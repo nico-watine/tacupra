@@ -2004,6 +2004,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .featureCard .prose { padding: 0.9375rem; }
 
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection { background: #f1f1f1 url("/img/update-post/4x4-2jz-tacoma-transmission-mount/ruler.svg") center center/cover no-repeat; }
+
 .updatePost-stock .container:hover { background: #f9f9f9; }
 
 .updatePost-stock .container:nth-child(2n) { background: #fdfdfd; }

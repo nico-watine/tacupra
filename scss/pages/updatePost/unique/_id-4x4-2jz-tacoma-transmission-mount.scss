@@ -14,5 +14,9 @@
 			padding: rem-calc(15);
 		}
 	}
+
+	.measurementSection {
+		background: $body-background url("#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/ruler.svg") center center/cover no-repeat;
+	}
 }
 
