@@ -69,7 +69,7 @@ upload-date: November 6, 2017
 	<div class="row" data-equalizer>
 		<div class="large-3 columns large-push-1">
 			<div class="measurementCard padding-XY" data-equalizer-watch>
-				
+				<p>Front half of the shaft cut by <span>2.75”</span></p>
 			</div>
 		</div>
 	</div>
