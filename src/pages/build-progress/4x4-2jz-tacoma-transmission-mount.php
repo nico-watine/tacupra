@@ -100,8 +100,8 @@ upload-date: November 6, 2017
 			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
 		</div>
 		<div class="large-6 columns" style="position: relative;">
-			<div class="caption">
-				
+			<div class="caption text-center padding-Y" style="background: rgba(0,0,0,0.50); position: absolute; bottom: 0; width: 100%;">
+				<p style="color: #fff; text-shadow: 0 2px 4px #000;" class="margin-0 xLarge">MIG settings for the weld job</p>
 			</div>
 			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/mig-settings-weld-job.jpg" alt="">
 		</div>
