@@ -689,8 +689,7 @@ p + .stat { margin-top: -1rem; }
   img { max-width: 100% !important; }
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3 { page-break-after: avoid; }
-  .print-break-inside { page-break-inside: auto; } }
+  h2, h3 { page-break-after: avoid; } }
 
 .menu { margin: 0; list-style-type: none; }
 
@@ -935,18 +934,6 @@ p + .stat { margin-top: -1rem; }
 .button.disabled.alert, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert, .button[disabled].alert:hover, .button[disabled].alert:focus { background-color: #cc4b37; color: #fefefe; }
 
 .button.dropdown::after { display: block; width: 0; height: 0; border: inset 0.4em; content: ''; border-bottom-width: 0; border-top-style: solid; border-color: #fefefe transparent transparent; position: relative; top: 0.4em; display: inline-block; float: right; margin-left: 1em; }
-
-.button.dropdown.hollow::after { border-top-color: #1779ba; }
-
-.button.dropdown.hollow.primary::after { border-top-color: #1779ba; }
-
-.button.dropdown.hollow.secondary::after { border-top-color: #767676; }
-
-.button.dropdown.hollow.success::after { border-top-color: #3adb76; }
-
-.button.dropdown.hollow.warning::after { border-top-color: #ffae00; }
-
-.button.dropdown.hollow.alert::after { border-top-color: #cc4b37; }
 
 .button.arrow-only::after { top: -0.1em; float: none; margin-left: 0; }
 
@@ -1556,7 +1543,7 @@ meter:-moz-meter-sub-sub-optimum::-moz-meter-bar { background: #cc4b37; }
 
 body.is-reveal-open { overflow: hidden; }
 
-html.is-reveal-open, html.is-reveal-open body { min-height: 100%; overflow: hidden; position: fixed; user-select: none; }
+html.is-reveal-open, html.is-reveal-open body { min-height: 100%; overflow: hidden; user-select: none; }
 
 .reveal-overlay { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 1005; display: none; background-color: rgba(10, 10, 10, 0.45); overflow-y: scroll; }
 
@@ -1566,7 +1553,7 @@ html.is-reveal-open, html.is-reveal-open body { min-height: 100%; overflow: hidd
 
 @media print, screen and (min-width: 40em) { .reveal { min-height: 0; } }
 
-.reveal .column, .reveal .columns { min-width: 0; }
+.reveal .column, .reveal .columns, .reveal .columns { min-width: 0; }
 
 .reveal > :last-child { margin-bottom: 0; }
 
@@ -1851,8 +1838,6 @@ a.thumbnail image { box-shadow: none; }
 
 .align-self-stretch { align-self: stretch; }
 
-.align-center-middle { justify-content: center; align-items: center; align-content: center; }
-
 .small-order-1 { order: 1; }
 
 .small-order-2 { order: 2; }
@@ -2019,6 +2004,10 @@ footer a.colophon:hover { text-decoration: underline; }
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection .caption { background: rgba(0, 0, 0, 0.7); position: absolute; bottom: 0; width: 100%; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection .caption p { color: #fff; }
+
+.updatePost#id-4x4-2jz-tacoma-transmission-mount #masonryGrid .tile { max-width: 25rem; }
+
+.updatePost#id-4x4-2jz-tacoma-transmission-mount #masonryGrid .tile .tileBase { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; border-radius: 0.25rem; overflow: hidden; }
 
 .updatePost-stock .container:hover { background: #f9f9f9; }
 

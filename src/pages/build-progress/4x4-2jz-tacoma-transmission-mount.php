@@ -116,23 +116,53 @@ upload-date: November 6, 2017
 </section>
 <section id="masonryGrid">
 	<div class="row small-up-2 medium-up-3">
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
-		  <div class="tile column column-block">
-		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
-		  </div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<div class="padding-XY">
+					<p class="margin-0">First tacks</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>

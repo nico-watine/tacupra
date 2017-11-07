@@ -56,5 +56,18 @@
 			}
 		}
 	}
+
+	#masonryGrid {
+		.tile {
+			max-width: rem-calc(400);
+
+			.tileBase {
+				box-shadow: $z-1;
+				background: #fff;
+				border-radius: rem-calc(4);
+				overflow: hidden;
+			}
+		}
+	}
 }
 
