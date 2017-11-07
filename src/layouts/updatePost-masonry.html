@@ -33,7 +33,7 @@
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 	
 	<style>
-		#masonry-container > li {
+		#container > li {
 			border: 1px solid red; /* !test */
 		}
 	</style>
@@ -69,9 +69,9 @@
 <script>
 $(window).load(function(){
 
-  $('#masonry-container').masonry({
+  $('#container').masonry({
 
-    itemSelector: '#masonry-container li'
+    itemSelector: '#container li'
 
   });
 
