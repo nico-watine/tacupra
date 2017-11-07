@@ -40,4 +40,20 @@ upload-date: November 6, 2017
 	</div>
 	<br>
 	<br>
+	<div class="row" data-equalizer>
+		<div class="large-4 columns">
+			<div class="featureCard" data-equalizer-watch>
+				&nbsp;
+			</div>
+		</div>
+		<div class="large-8 columns">
+			<div class="featureCard" data-equalizer-watch>
+				&nbsp;
+			</div>
+		</div>
+	</div>
 </section>
+
+
+
+
