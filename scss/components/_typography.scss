@@ -1,4 +1,26 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+p.large,
+p.xLarge {
+	line-height: 1.4;
+	margin: 0 0 rem-calc(8);
+}
 
+p.large {
+	font-size: rem-calc(17);
+}
+
+p.xLarge {
+	font-size: rem-calc(18);
+}
+
+@include breakpoint(medium) {
+	p.large {
+		font-size: rem-calc(20);
+	}
+
+	p.xLarge {
+		font-size: rem-calc(25);
+	}
+}
