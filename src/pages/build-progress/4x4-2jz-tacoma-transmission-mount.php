@@ -65,7 +65,7 @@ upload-date: November 6, 2017
 </section>
 <section class="measurementSection">
 	<br>
-	<h2 class="text-center" style="color: #BB3938;"><strong>Measurement Stats</strong></h2>
+	<h2 class="text-center"><strong>Measurement Stats</strong></h2>
 	<br>
 	<div class="row" data-equalizer>
 		<div class="large-3 columns large-push-1">

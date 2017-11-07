@@ -18,6 +18,10 @@
 	.measurementSection {
 		background: url("#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/ruler.svg") center top/cover no-repeat;
 
+		h2 {
+			color: #BB3938;
+		}
+
 		.measurementCard {
 			background: #fff;
 			border: rem-calc(4) solid #BB3938;
