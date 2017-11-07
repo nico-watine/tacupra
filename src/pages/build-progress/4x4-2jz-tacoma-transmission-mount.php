@@ -90,8 +90,8 @@ upload-date: November 6, 2017
 	<br>
 	<br>
 </section>
-<section>
-	
+<section class="toolSetupSection padding-Y">
+	<h2 class="text-center" style="color: #fff;"><strong>Tool Setup</strong></h2>
 </section>
 
 

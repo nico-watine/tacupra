@@ -2012,6 +2012,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard p span { font-size: 3rem; color: #BB3938; line-height: 1.4; }
 
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection { background: #BB3938; }
+
 .updatePost-stock .container:hover { background: #f9f9f9; }
 
 .updatePost-stock .container:nth-child(2n) { background: #fdfdfd; }
