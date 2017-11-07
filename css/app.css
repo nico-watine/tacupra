@@ -2099,6 +2099,8 @@ html, body { height: 100%; }
 
 .block { display: block; }
 
+.relative { position: relative; }
+
 .ie-only { display: none; visibility: hidden; }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }

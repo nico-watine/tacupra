@@ -93,13 +93,13 @@ upload-date: November 6, 2017
 <section class="toolSetupSection">
 	<h2 class="text-center padding-Y margin-0"><strong>Tool Setup</strong></h2>
 	<div class="row expanded collapse">
-		<div class="large-6 columns" style="position: relative;">
+		<div class="large-6 columns relative">
 			<div class="caption text-center padding-Y">
 				<p class="margin-0 xLarge">Gas settings for the MIG job</p>
 			</div>
 			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
 		</div>
-		<div class="large-6 columns" style="position: relative;">
+		<div class="large-6 columns relative">
 			<div class="caption text-center padding-Y">
 				<p class="margin-0 xLarge">MIG settings for the weld job</p>
 			</div>
