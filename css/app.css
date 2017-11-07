@@ -2002,6 +2002,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .featureCard img { border-bottom: 0.25rem solid #BB3938; }
 
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .featureCard .prose { padding: 0.9375rem; }
+
 .updatePost-stock .container:hover { background: #f9f9f9; }
 
 .updatePost-stock .container:nth-child(2n) { background: #fdfdfd; }
