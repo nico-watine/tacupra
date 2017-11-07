@@ -90,8 +90,8 @@ upload-date: November 6, 2017
 	<br>
 	<br>
 </section>
-<section class="toolSetupSection padding-Y">
-	<h2 class="text-center" style="color: #fff;"><strong>Tool Setup</strong></h2>
+<section class="toolSetupSection">
+	<h2 class="text-center padding-Y"><strong>Tool Setup</strong></h2>
 	<div class="row expanded collapse">
 		<div class="large-6 columns" style="position: relative;">
 			<div class="caption text-center padding-Y">
