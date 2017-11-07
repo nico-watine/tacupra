@@ -58,7 +58,11 @@
 	}
 
 	.masonrySection {
-		background: $body-background url("#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png") center/auto;
+		background:
+			linear-gradient(
+				rgba(184,0,0,0.70), 
+				rgba(184,0,0,0.70)
+			), url('#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png') center/auto;
 	}
 
 	#masonryGrid {
