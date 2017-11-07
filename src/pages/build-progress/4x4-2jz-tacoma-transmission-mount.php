@@ -117,22 +117,22 @@ upload-date: November 6, 2017
 <section id="masonryGrid">
 	<div class="row small-up-2 medium-up-3">
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 		  <div class="tile column column-block">
-		    <img src="https://placehold.it/600x600" class="thumbnail" alt="">
+		    <img src="https://placehold.it/300x300" class="thumbnail" alt="">
 		  </div>
 	</div>
 </section>
