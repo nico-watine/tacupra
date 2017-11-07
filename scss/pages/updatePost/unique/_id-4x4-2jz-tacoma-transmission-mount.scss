@@ -40,6 +40,17 @@
 
 	.toolSetupSection {
 		background: #BB3938;
+
+		.caption {
+			background: rgba(0,0,0,.7); 
+			position: absolute; 
+			bottom: 0; 
+			width: 100%;
+
+			p {
+				color: #fff;
+			}
+		}
 	}
 }
 
