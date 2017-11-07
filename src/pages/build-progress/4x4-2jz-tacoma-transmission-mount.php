@@ -114,8 +114,8 @@ upload-date: November 6, 2017
 		</div>
 	</div>
 </section>
-<section id="masonryGrid">
-	<div class="row small-up-2 medium-up-3">
+<section>
+	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
