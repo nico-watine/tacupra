@@ -30,3 +30,11 @@ upload-date: November 6, 2017
 	</div>
 	<br>
 </section>
+<section>
+	<br>
+	<div class="row">
+		<div class="large-8 columns large-push-2 end">
+			<p class="xLarge"><strong>I first needed to measure the original length of the driveshaft to verify my total length after the cut.</strong></p>
+		</div>
+	</div>
+</section>
