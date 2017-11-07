@@ -7,7 +7,7 @@ og-description:
 og-image: 
 body-id: id-4x4-2jz-tacoma-transmission-mount
 body-class: updatePost updatePost-unique
-layout: updatePost
+layout: updatePost-masonry
 hero-background-image: /img/update-post/4x4-2jz-tacoma-transmission-mount/tacoma-transmission-mount.jpg
 post-title: 4x4 2JZ Tacoma Transmission Mount
 upload-date: November 6, 2017
