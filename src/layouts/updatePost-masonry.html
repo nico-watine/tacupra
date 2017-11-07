@@ -32,6 +32,11 @@
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 	
+	<style>
+		#masonry-container > li {
+			border: 1px solid red; /* !test */
+		}
+	</style>
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 {{> googleTagManager-body}}
@@ -61,6 +66,17 @@
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
+<script>
+$(window).load(function(){
+
+  $('#masonry-container').masonry({
+
+    itemSelector: '#masonry-container li'
+
+  });
+
+});
+</script>
 <script type="text/javascript" src="https://assets.gfycat.com/gfycat.js"></script>
 
 </body>
