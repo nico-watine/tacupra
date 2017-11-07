@@ -48,6 +48,8 @@ upload-date: November 6, 2017
 					<p>This is the measuring point at the back of the output flange.</p>
 				</div>
 			</div>
+			<br>
+			<br>
 		</div>
 		<div class="large-8 columns">
 			<div class="featureCard" data-equalizer-watch>
@@ -56,6 +58,8 @@ upload-date: November 6, 2017
 					<p>This point is the mounting flange at the front of the carrier bearing.</p>
 				</div>
 			</div>
+			<br>
+			<br>
 		</div>
 	</div>
 </section>
