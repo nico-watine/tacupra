@@ -72,6 +72,11 @@ upload-date: November 6, 2017
 				<p>Front half of the shaft cut by <span class="block"><strong>2.75”</strong></span></p>
 			</div>
 		</div>
+		<div class="large-4 columns large-push-1 end">
+			<div class="measurementCard padding-XY" data-equalizer-watch>
+				<p>Final measurement taken from middle of flange to front of carrier bearing bracket <span class="block"><strong>27.75”</strong></span></p>
+			</div>
+		</div>
 	</div>
 </section>
 
