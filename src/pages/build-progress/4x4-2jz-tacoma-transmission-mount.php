@@ -42,7 +42,7 @@ upload-date: November 6, 2017
 	<br>
 	<div class="row" data-equalizer>
 		<div class="large-4 columns">
-			<div class="featureCard" data-equalizer-watch>
+			<div class="infoCard" data-equalizer-watch>
 				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
 				<div class="prose">
 					<p>This is the measuring point at the back of the output flange.</p>
@@ -52,7 +52,7 @@ upload-date: November 6, 2017
 			<br>
 		</div>
 		<div class="large-8 columns">
-			<div class="featureCard" data-equalizer-watch>
+			<div class="infoCard" data-equalizer-watch>
 				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
 				<div class="prose">
 					<p>This point is the mounting flange at the front of the carrier bearing.</p>
@@ -90,6 +90,8 @@ upload-date: November 6, 2017
 	<br>
 	<br>
 </section>
-
+<section>
+	
+</section>
 
 
