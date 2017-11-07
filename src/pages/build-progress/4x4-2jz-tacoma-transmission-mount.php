@@ -66,6 +66,13 @@ upload-date: November 6, 2017
 <section class="measurementSection">
 	<br>
 	<h2 class="text-center" style="color: #BB3938;"><strong>Measurement Stats</strong></h2>
+	<div class="row" data-equalizer>
+		<div class="large-3 columns large-push-1">
+			<div class="measurementCard padding-XY" data-equalizer-watch>
+				
+			</div>
+		</div>
+	</div>
 </section>
 
 
