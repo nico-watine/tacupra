@@ -1881,9 +1881,12 @@ a.thumbnail image { box-shadow: none; }
 
 p.large, p.xLarge { line-height: 1.4; margin: 0 0 0.5rem; }
 
-p.large { font-size: 1.25rem; }
+p.large { font-size: 1.0625rem; }
 
-p.xLarge { font-size: 1.5625rem; }
+p.xLarge { font-size: 1.125rem; }
+
+@media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
+  p.xLarge { font-size: 1.5625rem; } }
 
 footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
 

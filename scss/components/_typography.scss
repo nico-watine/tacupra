@@ -8,9 +8,19 @@ p.xLarge {
 }
 
 p.large {
-	font-size: rem-calc(20);
+	font-size: rem-calc(17);
 }
 
 p.xLarge {
-	font-size: rem-calc(25);
+	font-size: rem-calc(18);
+}
+
+@include breakpoint(medium) {
+	p.large {
+		font-size: rem-calc(20);
+	}
+
+	p.xLarge {
+		font-size: rem-calc(25);
+	}
 }
