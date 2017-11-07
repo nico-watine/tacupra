@@ -69,17 +69,17 @@ upload-date: November 6, 2017
 	<div class="row" data-equalizer>
 		<div class="large-3 columns large-push-1">
 			<div class="measurementCard padding-XY" data-equalizer-watch>
-				<p>Front half of the shaft cut by <span class="block"><strong>2.75”</strong></span></p>
+				<p class="margin-0">Front half of the shaft cut by <span class="block"><strong>2.75”</strong></span></p>
 			</div>
 		</div>
 		<div class="large-4 columns large-push-1">
 			<div class="measurementCard padding-XY" data-equalizer-watch>
-				<p>Final measurement taken from middle of flange to front of carrier bearing bracket <span class="block"><strong>27.75”</strong></span></p>
+				<p class="margin-0">Final measurement taken from middle of flange to front of carrier bearing bracket <span class="block"><strong>27.75”</strong></span></p>
 			</div>
 		</div>
 		<div class="large-3 columns large-push-1 end">
 			<div class="measurementCard padding-XY" data-equalizer-watch>
-				<p>Length after modifying transmission mount <span class="block"><strong>25”</strong></span></p>
+				<p class="margin-0">Length after modifying transmission mount <span class="block"><strong>25”</strong></span></p>
 			</div>
 		</div>
 	</div>
