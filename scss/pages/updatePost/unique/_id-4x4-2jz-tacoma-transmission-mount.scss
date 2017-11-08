@@ -16,6 +16,12 @@
 		}
 	}
 
+	.measurementIntro-prose {
+		@include breakpoint(medium down) {
+			max-width: rem-calc(600);
+		}
+	}
+
 	img#pencil-saw {
 		width: rem-calc(80);
 	}
