@@ -2060,6 +2060,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .block { display: block; }
 
+.ie-only { display: none; visibility: hidden; }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }
+
 .updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
 .padding-0 { padding: 0; }
@@ -2088,7 +2092,3 @@ p.xLarge { font-size: 1.125rem; }
 
 @media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
   p.xLarge { font-size: 1.5625rem; } }
-
-.ie-only { display: none; visibility: hidden; }
-
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }
