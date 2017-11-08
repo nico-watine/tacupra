@@ -2084,8 +2084,6 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
-html, body { height: 100%; }
-
 .inline-block { display: inline-block; }
 
 .block { display: block; }
@@ -2096,7 +2094,13 @@ html, body { height: 100%; }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) { .ie-only { display: block; visibility: visible; } }
 
+<<<<<<< HEAD
 .padding-0 { padding: 0 !important; }
+=======
+.updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
+.padding-0 { padding: 0; }
+>>>>>>> develop
 
 .padding-X { padding: 0 0.9375rem !important; }
 
@@ -2112,4 +2116,13 @@ html, body { height: 100%; }
 
 .margin-XY { margin: 0.9375rem !important; }
 
-.updatePost-gfyEmbed { margin: 1rem 0; border: 0.1875rem solid #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+html, body { height: 100%; }
+
+p.large, p.xLarge { line-height: 1.4; margin: 0 0 0.5rem; }
+
+p.large { font-size: 1.0625rem; }
+
+p.xLarge { font-size: 1.125rem; }
+
+@media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
+  p.xLarge { font-size: 1.5625rem; } }
