@@ -1999,7 +1999,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection h2 { color: #BB3938; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard { background: #fff; border: 0.25rem solid #BB3938; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); border-radius: 0.25rem; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard { background: #fff; border: 0.25rem solid #BB3938; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); border-radius: 0.25rem; max-width: 25rem; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard p span { font-size: 3rem; color: #BB3938; line-height: 1.4; }
 
