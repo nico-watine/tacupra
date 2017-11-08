@@ -5,6 +5,10 @@
 		background: $body-background url("#{$url}/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat;
 		background-position: 110% -50px;
 
+		.prose {
+			max-width: rem-calc(570);
+		}
+
 		span {
 			background: #BB3938;
 			height: 15px;
