@@ -24,7 +24,10 @@
 		background: #fff;
 		box-shadow: $z-1;
 		border-radius: rem-calc(4);
-		max-width: rem-calc(500);
+
+		@include breakpoint(small only) {
+			max-width: rem-calc(500);
+		}
 
 		img {
 			border-bottom: rem-calc(4) solid #BB3938;

@@ -1991,7 +1991,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount img#pencil-saw { width: 5rem; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.25rem; max-width: 31.25rem; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.25rem; }
+
+@media screen and (max-width: 39.9375em) { .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard { max-width: 31.25rem; } }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard img { border-bottom: 0.25rem solid #BB3938; }
 
