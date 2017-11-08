@@ -104,13 +104,16 @@ upload-date: November 6, 2017
 	<div class="row expanded collapse">
 		<div class="large-6 columns relative">
 			<div class="caption text-center padding-Y">
-				<p class="margin-0 xLarge">Gas settings for the MIG job</p>
+				<p class="margin-0 large">MIG Job Gas Settings - Argon/CO2 75%25%</p>
+				<!-- <p class="margin-0 xLarge">Gas settings for the MIG job</p> -->
+				<!-- <p class="margin-0">MIG Job Gas Settings</p>
+				<p class="margin-0 large">Argon/CO2 75%25%</p> -->
 			</div>
 			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
 		</div>
 		<div class="large-6 columns relative">
 			<div class="caption text-center padding-Y">
-				<p class="margin-0 xLarge">MIG settings for the weld job</p>
+				<p class="margin-0 large">MIG settings for the weld job</p>
 			</div>
 			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/mig-settings-weld-job.jpg" alt="">
 		</div>
