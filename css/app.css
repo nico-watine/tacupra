@@ -1985,6 +1985,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section { background: #f1f1f1 url("/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat; background-position: 110% -50px; }
 
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section span { background: #BB3938; height: 15px; width: 270px; }
+
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border-radius: 0.25rem; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard img { border-bottom: 0.25rem solid #BB3938; }
