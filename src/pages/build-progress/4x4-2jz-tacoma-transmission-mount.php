@@ -77,15 +77,15 @@ upload-date: November 6, 2017
 	<h2 class="text-center"><strong>Measurement Stats</strong></h2>
 	<br>
 	<div class="row" data-equalizer>
-		<div class="large-3 columns large-push-1">
+=		<div class="large-4 columns large-push-1">
 			<div class="measurementCard margin-centered padding-XY" data-equalizer-watch>
-				<p class="margin-0">Front half of the shaft cut by <span class="displayBlock"><strong>2.75”</strong></span></p>
+				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="displayBlock"><strong>27.75”</strong></span></p>
 			</div>
 			<br>
 		</div>
-		<div class="large-4 columns large-push-1">
+		<div class="large-3 columns large-push-1">
 			<div class="measurementCard margin-centered padding-XY" data-equalizer-watch>
-				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="displayBlock"><strong>27.75”</strong></span></p>
+				<p class="margin-0">Front half of the shaft cut by <span class="displayBlock"><strong>2.75”</strong></span></p>
 			</div>
 			<br>
 		</div>
