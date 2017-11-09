@@ -31,7 +31,7 @@ upload-date: November 6, 2017
 				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 1020px)">
 				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/800/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 800px)">
 				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/new-shortened-driveshaft.jpg" media="(min-width: 640px)">
-				<img srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" alt="…">
+				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" alt="…">
 			</picture>
 		</div>
 	</div>
