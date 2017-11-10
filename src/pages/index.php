@@ -112,6 +112,17 @@ layout: index-video-splash
 			</div>
 		</div>
 	</div>
+	<div class="row expanded" data-equalizer>
+		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
+			<div class="postLink-card">
+				<img class="feature-image" src="{{ cdn }}img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
+				<div class="prose">
+					<h4 data-equalizer-watch class="post-title"><strong>4x4 2JZ Transmission Mount</strong></h4>
+					<a href="/build-progress/2001-toyota-tacoma-suspension.php" class="post-link text-center">Build Update</a>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <footer class="text-center">
 	<a href="https://studioncreations.com/" target="_blank">A <span>Studio N</span> Creation</a>
