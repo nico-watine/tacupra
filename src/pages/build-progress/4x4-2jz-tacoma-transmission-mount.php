@@ -1,9 +1,9 @@
 ---
 url: /build-progress/4x4-2jz-tacoma-transmission-mount
 title: 4x4 2JZ Tacoma Transmission Mount
-description: 
+description: Since the Tacupra is recieving the 2JZ inline-6 engine from the Toyota Supra, I had to shorten the driveshaft. To make room, I had to…
 og-title: 4x4 2JZ Tacoma Transmission Mount
-og-description: 
+og-description: Since the Tacupra is recieving the 2JZ inline-6 engine from the Toyota Supra, I had to shorten the driveshaft. To make room, I had to…
 og-image: 
 body-id: id-4x4-2jz-tacoma-transmission-mount
 body-class: updatePost updatePost-unique
