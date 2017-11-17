@@ -118,7 +118,7 @@ layout: index-video-splash
 				<img class="feature-image" src="{{ cdn }}img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
 				<div class="prose">
 					<h4 data-equalizer-watch class="post-title"><strong>4x4 2JZ Transmission Mount</strong></h4>
-					<a href="/build-progress/2001-toyota-tacoma-suspension.php" class="post-link text-center">Build Update</a>
+					<a href="/build-progress/4x4-2jz-tacoma-transmission-mount" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>
