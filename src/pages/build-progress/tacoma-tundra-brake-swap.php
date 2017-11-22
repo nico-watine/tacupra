@@ -4,11 +4,11 @@ title: Toyota Tacoma Tundra Brake Swap
 description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
 og-title: Toyota Tacoma Tundra Brake Swap
 og-description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
-og-image: {{ cdn }}/img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
+og-image: /img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
 body-id: tacoma-tundra-brake-swap
 body-class: updatePost updatePost-unique
 layout: updatePost
-hero-background-image: {{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-brakes-swap.jpg
+hero-background-image: /img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-brakes-swap.jpg
 post-title: Tacoma Tundra Brake Swap
 upload-date: October 28, 2017
 ---
