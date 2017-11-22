@@ -4,18 +4,18 @@ title: Toyota Tacoma Tundra Brake Swap
 description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
 og-title: Toyota Tacoma Tundra Brake Swap
 og-description: The Tacupra build had its Tacoma brakes upgraded to Tundra calipers & rotors
-og-image: /img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
+og-image: {{ cdn }}/img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
 body-id: tacoma-tundra-brake-swap
 body-class: updatePost updatePost-unique
 layout: updatePost
-hero-background-image: /img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-brakes-swap.jpg
+hero-background-image: {{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tacoma-tundra-brakes-swap.jpg
 post-title: Tacoma Tundra Brake Swap
 upload-date: October 28, 2017
 ---
 <div class="row intro-prose">
 	<div class="medium-6 columns">
 		<div class="imageCard">
-			<img src="/img/update-post/tacoma-tundra-brake-swap/factory-tacoma-brakes.jpg" alt="Factory Tacoma Brakes" title="Factory Tacoma Brakes">
+			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/factory-tacoma-brakes.jpg" alt="Factory Tacoma Brakes" title="Factory Tacoma Brakes">
 			<h5 class="text-center inline-block margin-0"><strong>Factory Tacoma brakes</strong></h5>
 		</div>
 		<br>
@@ -60,7 +60,7 @@ upload-date: October 28, 2017
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>1</strong></span>
-			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
+			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
 		</div>
 		<br>
 		<h5 class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
@@ -68,7 +68,7 @@ upload-date: October 28, 2017
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>2</strong></span>
-			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
+			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
 		</div>
 		<br>
 		<h5 class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
@@ -76,7 +76,7 @@ upload-date: October 28, 2017
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>3</strong></span>
-			<img class="block" src="/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
+			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
 		</div>
 		<br>
 		<h5 class="text-center inline-block">Install rotors and calipers</h5>
@@ -85,7 +85,7 @@ upload-date: October 28, 2017
 <section class="step-4">
 	<div class="row">
 		<div class="medium-8 columns">
-			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
+			<img src="{{ cdn }}{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
 		</div>
 		<div class="medium-4 columns">
 			<div class="prose">
