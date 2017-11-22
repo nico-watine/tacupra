@@ -28,10 +28,10 @@ upload-date: November 6, 2017
 		</div>
 		<div class="medium-6 medium-pull-6 columns">
 			<picture>
-				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 1020px)">
-				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/800/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 800px)">
-				<source srcset="/img/update-post/4x4-2jz-tacoma-transmission-mount/new-shortened-driveshaft.jpg" media="(min-width: 640px)">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" alt="…">
+				<source srcset="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 1020px)">
+				<source srcset="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/800/transmission-mount-clears-fits-underneath.jpg" media="(min-width: 800px)">
+				<source srcset="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/new-shortened-driveshaft.jpg" media="(min-width: 640px)">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/transmission-mount-clears-fits-underneath.jpg" alt="…">
 			</picture>
 		</div>
 	</div>
@@ -42,7 +42,7 @@ upload-date: November 6, 2017
 	<div class="row">
 		<div class="large-8 large-centered columns">
 			<div class="measurementIntro-prose margin-centered">
-				<img id="pencil-saw" class="float-left margin-X" src="/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/pencil-saw.svg" alt="">
+				<img id="pencil-saw" class="float-left margin-X" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/pencil-saw.svg" alt="">
 				<p class="xLarge"><strong>I first needed to measure the original length of the driveshaft to verify my total length after the cut.</strong></p>
 			</div>
 		</div>
@@ -52,7 +52,7 @@ upload-date: November 6, 2017
 	<div class="row" data-equalizer>
 		<div class="medium-4 columns">
 			<div class="infoCard margin-centered" data-equalizer-watch>
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
 				<div class="padding-XY">
 					<p>This is the measuring point at the back of the output flange.</p>
 				</div>
@@ -62,7 +62,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="medium-8 columns">
 			<div class="infoCard margin-centered" data-equalizer-watch>
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
 				<div class="padding-XY">
 					<p>This point is the mounting flange at the front of the carrier bearing.</p>
 				</div>
@@ -109,13 +109,13 @@ upload-date: November 6, 2017
 				<!-- <p class="margin-0">MIG Job Gas Settings</p>
 				<p class="margin-0 large">Argon/CO2 75%25%</p> -->
 			</div>
-			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
+			<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/gas-settings-mig-job.jpg" alt="">
 		</div>
 		<div class="large-6 columns relative">
 			<div class="caption text-center padding-Y">
 				<p class="margin-0 large">MIG settings for the weld job</p>
 			</div>
-			<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/mig-settings-weld-job.jpg" alt="">
+			<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/mig-settings-weld-job.jpg" alt="">
 		</div>
 	</div>
 </section>
@@ -125,7 +125,7 @@ upload-date: November 6, 2017
 	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/first-tacks.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">First tacks</p>
 				</div>
@@ -133,8 +133,8 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads.jpg" alt="">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads-alternate-view.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/first-beads-alternate-view.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">First beads</p>
 				</div>
@@ -142,7 +142,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/perfect-size-cut-hole-saw-transmission-bushing.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/perfect-size-cut-hole-saw-transmission-bushing.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">A hole saw made a perfect sized hole for the transmission locating bushing</p>
 				</div>
@@ -150,7 +150,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/straigh-edge-replicates-transmission-mount-location.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/straigh-edge-replicates-transmission-mount-location.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">I used a straight edge to replicate the location of the transmission mount holes</p>
 				</div>
@@ -158,7 +158,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/weld-close-to-mount-holes-cleared-by-washers.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/weld-close-to-mount-holes-cleared-by-washers.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">The weld was a little close to the mount holes, but the washer and bolt heads <em>just</em> cleared it</p>
 				</div>
@@ -166,7 +166,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/cleaned-transmission-mount-flange.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/cleaned-transmission-mount-flange.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">I cleaned off the top weld since the transmission mount has a flat metal flange. This prevents the weld from disturbing the flange and sitting flat on the face</p>
 				</div>
@@ -174,7 +174,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/tracing-rear-transmission-tunnel-hole.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/tracing-rear-transmission-tunnel-hole.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">Tracing the rear of the hole in the transmission tunnel</p>
 				</div>
@@ -182,7 +182,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/straight-edge-marks-transmission-hole-cut-back.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/straight-edge-marks-transmission-hole-cut-back.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">I used a straight edge to mark my cut back. The traced cardboard replicated the back of the cut (2.75" back)</p>
 				</div>
@@ -190,7 +190,7 @@ upload-date: November 6, 2017
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<img src="/img/update-post/4x4-2jz-tacoma-transmission-mount/antoine-hythier-dont-mess-up.jpg" alt="">
+				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/antoine-hythier-dont-mess-up.jpg" alt="">
 				<div class="padding-XY">
 					<p class="margin-0">Telling myself to not mess this up!</p>
 				</div>
