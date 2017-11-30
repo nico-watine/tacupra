@@ -104,7 +104,7 @@ layout: index-video-splash
 		</div>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
 			<div class="postLink-card">
-				<img class="feature-image" src="{{ cdn }}img/update-post/tacoma-tundra-brake-swap/tundra-brake-setup.jpg" alt="Tacoma Tundra Brake Swap Preview">
+				<img class="feature-image" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tundra-brake-setup.jpg" alt="Tacoma Tundra Brake Swap Preview">
 				<div class="prose">
 					<h4 data-equalizer-watch class="post-title"><strong>Tacoma-Tundra Brake Swap</strong></h4>
 					<a href="/build-progress/tacoma-tundra-brake-swap" class="post-link text-center">Build Update</a>
@@ -115,7 +115,7 @@ layout: index-video-splash
 	<div class="row expanded" data-equalizer>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
 			<div class="postLink-card">
-				<img class="feature-image" src="{{ cdn }}img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
+				<img class="feature-image" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
 				<div class="prose">
 					<h4 data-equalizer-watch class="post-title"><strong>4x4 2JZ Transmission Mount</strong></h4>
 					<a href="/build-progress/4x4-2jz-tacoma-transmission-mount" class="post-link text-center">Build Update</a>
