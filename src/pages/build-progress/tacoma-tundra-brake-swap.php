@@ -85,7 +85,7 @@ upload-date: October 28, 2017
 <section class="step-4">
 	<div class="row">
 		<div class="medium-8 columns">
-			<img src="{{ cdn }}{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
+			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-pads-hardware.jpg" alt="Installed pads &amp; hardware" title="Installed pads &amp; hardware">
 		</div>
 		<div class="medium-4 columns">
 			<div class="prose">
