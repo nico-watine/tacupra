@@ -1873,7 +1873,7 @@ p.xLarge { font-size: 1.125rem; }
 @media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
   p.xLarge { font-size: 1.5625rem; } }
 
-footer { background: #282B2F url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
+footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
 
 @media print, screen and (min-width: 40em) { footer { background-position: center top; } }
 
@@ -1897,7 +1897,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .gfycat-cover#gfycat-cover { position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
 
-.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
+.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
@@ -1911,9 +1911,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .specCard-body { padding: 0.75rem 1.25rem; }
 
-.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
+.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
 
-@media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
+@media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
 
 #mc_embed_signup input.email { height: 2.8125rem; font-size: 1.125rem; border: 1px solid #979797; background: #FEFEFE; box-shadow: inset 0 0 0.0625rem 0.125rem rgba(10, 10, 10, 0.1); }
 
@@ -1953,7 +1953,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose .imageCard h5 { width: 100%; }
 
-.updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; padding: 2.5rem 0; border-top: 0.1875rem solid #000; }
+.updatePost#tacoma-tundra-brake-swap .parts-specs { background: #f1f1f1 url("/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat; padding: 2.5rem 0; border-top: 0.1875rem solid #000; }
 
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 { background: #fff; }
 
@@ -1963,7 +1963,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 h5 { width: 100%; margin: 0 0 1.25rem; padding: 0 0.5rem; }
 
-.updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
+.updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
 
 .updatePost#tacoma-tundra-brake-swap .step-4 .row { padding: 40px 0 80px; }
 
@@ -1983,7 +1983,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose h4 { padding: 0.625rem; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section { background: #f1f1f1 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat; background-position: 110% -50px; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section { background: #f1f1f1 url("/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat; background-position: 110% -50px; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section .prose { max-width: 35.625rem; }
 
@@ -1999,7 +1999,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard img { border-bottom: 0.25rem solid #BB3938; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection { background: url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/ruler.svg") center top/contain; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection { background: url("/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/ruler.svg") center top/contain; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection h2 { color: #BB3938; }
 
@@ -2015,7 +2015,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection .caption p { color: #fff; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .masonrySection { background: linear-gradient(rgba(184, 0, 0, 0.7), rgba(184, 0, 0, 0.7)), url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png") center/auto; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .masonrySection { background: linear-gradient(rgba(184, 0, 0, 0.7), rgba(184, 0, 0, 0.7)), url("/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png") center/auto; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount #masonryGrid .tile .tileBase { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); background: #fff; border-radius: 0.25rem; }
 
@@ -2025,9 +2025,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost-stock .container:nth-child(2n):hover { background: #fafafa; }
 
-.updatePost-stock .container:nth-child(2) { background: #bb3938 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/assets/article/container-2/supra.svg") center bottom/contain no-repeat !important; }
+.updatePost-stock .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/supra.svg") center bottom/contain no-repeat !important; }
 
-@media print, screen and (min-width: 64em) { .updatePost-stock .container:nth-child(2) { background: #bb3938 url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/assets/article/container-2/breakpoint-large/supra.svg") left top/contain no-repeat !important; } }
+@media print, screen and (min-width: 64em) { .updatePost-stock .container:nth-child(2) { background: #bb3938 url("/img/update-post/assets/article/container-2/breakpoint-large/supra.svg") left top/contain no-repeat !important; } }
 
 .updatePost-stock .container:nth-child(2) p { font-weight: 500; color: #fff; }
 
@@ -2090,7 +2090,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost .hero .prose h1, .updatePost .hero .prose h4 { text-transform: uppercase; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); letter-spacing: 0.0625rem; color: #fff; }
 
-.updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("//studionclientrocks-studioncreations.netdna-ssl.com/project/tacupra/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
+.updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
 .displayInlineBlock { display: inline-block; }
 
