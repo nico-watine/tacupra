@@ -18,7 +18,7 @@ upload-date: November 6, 2017
 		<div class="medium-6 medium-push-6 columns prose">
 			<div class="padding-X">
 				<h1><strong>4x4 2JZ Tacoma Transmission Mount</strong></h1>
-				<p class="large"><strong>Since the Tacupra is recieving the 2JZ inline-6 engine from the Toyota Supra, I had to shorten the driveshaft.</strong></p>
+				<p class="large"><strong>Since the Tacupra is receiving the 2JZ inline-6 engine from the Toyota Supra, I had to shorten the driveshaft.</strong></p>
 				<p>The 2JZ is longer than the Tacoma's original V6, so the make room, I cut the original driveshaft and pushed the transmission back. This meant I had to fabricate a whole new transmission crossmember.</p>
 				<br>
 				<span class="red-bar displayBlock"></span>
