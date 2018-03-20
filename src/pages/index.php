@@ -89,7 +89,7 @@ layout: index-video-splash
 		</div>
 		<div class="medium-6 columns">
 			<div class="overflowMask" style="height: 250px; overflow: hidden;">
-				<img style="width: 100%;" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
+				<img style="width: 100%;" class="slidingScreenshot" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
 			</div>
 		</div>
 	</div>

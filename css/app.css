@@ -1962,6 +1962,15 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 { background: #fefefe; }
 
+.slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
+
+@keyframes instagramSlide { 0% { transform: translateY(0);
+    opacity: 1; }
+  50% { transform: translateY(-500px);
+    opacity: 1; }
+  100% { opacity: 1;
+    transform: translateY(0px); } }
+
 .updatePost#tacoma-tundra-brake-swap .intro-prose { padding: 2.5rem 0; }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose .imageCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding-bottom: 1rem; }
