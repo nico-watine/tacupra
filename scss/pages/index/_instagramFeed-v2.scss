@@ -3,6 +3,11 @@
 .instagramFeed-v2 {
 	background: $white;
 
+	.prose {
+		// max-width: 390px;
+		// padding-left: 60px;
+	}
+
 	.overflowMask {
 		overflow: hidden;
 		height: 250px;
