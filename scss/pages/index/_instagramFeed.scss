@@ -1,0 +1,41 @@
+@import '../../_settings.scss';
+
+.instagramFeed {
+	.overflowMask {
+		// height: 460px;
+		overflow: hidden;
+		position: relative;
+		padding-bottom: 100%;
+	}
+}
+
+.slidingFeed {
+	background: $white url("/img/index/instagramFeed/2jz_tacupra-instagram.jpg") center top/cover no-repeat;
+}
+
+.screenshot,
+.slidingFeed {
+	animation-duration: 20000.0ms;
+	animation-name: instagramSlide;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+}
+
+@keyframes instagramSlide {
+	0% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+	50% {
+		transform: translateY(-500px);
+		opacity: 1;
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
+}
+
+.absolute-center {
+	@include absolute-center;
+}
