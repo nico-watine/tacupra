@@ -85,13 +85,17 @@ layout: index-video-splash
 <section class="instagramFeed">
 	<div class="row">
 		<div class="medium-6 columns">
-			
+			<div class="overflowMask" style="height: 460px; overflow: hidden;">
+				<img src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
+			</div>
 		</div>
 		<div class="medium-6 columns">
 			
 		</div>
 	</div>
 </section>
+<br>
+<br>
 <section class="updatePost-links">
 	<div class="row expanded" data-equalizer>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
