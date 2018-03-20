@@ -2,12 +2,19 @@
 
 .instagramFeed {
 	.overflowMask {
-		height: 460px;
+		// height: 460px;
 		overflow: hidden;
+		position: relative;
+		padding-bottom: 100%;
 	}
 }
 
-.screenshot {
+.slidingFeed {
+	background: $white url("/img/index/instagramFeed/2jz_tacupra-instagram.jpg") center top/cover no-repeat;
+}
+
+.screenshot,
+.slidingFeed {
 	animation-duration: 20000.0ms;
 	animation-name: instagramSlide;
 	animation-fill-mode: both;
@@ -27,4 +34,8 @@
 		opacity: 1;
 		transform: translateY(0px);
 	}
+}
+
+.absolute-center {
+	@include absolute-center;
 }
