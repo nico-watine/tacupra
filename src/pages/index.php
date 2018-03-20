@@ -84,10 +84,10 @@ layout: index-video-splash
 </section>
 <section class="instagramFeed-v2">
 	<div class="row collapse">
-		<div class="medium-6 columns">
-			
+		<div class="small-11 small-push-1 medium-push-0 medium-6 columns">
+			<h1 style="max-width: 390px; border-bottom: 10px solid #BB3938; padding-bottom: 20px; margin-bottom: 20px;"><strong>We post daily on Instagram.</strong></h1>
 		</div>
-		<div class="medium-6 columns">
+		<div class="small-12 medium-6 columns">
 			<div class="overflowMask">
 				<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
 			</div>
