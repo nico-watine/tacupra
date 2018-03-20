@@ -85,15 +85,19 @@ layout: index-video-splash
 <section class="instagramFeed-v2">
 	<div class="row collapse">
 		<div class="medium-6 columns verbiage">
-			<br>
-			<br>
-			<div class="prose padding-X">
-				<h1><strong>We post daily on Instagram.</strong></h1>
-				<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
+			<div class="relative">
+				<br>
+				<br>
+				<div class="prose padding-X">
+					<h1><strong>We post daily on Instagram.</strong></h1>
+					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
+				</div>
+				<br>
+				<br>
+				<div class="absolute">
+					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
+				</div>
 			</div>
-			<br>
-			<br>
-			<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 		</div>
 		<div class="small-12 medium-6 columns image">
 			<div class="overflowMask">
