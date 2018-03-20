@@ -3,15 +3,20 @@
 .instagramFeed {
 	background: $white;
 
-	.instagramText {
-
+	.textColumn {
 		.heightWrap {
 			height: rem-calc(330);
 		}
-		
+
 		.prose {
 			padding-top: rem-calc(30) !important;
 			z-index: 10;
+
+			h1 {
+				border-bottom: rem-calc(10) solid #bb3938;
+				padding-bottom: rem-calc(20);
+				margin-bottom: rem-calc(20);
+			}
 		}
 
 		.imgWrap {
@@ -29,33 +34,27 @@
 		}
 	}
 
-	.prose {
-		padding-bottom: 100px !important;
+	.imageColumn {
+		.overflowMask {
+			overflow: hidden;
+			height: 250px;
 
-		h1 {
-			border-bottom: rem-calc(10) solid #bb3938;
-			padding-bottom: rem-calc(20);
-			margin-bottom: rem-calc(20);
-		}
-	}
-
-	.overflowMask {
-		overflow: hidden;
-		height: 250px;
-
-		.slidingScreenshot {
-			width: 100%;
+			.slidingScreenshot {
+				width: 100%;
+			}
 		}
 	}
 
 	@include breakpoint(500) {
-		.prose {
-			max-width: rem-calc(390);
-			padding-left: rem-calc(60) !important;
-		}
+		.textColumn {
+			.prose {
+				max-width: rem-calc(390);
+				padding-left: rem-calc(60) !important;
+			}
 
-		.imgWrap {
-			bottom: -30px;
+			.imgWrap {
+				bottom: -30px;
+			}
 		}
 	}
 }

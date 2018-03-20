@@ -1947,26 +1947,24 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed .instagramText .heightWrap { height: 20.625rem; }
+.instagramFeed .textColumn .heightWrap { height: 20.625rem; }
 
-.instagramFeed .instagramText .prose { padding-top: 1.875rem !important; z-index: 10; }
+.instagramFeed .textColumn .prose { padding-top: 1.875rem !important; z-index: 10; }
 
-.instagramFeed .instagramText .imgWrap { width: 100%; bottom: -20px; }
+.instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
-.instagramFeed .instagramText svg { max-height: 140px; width: 100%; }
+.instagramFeed .textColumn .imgWrap { width: 100%; bottom: -20px; }
 
-.instagramFeed .instagramText svg path { fill: #f1f1f1; }
+.instagramFeed .textColumn svg { max-height: 140px; width: 100%; }
 
-.instagramFeed .prose { padding-bottom: 100px !important; }
+.instagramFeed .textColumn svg path { fill: #f1f1f1; }
 
-.instagramFeed .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
+.instagramFeed .imageColumn .overflowMask { overflow: hidden; height: 250px; }
 
-.instagramFeed .overflowMask { overflow: hidden; height: 250px; }
+.instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
 
-.instagramFeed .overflowMask .slidingScreenshot { width: 100%; }
-
-@media screen and (min-width: 31.25em) { .instagramFeed .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
-  .instagramFeed .imgWrap { bottom: -30px; } }
+@media screen and (min-width: 31.25em) { .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
+  .instagramFeed .textColumn .imgWrap { bottom: -30px; } }
 
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 
