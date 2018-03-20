@@ -89,7 +89,7 @@ layout: index-video-splash
 		</div>
 		<div class="medium-6 columns">
 			<div class="overflowMask">
-				<img class="slidingScreenshot" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
+				<img class="slidingScreenshot" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
 			</div>
 		</div>
 	</div>
