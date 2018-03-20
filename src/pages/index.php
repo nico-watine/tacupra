@@ -97,7 +97,7 @@ layout: index-video-splash
 		</div>
 		<div class="small-12 medium-6 columns imageColumn">
 			<div class="relative heightWrap">
-				<div class="absolute prose text-center">
+				<div class="absolute prose text-center vertical-center">
 					<img src="img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
 				</div>
 				<div class="absolute overflowMask">
