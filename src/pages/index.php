@@ -93,7 +93,7 @@ layout: index-video-splash
 			</div>
 			<br>
 			<br>
-			<img src="/img/social-media/instagram/instagram-word.svg" alt="" class="svg">
+			<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 		</div>
 		<div class="small-12 medium-6 columns image">
 			<div class="overflowMask">
