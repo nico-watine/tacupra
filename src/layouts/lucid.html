@@ -1,0 +1,60 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title }} | Toyota Tacupra</title>
+	<meta name="description" content="{{ description }}">
+	<link href="https://tacupra.com{{ url }}" rel="canonical">
+
+	{{> googleTagManager-head}}
+
+	<link href="/humans.txt" rel="author">
+
+	<meta name="apple-mobile-web-app-title" content="Tacupra">
+	<meta name="application-name" content="Tacupra">
+
+	<link href="/apple-touch-icon.png" rel="apple-touch-icon">
+	<link href="/touch-icon-192x192.png" rel="icon" sizes="192x192">
+
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="https://tacupra.com{{ url }}">
+	<meta property="og:site_name" content="Team QuattroStig's Toyota Tacupra Build">
+	<meta property="og:image" content="https://tacupra.com{{ og-image }}">
+
+	<!-- Begin MailChimp Signup Form -->
+	<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+		/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+		   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	</style>
+
+	<link href="css/app.css" rel="stylesheet">
+	
+</head>
+<body id="{{ body-id }}" class="{{ body-class }}">
+{{> googleTagManager-body}}
+
+
+
+{{> body}}
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-2/jquery.min.js"><\/script>')</script>
+<script src="js/app-min.js"></script>
+
+
+<script type="text/javascript" src="https://assets.gfycat.com/gfycat.js"></script>
+
+</body>
+</html>
