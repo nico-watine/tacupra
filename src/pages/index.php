@@ -82,6 +82,16 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
+<section class="instagramFeed">
+	<div class="row">
+		<div class="medium-6 columns">
+			
+		</div>
+		<div class="medium-6 columns">
+			
+		</div>
+	</div>
+</section>
 <section class="updatePost-links">
 	<div class="row expanded" data-equalizer>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
