@@ -1970,10 +1970,17 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @keyframes instagramSlide { 0% { transform: translateY(0);
     opacity: 1; }
-  50% { transform: translateY(-500px);
+  50% { transform: translateY(-580px);
     opacity: 1; }
   100% { opacity: 1;
     transform: translateY(0px); } }
+
+@media screen and (min-width: 27.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-900px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose { padding: 2.5rem 0; }
 

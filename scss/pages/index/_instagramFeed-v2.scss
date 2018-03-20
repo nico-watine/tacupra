@@ -26,11 +26,28 @@
 		opacity: 1;
 	}
 	50% {
-		transform: translateY(-500px);
+		transform: translateY(-580px);
 		opacity: 1;
 	}
 	100% {
 		opacity: 1;
 		transform: translateY(0px);
+	}
+}
+
+@include breakpoint(440) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-900px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
 	}
 }
