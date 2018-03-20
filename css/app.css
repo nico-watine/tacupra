@@ -1966,6 +1966,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 .overflowMask .slidingScreenshot { width: 100%; }
 
+@media screen and (min-width: 31.25em) { .instagramFeed-v2 .prose { max-width: 390px; padding-left: 60px !important; } }
+
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 
 @keyframes instagramSlide { 0% { transform: translateY(0);

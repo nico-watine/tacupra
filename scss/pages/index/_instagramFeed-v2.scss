@@ -3,10 +3,7 @@
 .instagramFeed-v2 {
 	background: $white;
 
-	.prose {
-		// max-width: 390px;
-		// padding-left: 60px;
-	}
+
 
 	.overflowMask {
 		overflow: hidden;
@@ -14,6 +11,13 @@
 
 		.slidingScreenshot {
 			width: 100%;
+		}
+	}
+
+	@include breakpoint(500) {
+		.prose {
+			max-width: 390px;
+			padding-left: 60px !important;
 		}
 	}
 }
