@@ -1962,9 +1962,13 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 { background: #fefefe; }
 
-.instagramFeed-v2 .verbiage svg { max-height: 140px; }
+.instagramFeed-v2 .verbiage .absolute { width: 100%; bottom: -20px; }
+
+.instagramFeed-v2 .verbiage svg { max-height: 140px; width: 100%; }
 
 .instagramFeed-v2 .verbiage svg path { fill: #f1f1f1; }
+
+.instagramFeed-v2 .prose { padding-bottom: 100px !important; }
 
 .instagramFeed-v2 .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
