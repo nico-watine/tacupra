@@ -97,8 +97,13 @@ layout: index-video-splash
 		</div>
 		<div class="small-12 medium-6 columns imageColumn">
 			<div class="relative heightWrap">
-				<div class="absolute prose text-center vertical-center">
-					<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+				<div class="flex prose absolute text-center" style="z-index: 10;width: 100%;height: 100%;justify-content: center;flex-direction: column;">
+					<div class="buttonWrap" style="position: absolute; width: 100%;">
+						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
+					</div>
+					<div>
+						<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+					</div>
 				</div>
 				<div class="absolute overflowMask">
 					<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
