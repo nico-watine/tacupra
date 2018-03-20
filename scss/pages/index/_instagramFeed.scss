@@ -1,21 +1,62 @@
 @import '../../_settings.scss';
 
 .instagramFeed {
+	background: $white;
+
+	.verbiage {
+		.prose {
+			padding-top: rem-calc(30);
+			z-index: 10;
+		}
+
+		.imgWrap {
+			width: 100%;
+			bottom: -20px;
+		}
+
+		svg {
+			max-height: 140px;
+			width: 100%;
+
+			path {
+				fill: #f1f1f1;
+			}
+		}
+	}
+
+	.prose {
+		padding-bottom: 100px !important;
+
+		h1 {
+			border-bottom: rem-calc(10) solid #bb3938;
+			padding-bottom: rem-calc(20);
+			margin-bottom: rem-calc(20);
+		}
+	}
+
 	.overflowMask {
-		// height: 460px;
 		overflow: hidden;
-		position: relative;
-		padding-bottom: 100%;
+		height: 250px;
+
+		.slidingScreenshot {
+			width: 100%;
+		}
+	}
+
+	@include breakpoint(500) {
+		.prose {
+			max-width: rem-calc(390);
+			padding-left: rem-calc(60) !important;
+		}
+
+		.imgWrap {
+			bottom: -30px;
+		}
 	}
 }
 
-.slidingFeed {
-	background: $white url("/img/index/instagramFeed/2jz_tacupra-instagram.jpg") center top/cover no-repeat;
-}
-
-.screenshot,
-.slidingFeed {
-	animation-duration: 20000.0ms;
+.slidingScreenshot {
+	animation-duration: 20000ms;
 	animation-name: instagramSlide;
 	animation-fill-mode: both;
 	animation-iteration-count: infinite;
@@ -27,7 +68,7 @@
 		opacity: 1;
 	}
 	50% {
-		transform: translateY(-500px);
+		transform: translateY(-580px);
 		opacity: 1;
 	}
 	100% {
@@ -36,6 +77,36 @@
 	}
 }
 
-.absolute-center {
-	@include absolute-center;
+@include breakpoint(440) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-900px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+@include breakpoint(600) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-1300px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
 }
