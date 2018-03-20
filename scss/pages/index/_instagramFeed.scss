@@ -35,9 +35,25 @@
 	}
 
 	.imageColumn {
-		.overflowMask {
-			overflow: hidden;
+		overflow: hidden;
+
+		.heightWrap {
 			height: 250px;
+		}
+
+		.prose {
+			width: 100%;
+			height: 100%;
+			z-index: 10;
+
+			svg {
+				width: 220px;
+				height: 220px;
+			}
+		}
+
+		.overflowMask {
+			width: 100%;
 
 			.slidingScreenshot {
 				width: 100%;

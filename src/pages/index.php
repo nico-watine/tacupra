@@ -96,8 +96,13 @@ layout: index-video-splash
 			</div>
 		</div>
 		<div class="small-12 medium-6 columns imageColumn">
-			<div class="overflowMask">
-				<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
+			<div class="relative heightWrap">
+				<div class="absolute prose text-center">
+					<img src="img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+				</div>
+				<div class="absolute overflowMask">
+					<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
+				</div>
 			</div>
 		</div>
 	</div>
