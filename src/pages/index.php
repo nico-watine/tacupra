@@ -97,8 +97,8 @@ layout: index-video-splash
 		</div>
 		<div class="small-12 medium-6 columns imageColumn">
 			<div class="relative heightWrap">
-				<div class="flex prose absolute text-center" style="z-index: 10;width: 100%;height: 100%;justify-content: center;flex-direction: column;">
-					<div class="buttonWrap" style="position: absolute; width: 100%;">
+				<div class="flex prose absolute text-center">
+					<div class="buttonWrap absolute">
 						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
 					</div>
 					<div>
