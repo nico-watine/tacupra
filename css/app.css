@@ -1978,7 +1978,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 .overflowMask .slidingScreenshot { width: 100%; }
 
-@media screen and (min-width: 31.25em) { .instagramFeed-v2 .prose { max-width: 24.375rem; padding-left: 3.75rem !important; } }
+@media screen and (min-width: 31.25em) { .instagramFeed-v2 .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
+  .instagramFeed-v2 .imgWrap { bottom: -30px; } }
 
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 
