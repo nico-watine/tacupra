@@ -91,6 +91,8 @@ layout: index-video-splash
 				<h1 style="border-bottom: 10px solid #BB3938; padding-bottom: 20px; margin-bottom: 20px;"><strong>We post daily on Instagram.</strong></h1>
 				<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 			</div>
+			<br>
+			<br>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<div class="overflowMask">
