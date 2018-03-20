@@ -15,11 +15,11 @@ layout: index-video-splash
 			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
 		</div>
 	</div>
-	<div class="gfyitem" data-id="OccasionalDecisiveKoi"></div>
+	<!-- <div class="gfyitem" data-id="OccasionalDecisiveKoi"></div>
 	<div class="ie-only">
 		<div class="gfycat-cover" id="gfycat-cover"></div>
 		<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/OccasionalDecisiveKoi' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
-	</div>
+	</div> -->
 </div>
 <section class="build-specs">
 	<div class="row" style="margin-bottom: 20px;">
@@ -88,11 +88,11 @@ layout: index-video-splash
 			<div class="relative" style="height: 330px;">
 				<br>
 				<br>
-				<div class="prose padding-X" style="position: absolute; top: 30px; z-index: 10;">
+				<div class="absolute prose padding-X">
 					<h1><strong>We post daily on Instagram.</strong></h1>
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 				</div>
-				<div class="absolute">
+				<div class="absolute imgWrap">
 					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>
