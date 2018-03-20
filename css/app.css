@@ -1966,7 +1966,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 .verbiage svg { max-height: 140px; width: 100%; }
 
-.instagramFeed-v2 .verbiage svg path { fill: #f1f1f1; }
+.instagramFeed-v2 .verbiage svg path { fill: red; }
 
 .instagramFeed-v2 .prose { padding-bottom: 100px !important; }
 

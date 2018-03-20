@@ -85,10 +85,10 @@ layout: index-video-splash
 <section class="instagramFeed-v2">
 	<div class="row collapse">
 		<div class="medium-6 columns verbiage">
-			<div class="relative">
+			<div class="relative" style="height: 330px;">
 				<br>
 				<br>
-				<div class="prose padding-X">
+				<div class="prose padding-X" style="position: absolute; top: 30px; z-index: 10;">
 					<h1><strong>We post daily on Instagram.</strong></h1>
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 				</div>

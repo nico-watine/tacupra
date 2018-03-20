@@ -4,8 +4,11 @@
 	background: $white;
 
 	.verbiage {
+		// background: $white;
 
 		.absolute {
+			// background: $white;
+			// z-index: -1;
 			width: 100%;
 			bottom: -20px;
 		}
@@ -15,7 +18,8 @@
 			width: 100%;
 
 			path {
-				fill: #f1f1f1;
+				// fill: #f1f1f1;
+				fill: red;
 			}
 		}
 	}
