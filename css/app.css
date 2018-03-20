@@ -2144,9 +2144,23 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
-.displayInlineBlock { display: inline-block; }
+.displayInlineBlock, .inline-block { display: inline-block; }
 
-.displayBlock { display: block; }
+.displayBlock, .block { display: block; }
+
+.inline { display: inline; }
+
+.flex { display: flex; }
+
+.completeCenter { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.relative { position: relative; }
+
+.absolute { position: absolute; }
+
+.vertical-center { position: absolute; top: 50%; transform: translateY(-50%); }
+
+.absolute-center { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
 
 .relative { position: relative; }
 
