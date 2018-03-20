@@ -2,6 +2,15 @@
 
 .instagramFeed-v2 {
 	background: $white;
+
+	.overflowMask {
+		overflow: hidden;
+		height: 250px;
+
+		.slidingScreenshot {
+			width: 100%;
+		}
+	}
 }
 
 .slidingScreenshot {

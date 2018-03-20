@@ -1962,6 +1962,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 { background: #fefefe; }
 
+.instagramFeed-v2 .overflowMask { overflow: hidden; height: 250px; }
+
+.instagramFeed-v2 .overflowMask .slidingScreenshot { width: 100%; }
+
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 
 @keyframes instagramSlide { 0% { transform: translateY(0);
