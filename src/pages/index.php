@@ -98,7 +98,7 @@ layout: index-video-splash
 		<div class="small-12 medium-6 columns imageColumn">
 			<div class="relative heightWrap">
 				<div class="absolute prose text-center vertical-center">
-					<img src="img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+					<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
 				</div>
 				<div class="absolute overflowMask">
 					<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">

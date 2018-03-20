@@ -1967,6 +1967,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .imageColumn .prose svg { width: 220px; height: 220px; }
 
+.instagramFeed .imageColumn .prose svg path { fill: #fefefe; }
+
 .instagramFeed .imageColumn .overflowMask { width: 100%; }
 
 .instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
