@@ -4,8 +4,13 @@
 	background: $white;
 
 	.verbiage {
+
+		.heightWrap {
+			height: rem-calc(330);
+		}
+		
 		.prose {
-			padding-top: rem-calc(30);
+			padding-top: rem-calc(30) !important;
 			z-index: 10;
 		}
 

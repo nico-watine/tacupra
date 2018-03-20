@@ -1947,7 +1947,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed .verbiage .prose { padding-top: 1.875rem; z-index: 10; }
+.instagramFeed .verbiage .heightWrap { height: 20.625rem; }
+
+.instagramFeed .verbiage .prose { padding-top: 1.875rem !important; z-index: 10; }
 
 .instagramFeed .verbiage .imgWrap { width: 100%; bottom: -20px; }
 
