@@ -102,15 +102,19 @@ layout: index-video-splash
 <br>
 <br>
 <section class="instagramFeed-v2">
-	<div class="row">
+	<div class="row collapse">
 		<div class="medium-6 columns">
 			
 		</div>
 		<div class="medium-6 columns">
-			
+			<div class="overflowMask" style="height: 250px; overflow: hidden;">
+				<img style="width: 100%;" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
+			</div>
 		</div>
 	</div>
 </section>
+<br>
+<br>
 <section class="updatePost-links">
 	<div class="row expanded" data-equalizer>
 		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
