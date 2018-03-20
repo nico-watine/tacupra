@@ -1947,15 +1947,15 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed .verbiage .heightWrap { height: 20.625rem; }
+.instagramFeed .instagramText .heightWrap { height: 20.625rem; }
 
-.instagramFeed .verbiage .prose { padding-top: 1.875rem !important; z-index: 10; }
+.instagramFeed .instagramText .prose { padding-top: 1.875rem !important; z-index: 10; }
 
-.instagramFeed .verbiage .imgWrap { width: 100%; bottom: -20px; }
+.instagramFeed .instagramText .imgWrap { width: 100%; bottom: -20px; }
 
-.instagramFeed .verbiage svg { max-height: 140px; width: 100%; }
+.instagramFeed .instagramText svg { max-height: 140px; width: 100%; }
 
-.instagramFeed .verbiage svg path { fill: #f1f1f1; }
+.instagramFeed .instagramText svg path { fill: #f1f1f1; }
 
 .instagramFeed .prose { padding-bottom: 100px !important; }
 

@@ -84,7 +84,7 @@ layout: index-video-splash
 </section>
 <section class="instagramFeed">
 	<div class="row collapse">
-		<div class="medium-6 columns verbiage">
+		<div class="medium-6 columns instagramText">
 			<div class="relative heightWrap">
 				<div class="absolute prose padding-X">
 					<h1><strong>We post daily on Instagram.</strong></h1>
