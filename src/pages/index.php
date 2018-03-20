@@ -82,25 +82,6 @@ layout: index-video-splash
 		</div>
 	</div>
 </section>
-<section class="instagramFeed">
-	<div class="row">
-		<div class="medium-6 columns">
-			<div class="overflowMask" style="max-height: 460px;">
-				<img src="/img/index/instagramFeed/blank.gif" style="width: 570px; height: 460px;" alt="">
-				<img style="position: absolute; top: 0;" class="screenshot" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<!-- <div class="slidingFeed"> -->
-				<img src="/img/index/instagramFeed/blank.gif" style="width: 570px; height: 460px;" alt="">
-			<!-- </div> -->
-			<div class="slidingFeed"></div>
-			<!-- <div style="position: absolute; top: 0;" class="slidingImg"></div> -->
-		</div>
-	</div>
-</section>
-<br>
-<br>
 <section class="instagramFeed-v2">
 	<div class="row collapse">
 		<div class="medium-6 columns">
