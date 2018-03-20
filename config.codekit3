@@ -7,7 +7,7 @@
 		"uuidString": "2CAE26B9-B39D-4B10-AA5A-AE8B8C1BE057"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26330",
 "files": {
 	"\/.babelrc": {
 		"cB": 0,
@@ -6026,6 +6026,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
