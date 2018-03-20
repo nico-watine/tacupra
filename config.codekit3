@@ -4639,6 +4639,16 @@
 		"oAP": "\/dist\/build-progress\/tacoma-tundra-brake-swap.php",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4889,6 +4899,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/dist\/img\/social-media\/facebook\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/social-media\/instagram\/instagram-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/social-media\/instagram\/instagram-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -5979,6 +5999,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/social-media\/facebook\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/social-media\/instagram\/instagram-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/social-media\/instagram\/instagram-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
