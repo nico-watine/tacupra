@@ -84,7 +84,7 @@ layout: index-video-splash
 </section>
 <section class="instagramFeed-v2">
 	<div class="row collapse">
-		<div class="medium-6 columns">
+		<div class="medium-6 columns verbiage">
 			<br>
 			<br>
 			<div class="prose padding-X">
@@ -93,8 +93,9 @@ layout: index-video-splash
 			</div>
 			<br>
 			<br>
+			<img src="/img/social-media/instagram/instagram-word.svg" alt="" class="svg">
 		</div>
-		<div class="small-12 medium-6 columns">
+		<div class="small-12 medium-6 columns image">
 			<div class="overflowMask">
 				<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
 			</div>
