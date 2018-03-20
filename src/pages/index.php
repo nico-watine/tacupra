@@ -87,7 +87,10 @@ layout: index-video-splash
 		<div class="small-11 small-push-1 medium-push-0 medium-6 columns">
 			<br>
 			<br>
-			<h1 style="max-width: 390px; border-bottom: 10px solid #BB3938; padding-bottom: 20px; margin-bottom: 20px;"><strong>We post daily on Instagram.</strong></h1>
+			<div class="prose" style="max-width: 390px;">
+				<h1 style="border-bottom: 10px solid #BB3938; padding-bottom: 20px; margin-bottom: 20px;"><strong>We post daily on Instagram.</strong></h1>
+				<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
+			</div>
 		</div>
 		<div class="small-12 medium-6 columns">
 			<div class="overflowMask">
