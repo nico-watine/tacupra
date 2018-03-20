@@ -85,6 +85,8 @@ layout: index-video-splash
 <section class="instagramFeed-v2">
 	<div class="row collapse">
 		<div class="small-11 small-push-1 medium-push-0 medium-6 columns">
+			<br>
+			<br>
 			<h1 style="max-width: 390px; border-bottom: 10px solid #BB3938; padding-bottom: 20px; margin-bottom: 20px;"><strong>We post daily on Instagram.</strong></h1>
 		</div>
 		<div class="small-12 medium-6 columns">
