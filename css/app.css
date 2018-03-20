@@ -1962,7 +1962,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 { background: #fefefe; }
 
-.instagramFeed-v2 .verbiage img.svg path { fill: #f1f1f1; }
+.instagramFeed-v2 .verbiage svg:hover path { fill: red; }
 
 .instagramFeed-v2 .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 

@@ -4,8 +4,8 @@
 	background: $white;
 
 	.verbiage {
-		img.svg path {
-			fill: #f1f1f1;
+		svg:hover path {
+			fill: red;
 		}
 	}
 
