@@ -85,8 +85,8 @@ layout: index-video-splash
 <section class="instagramFeed">
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="overflowMask" style="height: 460px; overflow: hidden;">
-				<img src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
+			<div class="overflowMask">
+				<img class="screenshot" src="/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="">
 			</div>
 		</div>
 		<div class="medium-6 columns">
