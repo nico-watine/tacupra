@@ -3,6 +3,12 @@
 .instagramFeed-v2 {
 	background: $white;
 
+	.verbiage {
+		img.svg path {
+			fill: #f1f1f1;
+		}
+	}
+
 	.prose {
 		h1 {
 			border-bottom: rem-calc(10) solid #bb3938;
