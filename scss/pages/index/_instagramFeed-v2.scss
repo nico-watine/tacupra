@@ -3,7 +3,13 @@
 .instagramFeed-v2 {
 	background: $white;
 
-
+	.prose {
+		h1 {
+			border-bottom: rem-calc(10) solid #bb3938;
+			padding-bottom: rem-calc(20);
+			margin-bottom: rem-calc(20);
+		}
+	}
 
 	.overflowMask {
 		overflow: hidden;
@@ -16,8 +22,8 @@
 
 	@include breakpoint(500) {
 		.prose {
-			max-width: 390px;
-			padding-left: 60px !important;
+			max-width: rem-calc(390);
+			padding-left: rem-calc(60) !important;
 		}
 	}
 }

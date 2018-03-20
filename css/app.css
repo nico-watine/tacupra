@@ -1962,11 +1962,13 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed-v2 { background: #fefefe; }
 
+.instagramFeed-v2 .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
+
 .instagramFeed-v2 .overflowMask { overflow: hidden; height: 250px; }
 
 .instagramFeed-v2 .overflowMask .slidingScreenshot { width: 100%; }
 
-@media screen and (min-width: 31.25em) { .instagramFeed-v2 .prose { max-width: 390px; padding-left: 60px !important; } }
+@media screen and (min-width: 31.25em) { .instagramFeed-v2 .prose { max-width: 24.375rem; padding-left: 3.75rem !important; } }
 
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 
