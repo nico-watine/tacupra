@@ -83,11 +83,16 @@ layout: index-video-splash
 	</div>
 </section>
 <section class="instagramFeed">
+	<div class="row">
+		<div class="columns">
+			<h1 style="padding-top: 30px;" class="section-lead"><strong>We post daily on Instagram.</strong></h1>	
+		</div>
+	</div>
 	<div class="row collapse">
 		<div class="medium-6 columns textColumn">
 			<div class="relative heightWrap">
 				<div class="absolute prose padding-X">
-					<h1><strong>We post daily on Instagram.</strong></h1>
+					<!-- <h1><strong>We post daily on Instagram.</strong></h1> -->
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 				</div>
 				<div class="absolute imgWrap">

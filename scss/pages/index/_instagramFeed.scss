@@ -1,15 +1,85 @@
 @import '../../_settings.scss';
 
+// ------------------------------------------------------
+// |            Sliding Screenshot Animation            |
+// ------------------------------------------------------
+
+.slidingScreenshot {
+	animation-duration: 20000ms;
+	animation-name: instagramSlide;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+}
+
+@keyframes instagramSlide {
+	0% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+	50% {
+		transform: translateY(-580px);
+		opacity: 1;
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
+}
+
+@include breakpoint(440) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-900px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+@include breakpoint(600) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-1300px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+// --------------------------------------
+// |            Class Styles            |
+// --------------------------------------
+
 .instagramFeed {
 	background: $white;
 
+	h1 {
+		border-bottom: rem-calc(10) solid #bb3938;
+		padding-bottom: rem-calc(20);
+		margin-bottom: rem-calc(20);
+		max-width: rem-calc(280);
+	}
+
 	.textColumn {
 		.heightWrap {
-			height: rem-calc(330);
+			height: rem-calc(180);
 		}
 
 		.prose {
-			padding-top: rem-calc(30) !important;
 			z-index: 10;
 
 			h1 {
@@ -79,12 +149,23 @@
 			}
 		}
 	}
+}
 
-	@include breakpoint(500) {
+@include breakpoint(500) {
+	.instagramFeed {
+		h1 {
+			margin: 0 auto rem-calc(20);
+			max-width: rem-calc(390);
+		}
+
 		.textColumn {
 			.prose {
-				max-width: rem-calc(390);
-				padding-left: rem-calc(60) !important;
+				width: 100%;
+
+				h4 {
+					max-width: rem-calc(390);
+					margin: 0 auto rem-calc(8);
+				}
 			}
 
 			.imgWrap {
@@ -98,62 +179,6 @@
 					width: rem-calc(320);
 				}
 			}
-		}
-	}
-}
-
-.slidingScreenshot {
-	animation-duration: 20000ms;
-	animation-name: instagramSlide;
-	animation-fill-mode: both;
-	animation-iteration-count: infinite;
-}
-
-@keyframes instagramSlide {
-	0% {
-		transform: translateY(0);
-		opacity: 1;
-	}
-	50% {
-		transform: translateY(-580px);
-		opacity: 1;
-	}
-	100% {
-		opacity: 1;
-		transform: translateY(0px);
-	}
-}
-
-@include breakpoint(440) {
-	@keyframes instagramSlide {
-		0% {
-			transform: translateY(0);
-			opacity: 1;
-		}
-		50% {
-			transform: translateY(-900px);
-			opacity: 1;
-		}
-		100% {
-			opacity: 1;
-			transform: translateY(0px);
-		}
-	}
-}
-
-@include breakpoint(600) {
-	@keyframes instagramSlide {
-		0% {
-			transform: translateY(0);
-			opacity: 1;
-		}
-		50% {
-			transform: translateY(-1300px);
-			opacity: 1;
-		}
-		100% {
-			opacity: 1;
-			transform: translateY(0px);
 		}
 	}
 }
