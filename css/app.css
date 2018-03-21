@@ -2002,8 +2002,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
 
-@media screen and (min-width: 31.25em) { .instagramFeed h1 { max-width: 24.375rem; margin-left: 2.8125rem !important; }
-  .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
+@media screen and (min-width: 31.25em) { .instagramFeed h1 { margin: 0 auto 1.25rem; max-width: 24.375rem; }
+  .instagramFeed .textColumn .prose { width: 100%; }
+  .instagramFeed .textColumn .prose h4 { max-width: 24.375rem; margin: 0 auto 0.5rem; }
   .instagramFeed .textColumn .imgWrap { bottom: -30px; }
   .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
 

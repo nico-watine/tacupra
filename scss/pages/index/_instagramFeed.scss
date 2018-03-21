@@ -156,14 +156,22 @@
 @include breakpoint(500) {
 	.instagramFeed {
 		h1 {
+			margin: 0 auto rem-calc(20);
 			max-width: rem-calc(390);
-			margin-left: rem-calc(45) !important;
+			// margin-left: rem-calc(45) !important;
 		}
 
 		.textColumn {
 			.prose {
-				max-width: rem-calc(390);
-				padding-left: rem-calc(60) !important;
+				width: 100%;
+				// max-width: rem-calc(390);
+				// margin: 0 auto;
+				// padding-left: rem-calc(60) !important;
+
+				h4 {
+					max-width: rem-calc(390);
+					margin: 0 auto rem-calc(8);
+				}
 			}
 
 			.imgWrap {
