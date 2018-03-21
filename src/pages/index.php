@@ -89,7 +89,7 @@ layout: index-video-splash
 		</div>
 	</div>
 	<div class="row collapse">
-		<div class="medium-6 columns textColumn">
+		<div class="medium-6 medium-push-6 columns textColumn">
 			<div class="relative heightWrap">
 				<div class="absolute prose padding-X">
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
@@ -99,7 +99,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="small-12 medium-6 columns imageColumn">
+		<div class="small-12 medium-6 medium-pull-6 columns imageColumn">
 			<div class="relative heightWrap">
 				<div class="flex prose absolute text-center">
 					<div class="buttonWrap absolute">
