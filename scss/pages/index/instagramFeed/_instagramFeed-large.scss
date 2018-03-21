@@ -1,26 +1,5 @@
 @import '../../../_settings.scss';
 
-@include breakpoint(medium) {
-	.instagramFeed {
-		.textColumn {
-			.heightWrap {
-				height: auto;
-			}
-
-			.prose {
-				position: initial;
-				padding: rem-calc(30) rem-calc(15);
-			}
-		}
-
-		.imageColumn {
-			.heightWrap {
-				height: 100%;
-			}
-		}
-	}
-}
-
 @include breakpoint(large) {
 	.instagramFeed {
 		.textColumn {
