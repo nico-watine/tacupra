@@ -1978,7 +1978,8 @@ footer a.colophon:hover { text-decoration: underline; }
 .instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
 
 @media screen and (min-width: 31.25em) { .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
-  .instagramFeed .textColumn .imgWrap { bottom: -30px; } }
+  .instagramFeed .textColumn .imgWrap { bottom: -30px; }
+  .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
 
 .slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
 

@@ -91,6 +91,14 @@
 				bottom: -30px;
 			}
 		}
+
+		.imageColumn {
+			.prose {
+				a.button {
+					width: rem-calc(320);
+				}
+			}
+		}
 	}
 }
 
