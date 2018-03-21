@@ -71,6 +71,7 @@
 		border-bottom: rem-calc(10) solid #bb3938;
 		padding-bottom: rem-calc(20);
 		margin-bottom: rem-calc(20);
+		max-width: rem-calc(280);
 	}
 
 	.textColumn {
@@ -154,6 +155,11 @@
 
 @include breakpoint(500) {
 	.instagramFeed {
+		h1 {
+			max-width: rem-calc(390);
+			margin-left: rem-calc(45) !important;
+		}
+
 		.textColumn {
 			.prose {
 				max-width: rem-calc(390);

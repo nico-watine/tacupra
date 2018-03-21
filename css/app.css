@@ -1970,7 +1970,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
+.instagramFeed h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; max-width: 17.5rem; }
 
 .instagramFeed .textColumn .heightWrap { height: 11.25rem; }
 
@@ -2002,7 +2002,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
 
-@media screen and (min-width: 31.25em) { .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
+@media screen and (min-width: 31.25em) { .instagramFeed h1 { max-width: 24.375rem; margin-left: 2.8125rem !important; }
+  .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
   .instagramFeed .textColumn .imgWrap { bottom: -30px; }
   .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
 
