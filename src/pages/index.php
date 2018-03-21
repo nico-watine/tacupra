@@ -88,10 +88,10 @@ layout: index-video-splash
 			<h1 style="padding-top: 30px;" class="section-lead"><strong>We post daily on Instagram.</strong></h1>	
 		</div>
 	</div> -->
-	<div class="row collapse">
+	<div style="display: flex;" class="row collapse">
 		<div class="medium-6 medium-push-6 columns textColumn">
 			<div class="relative heightWrap">
-				<div class="absolute prose padding-X">
+				<div style="position: initial;" class="absolute prose padding-X">
 					<h1><strong>We post daily on Instagram.</strong></h1>
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 				</div>
@@ -101,7 +101,7 @@ layout: index-video-splash
 			</div>
 		</div>
 		<div class="small-12 medium-6 medium-pull-6 columns imageColumn">
-			<div class="relative heightWrap">
+			<div style="height: 100%;" class="relative heightWrap">
 				<div class="flex prose absolute text-center">
 					<div class="buttonWrap absolute">
 						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
