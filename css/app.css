@@ -1945,6 +1945,29 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #index footer a:hover { text-decoration: underline; }
 
+.slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
+
+@keyframes instagramSlide { 0% { transform: translateY(0);
+    opacity: 1; }
+  50% { transform: translateY(-580px);
+    opacity: 1; }
+  100% { opacity: 1;
+    transform: translateY(0px); } }
+
+@media screen and (min-width: 27.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-900px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
+@media screen and (min-width: 37.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-1300px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
 .instagramFeed { background: #fefefe; }
 
 .instagramFeed .textColumn .heightWrap { height: 20.625rem; }
@@ -1980,29 +2003,6 @@ footer a.colophon:hover { text-decoration: underline; }
 @media screen and (min-width: 31.25em) { .instagramFeed .textColumn .prose { max-width: 24.375rem; padding-left: 3.75rem !important; }
   .instagramFeed .textColumn .imgWrap { bottom: -30px; }
   .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
-
-.slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
-
-@keyframes instagramSlide { 0% { transform: translateY(0);
-    opacity: 1; }
-  50% { transform: translateY(-580px);
-    opacity: 1; }
-  100% { opacity: 1;
-    transform: translateY(0px); } }
-
-@media screen and (min-width: 27.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
-      opacity: 1; }
-    50% { transform: translateY(-900px);
-      opacity: 1; }
-    100% { opacity: 1;
-      transform: translateY(0px); } } }
-
-@media screen and (min-width: 37.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
-      opacity: 1; }
-    50% { transform: translateY(-1300px);
-      opacity: 1; }
-    100% { opacity: 1;
-      transform: translateY(0px); } } }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose { padding: 2.5rem 0; }
 
