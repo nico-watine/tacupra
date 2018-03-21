@@ -2,17 +2,10 @@
 
 .instagramFeed {
 	background: $white;
-
-	// h1 {
-	// 	border-bottom: rem-calc(10) solid #bb3938;
-	// 	padding-bottom: rem-calc(20);
-	// 	margin-bottom: rem-calc(20);
-	// 	max-width: rem-calc(280);
-	// }
-
+	
 	.textColumn {
+
 		.heightWrap {
-			// height: rem-calc(180);
 			height: rem-calc(340);
 		}
 
@@ -91,11 +84,6 @@
 
 @include breakpoint(500) {
 	.instagramFeed {
-		// h1 {
-		// 	margin: 0 auto rem-calc(20);
-		// 	max-width: rem-calc(390);
-		// }
-
 		.textColumn {
 			.prose {
 				width: 100%;
@@ -104,13 +92,6 @@
 					max-width: rem-calc(390);
 					margin: 0 auto;
 				}
-				// max-width: rem-calc(390);
-				// margin: 0 auto;
-
-				// h4 {
-				// 	max-width: rem-calc(390);
-				// 	margin: 0 auto rem-calc(8);
-				// }
 			}
 
 			.imgWrap {
