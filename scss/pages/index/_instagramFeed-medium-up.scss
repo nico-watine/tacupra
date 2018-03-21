@@ -1,2 +1,11 @@
 @import '../../_settings.scss';
 
+@include breakpoint(medium) {
+	.instagramFeed {
+		.textColumn {
+			.heightWrap {
+				height: auto;
+			}
+		}
+	}
+}
