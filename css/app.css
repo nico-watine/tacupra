@@ -1970,6 +1970,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
+.instagramFeed .textColumn { background: #fefefe url("/img/social-media/instagram/instagram-word.svg") center 225px/490px auto no-repeat; }
+
 .instagramFeed .textColumn .heightWrap { height: 21.25rem; }
 
 .instagramFeed .textColumn .prose { padding: 1.875rem 0.9375rem 0; z-index: 10; }
