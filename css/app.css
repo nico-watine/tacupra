@@ -1967,6 +1967,8 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .imageColumn .prose .buttonWrap { width: 100%; }
 
+.instagramFeed .imageColumn .prose a.button { background: #282b2f; font-size: 1.625rem; border-radius: 0.25rem; padding: 0.9375rem; width: 17.5rem; margin: 0; }
+
 .instagramFeed .imageColumn .prose svg { width: 220px; height: 220px; }
 
 .instagramFeed .imageColumn .prose svg path { fill: #fefefe; }

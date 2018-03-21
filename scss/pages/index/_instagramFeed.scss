@@ -52,6 +52,15 @@
 				width: 100%;
 			}
 
+			a.button {
+				background: #282b2f;
+				font-size: rem-calc(26);
+				border-radius: rem-calc(4);
+				padding: rem-calc(15);
+				width: rem-calc(280);
+				margin: 0;
+			}
+
 			svg {
 				width: 220px;
 				height: 220px;
