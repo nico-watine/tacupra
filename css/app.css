@@ -2008,6 +2008,14 @@ footer a.colophon:hover { text-decoration: underline; }
   .instagramFeed .textColumn .imgWrap { bottom: -30px; }
   .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
 
+@media print, screen and (min-width: 40em) { .instagramFeed .textColumn .heightWrap { height: auto; }
+  .instagramFeed .textColumn .prose { position: initial; padding: 1.875rem 0.9375rem; }
+  .instagramFeed .imageColumn .heightWrap { height: 100%; } }
+
+@media print, screen and (min-width: 64em) { .instagramFeed .textColumn .prose { padding-left: 3.125rem; }
+  .instagramFeed .textColumn .prose h1 { margin: 0 0 1.25rem; }
+  .instagramFeed .textColumn .prose h4 { margin: initial; } }
+
 .updatePost#tacoma-tundra-brake-swap .intro-prose { padding: 2.5rem 0; }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose .imageCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding-bottom: 1rem; }
