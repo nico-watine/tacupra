@@ -5,6 +5,17 @@
 		.textColumn {
 			.heightWrap {
 				height: auto;
+
+				.prose {
+					position: initial;
+					padding: rem-calc(30) rem-calc(15);
+				}
+			}
+		}
+
+		.imageColumn {
+			.heightWrap {
+				height: 100%;
 			}
 		}
 	}
