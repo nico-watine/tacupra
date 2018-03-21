@@ -83,11 +83,6 @@ layout: index-video-splash
 	</div>
 </section>
 <section class="instagramFeed">
-<!-- 	<div class="row">
-		<div class="columns">
-			<h1 style="padding-top: 30px;" class="section-lead"><strong>We post daily on Instagram.</strong></h1>	
-		</div>
-	</div> -->
 	<div class="flex row collapse">
 		<div class="medium-6 medium-push-6 columns textColumn">
 			<div class="relative heightWrap">
