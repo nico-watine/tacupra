@@ -91,19 +91,26 @@
 
 @include breakpoint(500) {
 	.instagramFeed {
-		h1 {
-			margin: 0 auto rem-calc(20);
-			max-width: rem-calc(390);
-		}
+		// h1 {
+		// 	margin: 0 auto rem-calc(20);
+		// 	max-width: rem-calc(390);
+		// }
 
 		.textColumn {
 			.prose {
 				width: 100%;
 
-				h4 {
+				.inner {
 					max-width: rem-calc(390);
-					margin: 0 auto rem-calc(8);
+					margin: 0 auto;
 				}
+				// max-width: rem-calc(390);
+				// margin: 0 auto;
+
+				// h4 {
+				// 	max-width: rem-calc(390);
+				// 	margin: 0 auto rem-calc(8);
+				// }
 			}
 
 			.imgWrap {
