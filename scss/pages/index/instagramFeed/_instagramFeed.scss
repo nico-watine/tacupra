@@ -1,10 +1,10 @@
 @import '../../../_settings.scss';
 
 .instagramFeed {
-	background: $white;
-	
+	overflow: hidden;
+	background: rgba(255,255,255,.90);
+
 	.textColumn {
-		background: $white url("/img/social-media/instagram/instagram-word.svg") center 225px/490px auto no-repeat;
 
 		.heightWrap {
 			height: rem-calc(340);
@@ -29,10 +29,6 @@
 		svg {
 			max-height: 140px;
 			width: 100%;
-
-			path {
-				fill: #f1f1f1;
-			}
 		}
 	}
 
