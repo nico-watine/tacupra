@@ -1970,11 +1970,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; max-width: 17.5rem; }
+.instagramFeed .textColumn .heightWrap { height: 20rem; }
 
-.instagramFeed .textColumn .heightWrap { height: 11.25rem; }
-
-.instagramFeed .textColumn .prose { z-index: 10; }
+.instagramFeed .textColumn .prose { padding: 1.875rem 0.9375rem 0; z-index: 10; }
 
 .instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
@@ -2008,7 +2006,8 @@ footer a.colophon:hover { text-decoration: underline; }
   .instagramFeed .textColumn .imgWrap { bottom: -30px; }
   .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
 
-@media print, screen and (min-width: 40em) { .instagramFeed .textColumn .heightWrap { height: auto; }
+@media print, screen and (min-width: 40em) { .instagramFeed .row { display: flex; }
+  .instagramFeed .textColumn .heightWrap { height: auto; }
   .instagramFeed .textColumn .prose { position: initial; padding: 1.875rem 0.9375rem; }
   .instagramFeed .imageColumn .heightWrap { height: 100%; } }
 

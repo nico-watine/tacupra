@@ -2,6 +2,10 @@
 
 @include breakpoint(medium) {
 	.instagramFeed {
+		.row {
+			display: flex;
+		}
+		
 		.textColumn {
 			.heightWrap {
 				height: auto;

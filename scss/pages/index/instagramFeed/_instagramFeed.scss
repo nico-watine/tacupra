@@ -1,25 +1,23 @@
 @import '../../../_settings.scss';
 
-// --------------------------------------
-// |            Class Styles            |
-// --------------------------------------
-
 .instagramFeed {
 	background: $white;
 
-	h1 {
-		border-bottom: rem-calc(10) solid #bb3938;
-		padding-bottom: rem-calc(20);
-		margin-bottom: rem-calc(20);
-		max-width: rem-calc(280);
-	}
+	// h1 {
+	// 	border-bottom: rem-calc(10) solid #bb3938;
+	// 	padding-bottom: rem-calc(20);
+	// 	margin-bottom: rem-calc(20);
+	// 	max-width: rem-calc(280);
+	// }
 
 	.textColumn {
 		.heightWrap {
-			height: rem-calc(180);
+			// height: rem-calc(180);
+			height: rem-calc(320);
 		}
 
 		.prose {
+			padding: rem-calc(30) rem-calc(15) 0;
 			z-index: 10;
 
 			h1 {
