@@ -95,7 +95,7 @@ layout: index-video-splash
 					<h1><strong>We post daily on Instagram.</strong></h1>
 					<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 				</div>
-				<div class="absolute imgWrap">
+				<div style="display: none; visibility: hidden;" class="absolute imgWrap">
 					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>
