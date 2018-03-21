@@ -76,12 +76,10 @@
 
 	.textColumn {
 		.heightWrap {
-			// height: rem-calc(330);
 			height: rem-calc(180);
 		}
 
 		.prose {
-			// padding-top: rem-calc(30) !important;
 			z-index: 10;
 
 			h1 {
@@ -158,15 +156,11 @@
 		h1 {
 			margin: 0 auto rem-calc(20);
 			max-width: rem-calc(390);
-			// margin-left: rem-calc(45) !important;
 		}
 
 		.textColumn {
 			.prose {
 				width: 100%;
-				// max-width: rem-calc(390);
-				// margin: 0 auto;
-				// padding-left: rem-calc(60) !important;
 
 				h4 {
 					max-width: rem-calc(390);
