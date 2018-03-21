@@ -1970,9 +1970,11 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed { background: #fefefe; }
 
-.instagramFeed .textColumn .heightWrap { height: 20.625rem; }
+.instagramFeed h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
-.instagramFeed .textColumn .prose { padding-top: 1.875rem !important; z-index: 10; }
+.instagramFeed .textColumn .heightWrap { height: 11.25rem; }
+
+.instagramFeed .textColumn .prose { z-index: 10; }
 
 .instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 

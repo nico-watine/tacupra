@@ -67,13 +67,20 @@
 .instagramFeed {
 	background: $white;
 
+	h1 {
+		border-bottom: rem-calc(10) solid #bb3938;
+		padding-bottom: rem-calc(20);
+		margin-bottom: rem-calc(20);
+	}
+
 	.textColumn {
 		.heightWrap {
-			height: rem-calc(330);
+			// height: rem-calc(330);
+			height: rem-calc(180);
 		}
 
 		.prose {
-			padding-top: rem-calc(30) !important;
+			// padding-top: rem-calc(30) !important;
 			z-index: 10;
 
 			h1 {
@@ -167,4 +174,3 @@
 		}
 	}
 }
-
