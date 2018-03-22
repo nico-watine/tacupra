@@ -1976,9 +1976,9 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
-.instagramFeed .textColumn .imgWrap { width: 100%; bottom: -20px; }
+.instagramFeed .textColumn .imgWrap { width: 100%; bottom: -20px; z-index: -1; }
 
-.instagramFeed .textColumn svg { max-height: 140px; width: 100%; }
+.instagramFeed .textColumn svg { max-height: 120px; }
 
 .instagramFeed .imageColumn { overflow: hidden; }
 
@@ -2006,6 +2006,7 @@ footer a.colophon:hover { text-decoration: underline; }
 @media print, screen and (min-width: 40em) { .instagramFeed .row { display: flex; }
   .instagramFeed .textColumn .heightWrap { height: auto; }
   .instagramFeed .textColumn .prose { position: initial; padding: 1.875rem 0.9375rem; }
+  .instagramFeed .textColumn .imgWrap svg { width: 100%; max-width: 24.375rem; }
   .instagramFeed .imageColumn .heightWrap { height: 100%; } }
 
 @media print, screen and (min-width: 64em) { .instagramFeed .textColumn .prose { padding-left: 3.125rem; }

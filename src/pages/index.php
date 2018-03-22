@@ -92,7 +92,7 @@ layout: index-video-splash
 						<h4>Follow <strong>@2jz_tacupra</strong> to keep up with the build status and see our latest expos.</h4>
 					</div>
 				</div>
-				<div class="absolute imgWrap">
+				<div class="absolute imgWrap medium-text-right">
 					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>

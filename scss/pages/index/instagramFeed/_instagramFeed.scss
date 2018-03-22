@@ -24,11 +24,11 @@
 		.imgWrap {
 			width: 100%;
 			bottom: -20px;
+			z-index: -1;
 		}
 
 		svg {
-			max-height: 140px;
-			width: 100%;
+			max-height: 120px;
 		}
 	}
 

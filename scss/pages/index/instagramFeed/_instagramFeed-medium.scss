@@ -15,6 +15,13 @@
 				position: initial;
 				padding: rem-calc(30) rem-calc(15);
 			}
+
+			.imgWrap {
+				svg {
+					width: 100%;
+					max-width: rem-calc(390);
+				}
+			}
 		}
 
 		.imageColumn {
