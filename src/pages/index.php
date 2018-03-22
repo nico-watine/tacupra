@@ -108,7 +108,7 @@ layout: index-video-splash
 					</div>
 				</div>
 				<div class="absolute overflowMask">
-					<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram-2.jpg" alt="@2jz_tacupra Instagram Feed">
+					<img class="slidingScreenshot" src="{{ cdn }}/img/index/instagramFeed/2jz_tacupra-instagram.jpg" alt="@2jz_tacupra Instagram Feed">
 				</div>
 			</div>
 		</div>

@@ -1963,7 +1963,14 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media screen and (min-width: 37.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
       opacity: 1; }
-    50% { transform: translateY(-1300px);
+    50% { transform: translateY(-1000px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
+@media print, screen and (min-width: 40em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-700px);
       opacity: 1; }
     100% { opacity: 1;
       transform: translateY(0px); } } }
