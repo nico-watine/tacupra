@@ -1,0 +1,19 @@
+@import '../../../_settings.scss';
+
+@include breakpoint(large) {
+	.instagramFeed {
+		.textColumn {
+			.prose {
+				padding-left: rem-calc(50);
+				
+				h1 {
+					margin: 0 0 rem-calc(20);
+				}
+
+				h4 {
+					margin: initial;
+				}
+			}
+		}
+	}
+}

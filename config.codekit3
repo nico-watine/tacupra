@@ -93,20 +93,6 @@
 		"oAP": "\/_ignores\/tacupra.sublime-workspace",
 		"oF": 0
 		},
-	"\/_ignores\/tanspire.sublime-project": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/tanspire.sublime-project",
-		"oF": 0
-		},
-	"\/_ignores\/tanspire.sublime-workspace": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/tanspire.sublime-workspace",
-		"oF": 0
-		},
 	"\/_ignores\/update-post-image-sizes.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -4542,6 +4528,26 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/lucid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/lucid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dist\/lucid.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/lucid-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4654,6 +4660,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/index\/instagramFeed\/2jz_tacupra-instagram.jpg": {
+		"ft": 16384,
+		"iS": 434780,
+		"oA": 1,
+		"oAP": "\/img\/index\/instagramFeed\/2jz_tacupra-instagram.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/index\/subscribe\/tacupra.png": {
 		"ft": 32768,
 		"iS": 7443,
@@ -4742,6 +4758,26 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/social-media\/facebook\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/social-media\/instagram\/instagram-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/social-media\/instagram\/instagram-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/social-media\/instagram\/instagram-word.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/social-media\/instagram\/instagram-word.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -5739,6 +5775,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_instagramFeed.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_instagramFeed.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_splash-video.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5774,6 +5823,58 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_updatePost-links.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/instagramFeed\/_instagramFeed-large.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_instagramFeed-large.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/instagramFeed\/_instagramFeed-medium.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_instagramFeed-medium.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/instagramFeed\/_instagramFeed.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_instagramFeed.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/instagramFeed\/_keyframeAnimation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_keyframeAnimation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5911,6 +6012,13 @@
 		"oAP": "\/src\/layouts\/index-video-splash.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/lucid.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/lucid.html",
+		"oF": 0
+		},
 	"\/src\/layouts\/updatePost-masonry.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5965,6 +6073,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/lucid.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/lucid.html",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {

@@ -1,14 +1,56 @@
-@import "../_settings.scss";
+@import '../_settings.scss';
 
 // ---------------------------------
 // |            Display            |
 // ---------------------------------
 
-.displayInlineBlock {
+.displayInlineBlock,
+.inline-block {
 	display: inline-block;
 }
 
-.displayBlock {
+.displayBlock,
+.block {
 	display: block;
 }
 
+.inline {
+	display: inline;
+}
+
+.flex {
+	display: flex;
+}
+
+// Flexbox-based vertical and horizontal center
+// Requires parent div.flex
+.completeCenter {
+	display: flex;
+	flex-direction: column;
+	justify-content: center; // vertical placement
+	align-items: center; // horizontal placement
+}
+
+// ---------------------------------------------------------------------- //
+
+
+// ----------------------------------
+// |            Position            |
+// ----------------------------------
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
+
+
+.vertical-center {
+	@include vertical-center;
+}
+
+.absolute-center {
+	@include absolute-center;
+}
