@@ -1,0 +1,78 @@
+@import '../../../_settings.scss';
+
+// ------------------------------------------------------
+// |            Sliding Screenshot Animation            |
+// ------------------------------------------------------
+
+.slidingScreenshot {
+	animation-duration: 20000ms;
+	animation-name: instagramSlide;
+	animation-fill-mode: both;
+	animation-iteration-count: infinite;
+}
+
+@keyframes instagramSlide {
+	0% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+	50% {
+		transform: translateY(-580px);
+		opacity: 1;
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
+}
+
+@include breakpoint(440) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-900px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+@include breakpoint(600) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-1000px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	@keyframes instagramSlide {
+		0% {
+			transform: translateY(0);
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-700px);
+			opacity: 1;
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0px);
+		}
+	}
+}

@@ -1945,6 +1945,81 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #index footer a:hover { text-decoration: underline; }
 
+.slidingScreenshot { animation-duration: 20000ms; animation-name: instagramSlide; animation-fill-mode: both; animation-iteration-count: infinite; }
+
+@keyframes instagramSlide { 0% { transform: translateY(0);
+    opacity: 1; }
+  50% { transform: translateY(-580px);
+    opacity: 1; }
+  100% { opacity: 1;
+    transform: translateY(0px); } }
+
+@media screen and (min-width: 27.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-900px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
+@media screen and (min-width: 37.5em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-1000px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
+@media print, screen and (min-width: 40em) { @keyframes instagramSlide { 0% { transform: translateY(0);
+      opacity: 1; }
+    50% { transform: translateY(-700px);
+      opacity: 1; }
+    100% { opacity: 1;
+      transform: translateY(0px); } } }
+
+.instagramFeed { overflow: hidden; background: rgba(255, 255, 255, 0.9); }
+
+.instagramFeed .textColumn .heightWrap { height: 21.25rem; }
+
+.instagramFeed .textColumn .prose { padding: 1.875rem 0.9375rem 0; z-index: 10; }
+
+.instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
+
+.instagramFeed .textColumn .imgWrap { width: 100%; bottom: -20px; z-index: -1; }
+
+.instagramFeed .textColumn svg { max-height: 120px; }
+
+.instagramFeed .imageColumn { overflow: hidden; }
+
+.instagramFeed .imageColumn .heightWrap { height: 250px; }
+
+.instagramFeed .imageColumn .prose { width: 100%; height: 100%; z-index: 10; justify-content: center; flex-direction: column; }
+
+.instagramFeed .imageColumn .prose .buttonWrap { width: 100%; }
+
+.instagramFeed .imageColumn .prose a.button { background: #282b2f; font-size: 1.625rem; border-radius: 0.25rem; padding: 0.9375rem; width: 17.5rem; margin: 0; }
+
+.instagramFeed .imageColumn .prose svg { width: 220px; height: 220px; }
+
+.instagramFeed .imageColumn .prose svg path { fill: #fefefe; }
+
+.instagramFeed .imageColumn .overflowMask { width: 100%; }
+
+.instagramFeed .imageColumn .overflowMask .slidingScreenshot { width: 100%; }
+
+@media screen and (min-width: 31.25em) { .instagramFeed .textColumn .prose { width: 100%; }
+  .instagramFeed .textColumn .prose .inner { max-width: 24.375rem; margin: 0 auto; }
+  .instagramFeed .textColumn .imgWrap { bottom: -30px; }
+  .instagramFeed .imageColumn .prose a.button { width: 20rem; } }
+
+@media print, screen and (min-width: 40em) { .instagramFeed .row { display: flex; }
+  .instagramFeed .textColumn .heightWrap { height: auto; }
+  .instagramFeed .textColumn .prose { position: initial; padding: 1.875rem 0.9375rem; }
+  .instagramFeed .textColumn .imgWrap svg { width: 100%; max-width: 24.375rem; }
+  .instagramFeed .imageColumn .heightWrap { height: 100%; } }
+
+@media print, screen and (min-width: 64em) { .instagramFeed .textColumn .prose { padding-left: 3.125rem; }
+  .instagramFeed .textColumn .prose h1 { margin: 0 0 1.25rem; }
+  .instagramFeed .textColumn .prose h4 { margin: initial; } }
+
 .updatePost#tacoma-tundra-brake-swap .intro-prose { padding: 2.5rem 0; }
 
 .updatePost#tacoma-tundra-brake-swap .intro-prose .imageCard { background: #fff; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); padding-bottom: 1rem; }
@@ -2092,9 +2167,23 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
-.displayInlineBlock { display: inline-block; }
+.displayInlineBlock, .inline-block { display: inline-block; }
 
-.displayBlock { display: block; }
+.displayBlock, .block { display: block; }
+
+.inline { display: inline; }
+
+.flex { display: flex; }
+
+.completeCenter { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.relative { position: relative; }
+
+.absolute { position: absolute; }
+
+.vertical-center { position: absolute; top: 50%; transform: translateY(-50%); }
+
+.absolute-center { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
 
 .relative { position: relative; }
 
