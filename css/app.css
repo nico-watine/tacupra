@@ -1873,6 +1873,27 @@ p.xLarge { font-size: 1.125rem; }
 @media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
   p.xLarge { font-size: 1.5625rem; } }
 
+.p { font-size: 1rem; }
+
+.h1 { font-size: 2rem; }
+
+.h2 { font-size: 1.625rem; }
+
+.h3 { font-size: 1.375rem; }
+
+.h4 { font-size: 1.125rem; }
+
+.h5 { font-size: 1.0625rem; }
+
+.h6 { font-size: 1rem; }
+
+@media print, screen and (min-width: 40em) { .h1 { font-size: 3rem; }
+  .h2 { font-size: 2.5rem; }
+  .h3 { font-size: 1.9375rem; }
+  .h4 { font-size: 1.5625rem; }
+  .h5 { font-size: 1.25rem; }
+  .h6 { font-size: 1rem; } }
+
 footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
 
 @media print, screen and (min-width: 40em) { footer { background-position: center top; } }
@@ -2221,3 +2242,24 @@ p.xLarge { font-size: 1.125rem; }
 
 @media print, screen and (min-width: 40em) { p.large { font-size: 1.25rem; }
   p.xLarge { font-size: 1.5625rem; } }
+
+.p { font-size: 1rem; }
+
+.h1 { font-size: 2rem; }
+
+.h2 { font-size: 1.625rem; }
+
+.h3 { font-size: 1.375rem; }
+
+.h4 { font-size: 1.125rem; }
+
+.h5 { font-size: 1.0625rem; }
+
+.h6 { font-size: 1rem; }
+
+@media print, screen and (min-width: 40em) { .h1 { font-size: 3rem; }
+  .h2 { font-size: 2.5rem; }
+  .h3 { font-size: 1.9375rem; }
+  .h4 { font-size: 1.5625rem; }
+  .h5 { font-size: 1.25rem; }
+  .h6 { font-size: 1rem; } }
