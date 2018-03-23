@@ -17,6 +17,7 @@ UNCSS_OPTIONS:
     - ".instagramFeed .imageColumn .prose svg"
     - ".instagramFeed .imageColumn .prose svg path"
     - ".instagramFeed .textColumn svg"
+    - ".instagramFeed .textColumn .imgWrap svg"
 
 # Gulp will reference these paths when it copies files
 PATHS:
