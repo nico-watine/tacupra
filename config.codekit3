@@ -4528,26 +4528,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/lucid.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/dist\/lucid-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/dist\/lucid.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/lucid-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
