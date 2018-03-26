@@ -2176,7 +2176,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
-.specCard { background: #F7F7F7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
+.specCard { background: #f7f7f7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
 
 .specCard-header { position: relative; }
 
@@ -2190,19 +2190,19 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
 
-#mc_embed_signup input.email { height: 2.8125rem; font-size: 1.125rem; border: 1px solid #979797; background: #FEFEFE; box-shadow: inset 0 0 0.0625rem 0.125rem rgba(10, 10, 10, 0.1); }
+#mc_embed_signup input.email { height: 2.8125rem; font-size: 1.125rem; border: 1px solid #979797; background: #fefefe; box-shadow: inset 0 0 0.0625rem 0.125rem rgba(10, 10, 10, 0.1); }
 
-#mc_embed_signup .button { background: #9F031B; font-size: 1.25rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.0625rem; height: 2.8125rem; }
+#mc_embed_signup .button { background: #9f031b; font-size: 1.25rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.0625rem; height: 2.8125rem; }
 
 #mc_embed_signup .button:hover { background-color: #000; }
 
-.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9F031B; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
+.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
 
 .postLink-card .prose { padding: 1rem; }
 
 .postLink-card .prose .post-title { letter-spacing: 0.0625rem; text-transform: uppercase; }
 
-.postLink-card .prose .post-link { font-size: 1rem; line-height: 1.25rem; background: #9F031B; border-radius: 0.25rem; max-width: 13.75rem; width: 100%; display: inline-block; color: #fff; padding: 0.75rem 0; }
+.postLink-card .prose .post-link { font-size: 1rem; line-height: 1.25rem; background: #9f031b; border-radius: 0.25rem; max-width: 13.75rem; width: 100%; display: inline-block; color: #fff; padding: 0.75rem 0; }
 
 @media print, screen and (min-width: 40em) { .postLink-card .prose .post-link { font-size: 1.25rem; } }
 
@@ -2210,11 +2210,11 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .postLink-card .prose .post-link.inactive { cursor: default; }
 
-.postLink-card .prose .post-link.inactive:hover { background: #9F031B; }
+.postLink-card .prose .post-link.inactive:hover { background: #9f031b; }
 
-#index footer { background: #282B2F; }
+#index footer { background: #282b2f; }
 
-#index footer a { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
+#index footer a { color: #f1f1f1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
 
 #index footer a span { text-decoration: underline; }
 
@@ -2313,7 +2313,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#tacoma-tundra-brake-swap .step-1-2-3 h5 { width: 100%; margin: 0 0 1.25rem; padding: 0 0.5rem; }
 
-.updatePost#tacoma-tundra-brake-swap .step-4 { background: #BB3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
+.updatePost#tacoma-tundra-brake-swap .step-4 { background: #bb3938 url("/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat; }
 
 .updatePost#tacoma-tundra-brake-swap .step-4 .row { padding: 40px 0 80px; }
 
@@ -2325,7 +2325,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 64em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose { height: 5.625rem; } }
 
-.updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { font-size: 1.875rem; background: #282B2F; margin-right: 10px; color: #fff; float: left; line-height: 4.375rem; }
+.updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { font-size: 1.875rem; background: #282b2f; margin-right: 10px; color: #fff; float: left; line-height: 4.375rem; }
 
 @media print, screen and (min-width: 40em) { .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose .count { line-height: 10rem; } }
 
@@ -2337,7 +2337,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section .prose { max-width: 35.625rem; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section span { background: #BB3938; height: 15px; width: 270px; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section span { background: #bb3938; height: 15px; width: 270px; }
 
 @media screen and (max-width: 63.9375em) { .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementIntro-prose { max-width: 37.5rem; } }
 
@@ -2347,17 +2347,17 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media screen and (max-width: 39.9375em) { .updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard { max-width: 31.25rem; } }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard img { border-bottom: 0.25rem solid #BB3938; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .infoCard img { border-bottom: 0.25rem solid #bb3938; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection { background: url("/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/ruler.svg") center top/contain; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection h2 { color: #BB3938; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection h2 { color: #bb3938; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard { background: #fff; border: 0.25rem solid #BB3938; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); border-radius: 0.25rem; max-width: 25rem; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard { background: #fff; border: 0.25rem solid #bb3938; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); border-radius: 0.25rem; max-width: 25rem; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard p span { font-size: 3rem; color: #BB3938; line-height: 1.4; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .measurementSection .measurementCard p span { font-size: 3rem; color: #bb3938; line-height: 1.4; }
 
-.updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection { background: #BB3938; }
+.updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection { background: #bb3938; }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .toolSetupSection h2 { color: #fff; }
 
@@ -2440,7 +2440,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .updatePost .hero .prose h1, .updatePost .hero .prose h4 { text-transform: uppercase; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); letter-spacing: 0.0625rem; color: #fff; }
 
-.updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9F031B 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
+.updatePost .hero .hero-scrim { position: absolute; height: 100%; width: 100%; background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9f031b 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat; }
 
 .displayInlineBlock, .inline-block { display: inline-block; }
 

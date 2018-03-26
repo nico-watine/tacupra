@@ -1,4 +1,4 @@
-@import "../../../_settings.scss";
+@import '../../../_settings.scss';
 
 .updatePost#tacoma-tundra-brake-swap {
 	.intro-prose {
@@ -20,7 +20,7 @@
 	}
 
 	.parts-specs {
-		background: $body-background url("#{$url}/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg") right/cover no-repeat;
+		background: $body-background url('#{$url}/img/update-post/tacoma-tundra-brake-swap/rotors-pads.svg') right/cover no-repeat;
 		padding: rem-calc(40) 0;
 		border-top: rem-calc(3) solid #000;
 	}
@@ -35,7 +35,7 @@
 				font-size: rem-calc(48);
 				color: #fff;
 				line-height: 1;
-				background: rgba(148,39,38,0.60);
+				background: rgba(148,39,38,.60);
 				position: absolute;
 				left: 0;
 				bottom: 0;
@@ -50,7 +50,7 @@
 	}
 
 	.step-4 {
-		background: #BB3938 url("#{$url}/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg") right center/auto 120% no-repeat;
+		background: #bb3938 url('#{$url}/img/assets/logos/toyota/icon/F1F1F1/toyota-icon.svg') right center/auto 120% no-repeat;
 
 		.row {
 			padding: 40px 0 80px;
@@ -76,7 +76,7 @@
 
 				.count {
 					font-size: rem-calc(30);
-					background: #282B2F;
+					background: #282b2f;
 					margin-right: 10px;
 					color: #fff;
 					float: left;

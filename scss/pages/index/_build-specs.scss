@@ -1,22 +1,21 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
 .build-specs {
 	padding: rem-calc(50) 0;
-	background:
-		linear-gradient(
-			rgba(222,14,13,0.45), 
-			rgba(222,14,13,0.45)
-		), url('#{$url}/img/index/build-specs/engine-background.jpg') center center/cover no-repeat;
+	background: linear-gradient(
+	rgba(222,14,13,.45),
+	rgba(222,14,13,.45)
+	), url('#{$url}/img/index/build-specs/engine-background.jpg') center center/cover no-repeat;
 
 	h1 {
 		color: #fff;
-		text-shadow: 0 rem-calc(2) rem-calc(2) rgba(0,0,0,0.50);
+		text-shadow: 0 rem-calc(2) rem-calc(2) rgba(0,0,0,.50);
 		text-transform: uppercase;
 	}
 }
 
 .specCard {
-	background: #F7F7F7;
+	background: #f7f7f7;
 	box-shadow: $z-1;
 	margin-bottom: rem-calc(60);
 }
@@ -36,12 +35,10 @@
 		position: absolute;
 		height: 100%;
 		width: 100%;
-		background-image: linear-gradient(-180deg, rgba(255,255,255,0.00) 0%, rgba(71,71,71,0.50) 72%, #000 100%);
+		background-image: linear-gradient(-180deg, rgba(255,255,255,.00) 0%, rgba(71,71,71,.50) 72%, #000 100%);
 	}
 }
 
 .specCard-body {
 	padding: rem-calc(12) rem-calc(20);
 }
-
-

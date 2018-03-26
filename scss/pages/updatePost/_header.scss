@@ -1,4 +1,4 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
 // ---------------------------------
 // |            nav-bar            |
@@ -100,7 +100,7 @@
 			h1,
 			h4 {
 				text-transform: uppercase;
-				text-shadow: 0 rem-calc(2) rem-calc(2) rgba(0,0,0,0.50);
+				text-shadow: 0 rem-calc(2) rem-calc(2) rgba(0,0,0,.50);
 				letter-spacing: rem-calc(1);
 				color: #fff;
 			}
@@ -111,11 +111,11 @@
 			height: 100%;
 			width: 100%;
 			background: linear-gradient(
-				-180deg, 
-				rgba(245,81,95,0.00) 0%, 
-				rgba(187,29,49,0.50) 62%, 
-				#9F031B 100%),
-				url('#{$url}/img/update-post/assets/header/tacupra.svg') center bottom/contain no-repeat;
+			-180deg,
+			rgba(245,81,95,.00) 0%,
+			rgba(187,29,49,.50) 62%,
+			#9f031b 100%),
+			url('#{$url}/img/update-post/assets/header/tacupra.svg') center bottom/contain no-repeat;
 		}
 	}
 }
