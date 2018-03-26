@@ -1,8 +1,8 @@
-@import "../_settings.scss";
+@import '../_settings.scss';
 
 
 footer {
-	background: #282B2F url('#{$url}/img/update-post/assets/footer/tacupra.svg') left top/auto 100% no-repeat;
+	background: #282b2f url('#{$url}/img/update-post/assets/footer/tacupra.svg') left top/auto 100% no-repeat;
 
 	@include breakpoint(medium) {
 		background-position: center top;
@@ -21,7 +21,7 @@ footer {
 	}
 
 	a.colophon {
-		color: #F1F1F1;
+		color: #f1f1f1;
 		letter-spacing: 2px;
 		font-size: 12px;
 		text-transform: uppercase;

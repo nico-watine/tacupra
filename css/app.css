@@ -2148,7 +2148,7 @@ p.xLarge { font-size: 1.125rem; }
   .h5 { font-size: 1.25rem; }
   .h6 { font-size: 1rem; } }
 
-footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
+footer { background: #282b2f url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat; }
 
 @media print, screen and (min-width: 40em) { footer { background-position: center top; } }
 
@@ -2156,7 +2156,7 @@ footer { background: #282B2F url("/img/update-post/assets/footer/tacupra.svg") l
 
 footer h5 a { color: #f5f5f5; letter-spacing: 1.5px; text-transform: uppercase; }
 
-footer a.colophon { color: #F1F1F1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
+footer a.colophon { color: #f1f1f1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
 
 footer a.colophon span { text-decoration: underline; }
 
