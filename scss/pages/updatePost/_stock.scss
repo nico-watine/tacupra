@@ -1,4 +1,4 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
 .updatePost-stock {
 	.container {
@@ -50,7 +50,7 @@
 		.row {
 			.content {
 				@include grid-col;
-				
+
 				@include breakpoint(medium) {
 					@include grid-column(10);
 					@include grid-col-pos(1);

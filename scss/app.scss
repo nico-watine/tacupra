@@ -1,24 +1,16 @@
 @charset 'utf-8';
-@import "bourbon";
 
 @import 'settings';
 @import 'foundation';
-// UPON DEVELOPMENT, MOVE THE IMPORT OF MOTION-UI TO THE BOTTOM OF THE PAGE FOR LOADING OPTIMIZATION ::
-// @import 'motion-ui';
+@import 'motion-ui';
 
-// Set::
 @include foundation-global-styles;
 @include foundation-grid;
+// @include foundation-flex-grid;
 @include foundation-typography;
-
-// Beta::
-@include foundation-menu;
-
-// Extras::
-@include foundation-off-canvas;
 @include foundation-button;
 @include foundation-forms;
-@include foundation-range-input;
+// @include foundation-range-input;
 @include foundation-accordion;
 @include foundation-accordion-menu;
 @include foundation-badge;
@@ -27,6 +19,7 @@
 @include foundation-callout;
 @include foundation-card;
 @include foundation-close-button;
+@include foundation-menu;
 @include foundation-menu-icon;
 @include foundation-drilldown-menu;
 @include foundation-dropdown;
@@ -34,11 +27,12 @@
 @include foundation-responsive-embed;
 @include foundation-label;
 @include foundation-media-object;
+@include foundation-off-canvas;
 @include foundation-orbit;
 @include foundation-pagination;
 @include foundation-progress-bar;
-@include foundation-progress-element;
-@include foundation-meter-element;
+// @include foundation-progress-element;
+// @include foundation-meter-element;
 @include foundation-slider;
 @include foundation-sticky;
 @include foundation-reveal;
@@ -51,32 +45,25 @@
 @include foundation-top-bar;
 @include foundation-visibility-classes;
 @include foundation-float-classes;
-@include foundation-flex-classes;
+// @include foundation-flex-classes;
 
-// THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
-// USING MOTION BC OF LARGE FILE SIZES
-// @include motion-ui-transitions;
-// @include motion-ui-animations;
-
-// TYPICALLY NEVER IMPORTED::
-// @include foundation-flex-grid;
+@include motion-ui-transitions;
+@include motion-ui-animations;
 
 
-//  ---------------------------------------------------------------
-// IMPORT CUSTOM SCSS FILES ::
-// IN ORDER OF LOAD PRIORITY ::
-//  ---------------------------------------------------------------
+// ------------------------------------------------------------------------------
+// |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
+// ------------------------------------------------------------------------------
 
 // #1 TYPOGRAPHY
-@import "components/_typography.scss";
+@import 'components/_typography.scss';
 
 // #2 COMMON PAGE BLOCKS
-@import "blocks/_footer.scss";
+@import 'blocks/_footer.scss';
 
 // #3 SPECIFIC PAGE STYLES
-@import "pages/index/_index.scss";
-@import "pages/updatePost/_updatePost.scss";
+@import 'pages/index/_index.scss';
+@import 'pages/updatePost/_updatePost.scss';
 
 // #4 MISC COMPONENTS
-@import "components/_components.scss";
-
+@import 'components/_components.scss';
