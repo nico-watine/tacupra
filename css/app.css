@@ -1819,7 +1819,7 @@ a.thumbnail:hover, a.thumbnail:focus { box-shadow: 0 0 6px 1px rgba(23, 121, 186
 
 a.thumbnail image { box-shadow: none; }
 
-.title-bar { padding: 0; background: #282B2F; color: #fefefe; }
+.title-bar { padding: 0; background: #282b2f; color: #fefefe; }
 
 .title-bar::before, .title-bar::after { display: table; content: ' '; }
 
@@ -1851,7 +1851,7 @@ a.thumbnail image { box-shadow: none; }
 
 .top-bar::after { clear: both; }
 
-.top-bar, .top-bar ul { background-color: #282B2F; }
+.top-bar, .top-bar ul { background-color: #282b2f; }
 
 .top-bar input { max-width: 200px; margin-right: 1rem; }
 
