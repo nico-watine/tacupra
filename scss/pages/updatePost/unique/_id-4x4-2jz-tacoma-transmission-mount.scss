@@ -1,8 +1,8 @@
-@import "../../../_settings.scss";
+@import '../../../_settings.scss';
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount {
 	.pageIntro-section {
-		background: $body-background url("#{$url}/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat;
+		background: $body-background url('#{$url}/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg') right/auto 100% no-repeat;
 		background-position: 110% -50px;
 
 		.prose {
@@ -10,7 +10,7 @@
 		}
 
 		span {
-			background: #BB3938;
+			background: #bb3938;
 			height: 15px;
 			width: 270px;
 		}
@@ -36,20 +36,20 @@
 		}
 
 		img {
-			border-bottom: rem-calc(4) solid #BB3938;
+			border-bottom: rem-calc(4) solid #bb3938;
 		}
 	}
 
 	.measurementSection {
-		background: url("#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/ruler.svg") center top/contain;
+		background: url('#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/ruler.svg') center top/contain;
 
 		h2 {
-			color: #BB3938;
+			color: #bb3938;
 		}
 
 		.measurementCard {
 			background: #fff;
-			border: rem-calc(4) solid #BB3938;
+			border: rem-calc(4) solid #bb3938;
 			box-shadow: $z-2;
 			border-radius: rem-calc(4);
 			max-width: rem-calc(400);
@@ -57,7 +57,7 @@
 			p {
 				span {
 					font-size: rem-calc(48);
-					color: #BB3938;
+					color: #bb3938;
 					line-height: 1.4;
 				}
 			}
@@ -65,16 +65,16 @@
 	}
 
 	.toolSetupSection {
-		background: #BB3938;
+		background: #bb3938;
 
 		h2 {
 			color: #fff;
 		}
 
 		.caption {
-			background: rgba(0,0,0,.7); 
-			position: absolute; 
-			bottom: 0; 
+			background: rgba(0,0,0,.7);
+			position: absolute;
+			bottom: 0;
 			width: 100%;
 
 			p {
@@ -84,11 +84,10 @@
 	}
 
 	.masonrySection {
-		background:
-			linear-gradient(
-				rgba(184,0,0,0.70), 
-				rgba(184,0,0,0.70)
-			), url('#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png') center/auto;
+		background: linear-gradient(
+		rgba(184,0,0,.70),
+		rgba(184,0,0,.70)
+		), url('#{$url}/img/update-post/4x4-2jz-tacoma-transmission-mount/carbonfiber-pattern.png') center/auto;
 	}
 
 	#masonryGrid {
@@ -101,4 +100,3 @@
 		}
 	}
 }
-

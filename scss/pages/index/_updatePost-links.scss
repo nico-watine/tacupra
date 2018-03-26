@@ -1,10 +1,10 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
 
 .postLink-card {
 	box-shadow: $z-1;
-	border: rem-calc(3) solid #9F031B; 
-	border-radius: rem-calc(4); 
+	border: rem-calc(3) solid #9f031b;
+	border-radius: rem-calc(4);
 	margin-bottom: rem-calc(30);
 	background: #fff;
 
@@ -19,7 +19,7 @@
 		.post-link {
 			font-size: rem-calc(16);
 			line-height: rem-calc(20);
-			background: #9F031B;
+			background: #9f031b;
 			border-radius: rem-calc(4);
 			max-width: rem-calc(220);
 			width: 100%;
@@ -38,11 +38,10 @@
 
 		.post-link.inactive {
 			cursor: default;
-			
+
 			&:hover {
-				background: #9F031B;
+				background: #9f031b;
 			}
 		}
 	}
 }
-
