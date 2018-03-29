@@ -2172,11 +2172,11 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .gfycat-cover#gfycat-cover { position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; }
 
-.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.45), rgba(222, 14, 13, 0.45)), url("/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
+.build-specs { padding: 3.125rem 0; background: linear-gradient(rgba(222, 14, 13, 0.5), rgba(222, 14, 13, 0.5)), url("/img/index/build-specs/engine-background.jpg") center center/cover no-repeat; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
-.specCard { background: #f7f7f7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
+.specCard { background: #fefefe; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
 
 .specCard-header { position: relative; }
 
@@ -2186,17 +2186,17 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .specCard-body { padding: 0.75rem 1.25rem; }
 
-.subscribe-section { padding: 3.125rem 0; background: #f1f1f1 url("/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
+.subscribe-section { padding: 3.125rem 0; background: url("/img/index/subscribe/tacupra.png") left center/auto 100% no-repeat; }
 
-@media screen and (min-width: 48.0625em) { .subscribe-section { background: #f1f1f1 url("/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
+@media screen and (min-width: 48.0625em) { .subscribe-section { background: url("/img/index/subscribe/tacupra.png") center center/contain no-repeat; } }
 
 #mc_embed_signup input.email { height: 2.8125rem; font-size: 1.125rem; border: 1px solid #979797; background: #fefefe; box-shadow: inset 0 0 0.0625rem 0.125rem rgba(10, 10, 10, 0.1); }
 
 #mc_embed_signup .button { background: #9f031b; font-size: 1.25rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.0625rem; height: 2.8125rem; }
 
-#mc_embed_signup .button:hover { background-color: #000; }
+#mc_embed_signup .button:hover { background: #0a0a0a; }
 
-.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
+.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fefefe; }
 
 .postLink-card .prose { padding: 1rem; }
 
@@ -2206,7 +2206,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 40em) { .postLink-card .prose .post-link { font-size: 1.25rem; } }
 
-.postLink-card .prose .post-link:hover { background: #000; }
+.postLink-card .prose .post-link:hover { background: #282b2f; }
 
 .postLink-card .prose .post-link.inactive { cursor: default; }
 
@@ -2214,7 +2214,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #index footer { background: #282b2f; }
 
-#index footer a { color: #f1f1f1; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
+#index footer a { color: #fefefe; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; line-height: 36px; }
 
 #index footer a span { text-decoration: underline; }
 
@@ -2256,7 +2256,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .instagramFeed .textColumn .prose { padding: 1.875rem 0.9375rem 0; z-index: 10; }
 
-.instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #bb3938; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
+.instagramFeed .textColumn .prose h1 { border-bottom: 0.625rem solid #9f031b; padding-bottom: 1.25rem; margin-bottom: 1.25rem; }
 
 .instagramFeed .textColumn .imgWrap { width: 100%; bottom: -20px; z-index: -1; }
 
