@@ -2196,7 +2196,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background: #0a0a0a; }
 
-.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
+.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fefefe; }
 
 .postLink-card .prose { padding: 1rem; }
 
@@ -2206,7 +2206,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 40em) { .postLink-card .prose .post-link { font-size: 1.25rem; } }
 
-.postLink-card .prose .post-link:hover { background: #000; }
+.postLink-card .prose .post-link:hover { background: #282b2f; }
 
 .postLink-card .prose .post-link.inactive { cursor: default; }
 
