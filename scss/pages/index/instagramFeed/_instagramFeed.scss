@@ -56,6 +56,11 @@
 				padding: rem-calc(15);
 				width: rem-calc(280);
 				margin: 0;
+
+				&:hover {
+					background: $white;
+					color: $black;
+				}
 			}
 
 			svg {
