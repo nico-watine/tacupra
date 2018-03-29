@@ -19,7 +19,7 @@
 	}
 
 	.button {
-		background: #9f031b;
+		background: $tacupra-red;
 		font-size: rem-calc(20);
 		font-weight: bold;
 		text-transform: uppercase;
@@ -27,7 +27,7 @@
 		height: rem-calc(45);
 
 		&:hover {
-			background-color: #000;
+			background: $black;
 		}
 	}
 }

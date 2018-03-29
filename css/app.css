@@ -2194,7 +2194,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #mc_embed_signup .button { background: #9f031b; font-size: 1.25rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.0625rem; height: 2.8125rem; }
 
-#mc_embed_signup .button:hover { background-color: #000; }
+#mc_embed_signup .button:hover { background: #0a0a0a; }
 
 .postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fff; }
 
