@@ -3,10 +3,10 @@
 
 .postLink-card {
 	box-shadow: $z-1;
-	border: rem-calc(3) solid #9f031b;
+	border: rem-calc(3) solid $tacupra-red;
 	border-radius: rem-calc(4);
 	margin-bottom: rem-calc(30);
-	background: #fff;
+	background: $white;
 
 	.prose {
 		padding: rem-calc(16);
@@ -19,7 +19,7 @@
 		.post-link {
 			font-size: rem-calc(16);
 			line-height: rem-calc(20);
-			background: #9f031b;
+			background: $tacupra-red;
 			border-radius: rem-calc(4);
 			max-width: rem-calc(220);
 			width: 100%;
@@ -32,7 +32,7 @@
 			}
 
 			&:hover {
-				background: #000;
+				background: $tacupra-black;
 			}
 		}
 
@@ -40,7 +40,7 @@
 			cursor: default;
 
 			&:hover {
-				background: #9f031b;
+				background: $tacupra-red;
 			}
 		}
 	}

@@ -14,7 +14,7 @@
 			z-index: 10;
 
 			h1 {
-				border-bottom: rem-calc(10) solid #bb3938;
+				border-bottom: rem-calc(10) solid $tacupra-red;
 				padding-bottom: rem-calc(20);
 				margin-bottom: rem-calc(20);
 			}
@@ -50,7 +50,7 @@
 			}
 
 			a.button {
-				background: #282b2f;
+				background: $tacupra-black;
 				font-size: rem-calc(26);
 				border-radius: rem-calc(4);
 				padding: rem-calc(15);
