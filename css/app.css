@@ -2176,7 +2176,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .build-specs h1 { color: #fff; text-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.5); text-transform: uppercase; }
 
-.specCard { background: #f7f7f7; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
+.specCard { background: #fefefe; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); margin-bottom: 3.75rem; }
 
 .specCard-header { position: relative; }
 
