@@ -53,9 +53,15 @@
 				background: $tacupra-black;
 				font-size: rem-calc(26);
 				border-radius: rem-calc(4);
+				border: rem-calc(2) solid $tacupra-black;
 				padding: rem-calc(15);
 				width: rem-calc(280);
 				margin: 0;
+
+				&:hover {
+					background: $white;
+					color: $black;
+				}
 			}
 
 			svg {
