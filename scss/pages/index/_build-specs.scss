@@ -3,8 +3,8 @@
 .build-specs {
 	padding: rem-calc(50) 0;
 	background: linear-gradient(
-	rgba(222,14,13,.45),
-	rgba(222,14,13,.45)
+	$red-scrim,
+	$red-scrim
 	), url('#{$url}/img/index/build-specs/engine-background.jpg') center center/cover no-repeat;
 
 	h1 {
