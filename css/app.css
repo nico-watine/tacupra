@@ -2749,9 +2749,9 @@ a.thumbnail image { box-shadow: none; }
 
 .tooltip.align-right::before { left: auto; right: 10%; }
 
-.top-bar { display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center; padding: 0.5rem; flex-wrap: wrap; }
+.top-bar { display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center; padding: 0; flex-wrap: wrap; }
 
-.top-bar, .top-bar ul { background-color: #e6e6e6; }
+.top-bar, .top-bar ul { background-color: #282b2f; }
 
 .top-bar input { max-width: 200px; margin-right: 1rem; }
 
