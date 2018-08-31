@@ -37,6 +37,8 @@
     "url": "https://github.com/nico-watine/tacupra.git"
   },
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   }
 }
