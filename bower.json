@@ -4,7 +4,6 @@
     "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "Website for @2jz_tacupra, built on zurb-f6-boilerplate",
-  "main": "gulpfile.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
