@@ -1,53 +1,40 @@
-@import '../_settings.scss';
-
-
 // ---------------------------------
-// |            Padding            |
+// |            Heights            |
 // ---------------------------------
 
-.padding-0 {
-	padding: 0 !important;
+.h-25 {
+	height: 25%;
 }
 
-.padding-X {
-	padding: 0 rem-calc(15) !important;
+.h-50 {
+	height: 50%;
 }
 
-.padding-Y {
-	padding: rem-calc(15) 0 !important;
+.h-75 {
+	height: 75%;
 }
 
-.padding-XY {
-	padding: rem-calc(15) !important;
-}
-
-
-// ---------------------------------------------------------------------- //
-
-
-// ---------------------------------
-// |            Margins            |
-// ---------------------------------
-
-.margin-0 {
-	margin: 0 !important;
-}
-
-.margin-X {
-	margin: 0 rem-calc(15) !important;
-}
-
-.margin-Y {
-	margin: rem-calc(15) 0 !important;
-}
-
-.margin-XY {
-	margin: rem-calc(15) !important;
-}
-
-.margin-centered {
-	margin: 0 auto;
+.h-100 {
+	height: 100%;
 }
 
 
-// ---------------------------------------------------------------------- //
+// --------------------------------
+// |            Widths            |
+// --------------------------------
+
+.w-25 {
+	width: 25%;
+}
+
+.w-50 {
+	width: 50%;
+}
+
+.w-75 {
+	width: 75%;
+}
+
+.w-100 {
+	width: 100%;
+}

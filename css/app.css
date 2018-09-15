@@ -4187,23 +4187,21 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .margin-centered { margin: 0 auto; }
 
-.padding-0 { padding: 0 !important; }
+.h-25 { height: 25%; }
 
-.padding-X { padding: 0 0.9375rem !important; }
+.h-50 { height: 50%; }
 
-.padding-Y { padding: 0.9375rem 0 !important; }
+.h-75 { height: 75%; }
 
-.padding-XY { padding: 0.9375rem !important; }
+.h-100 { height: 100%; }
 
-.margin-0 { margin: 0 !important; }
+.w-25 { width: 25%; }
 
-.margin-X { margin: 0 0.9375rem !important; }
+.w-50 { width: 50%; }
 
-.margin-Y { margin: 0.9375rem 0 !important; }
+.w-75 { width: 75%; }
 
-.margin-XY { margin: 0.9375rem !important; }
-
-.margin-centered { margin: 0 auto; }
+.w-100 { width: 100%; }
 
 html, body { height: 100%; }
 
