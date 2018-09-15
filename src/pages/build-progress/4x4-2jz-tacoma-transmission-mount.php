@@ -49,26 +49,22 @@ upload-date: November 6, 2017
 	</div>
 	<br>
 	<br>
-	<div class="row" data-equalizer>
-		<div class="medium-4 columns">
-			<div class="infoCard margin-centered" data-equalizer-watch>
+	<div class="grid-container grid-x grid-padding-x">
+		<div class="medium-4 cell mb-40">
+			<div class="infoCard margin-centered">
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
 				<div class="padding-XY">
 					<p>This is the measuring point at the back of the output flange.</p>
 				</div>
 			</div>
-			<br>
-			<br>
 		</div>
-		<div class="medium-8 columns">
-			<div class="infoCard margin-centered" data-equalizer-watch>
+		<div class="medium-8 cell mb-40">
+			<div class="infoCard margin-centered" style="height: 100%;">
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
 				<div class="padding-XY">
 					<p>This point is the mounting flange at the front of the carrier bearing.</p>
 				</div>
 			</div>
-			<br>
-			<br>
 		</div>
 	</div>
 </section>
@@ -76,24 +72,21 @@ upload-date: November 6, 2017
 	<br>
 	<h2 class="text-center"><strong>Measurement Stats</strong></h2>
 	<br>
-	<div class="row" data-equalizer>
-			<div class="large-4 columns large-push-1">
-			<div class="measurementCard margin-centered padding-XY" data-equalizer-watch>
+	<div class="grid-container grid-x grid-padding-x align-center">
+			<div class="large-4 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="displayBlock"><strong>27.75”</strong></span></p>
 			</div>
-			<br>
 		</div>
-		<div class="large-3 columns large-push-1">
-			<div class="measurementCard margin-centered padding-XY" data-equalizer-watch>
+		<div class="large-3 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Front half of the shaft cut by <span class="displayBlock"><strong>2.75”</strong></span></p>
 			</div>
-			<br>
 		</div>
-		<div class="large-3 columns large-push-1 end">
-			<div class="measurementCard margin-centered padding-XY" data-equalizer-watch>
+		<div class="large-3 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Length after modifying transmission mount <span class="displayBlock"><strong>25”</strong></span></p>
 			</div>
-			<br>
 		</div>
 	</div>
 	<br>

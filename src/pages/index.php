@@ -27,9 +27,9 @@ layout: index-video-splash
 			<h1><strong>Build Specs</strong></h1>
 		</div>
 	</div>
-	<div class="row" data-equalizer>
-		<div class="medium-6 columns">
-			<div class="specCard" data-equalizer-watch>
+	<div class="grid-container grid-x grid-padding-x" >
+		<div class="medium-6 cell mb-40">
+			<div class="specCard">
 				<div class="specCard-header">
 					<h2><strong>Build Truck</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
@@ -43,8 +43,8 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 columns">
-			<div class="specCard" data-equalizer-watch>
+		<div class="medium-6 cell mb-40">
+			<div class="specCard" style="height: 100%;">
 				<div class="specCard-header">
 					<h2><strong>Swap Engine</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
