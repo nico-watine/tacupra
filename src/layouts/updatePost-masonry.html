@@ -61,16 +61,13 @@
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
 <script>
-$(window).load(function(){
-
-  $('#masonryGrid').masonry({
-
-    itemSelector: '#masonryGrid .tile'
-
-  });
-
-});
+	// vanilla JS
+	var grid = document.querySelector('#masonryGrid');
+	var msnry = new Masonry( grid, {
+		itemSelector: '#masonryGrid .tile'
+	});
 </script>
+
 <script type="text/javascript" src="https://assets.gfycat.com/gfycat.js"></script>
 
 </body>
