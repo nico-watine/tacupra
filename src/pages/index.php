@@ -27,7 +27,7 @@ layout: index-video-splash
 			<h1><strong>Build Specs</strong></h1>
 		</div>
 	</div>
-	<div class="grid-container grid-x grid-padding-x align-stretch" >
+	<div class="grid-container grid-x grid-padding-x" >
 		<div class="medium-6 cell mb-40">
 			<div class="specCard">
 				<div class="specCard-header">
