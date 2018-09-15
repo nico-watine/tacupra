@@ -73,23 +73,20 @@ upload-date: November 6, 2017
 	<h2 class="text-center"><strong>Measurement Stats</strong></h2>
 	<br>
 	<div class="grid-container grid-x grid-padding-x align-center">
-			<div class="large-4 cell">
-			<div class="measurementCard margin-centered padding-XY">
+			<div class="large-4 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="displayBlock"><strong>27.75”</strong></span></p>
 			</div>
-			<br>
 		</div>
-		<div class="large-3 cell">
-			<div class="measurementCard margin-centered padding-XY">
+		<div class="large-3 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Front half of the shaft cut by <span class="displayBlock"><strong>2.75”</strong></span></p>
 			</div>
-			<br>
 		</div>
-		<div class="large-3 cell">
-			<div class="measurementCard margin-centered padding-XY">
+		<div class="large-3 cell mb-40">
+			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
 				<p class="margin-0">Length after modifying transmission mount <span class="displayBlock"><strong>25”</strong></span></p>
 			</div>
-			<br>
 		</div>
 	</div>
 	<br>
