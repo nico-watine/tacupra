@@ -146,7 +146,7 @@ layout: index-video-splash
 			</div>
 		</div>
 	</div>
-	<div class="grid-x grid-padding-x large-align-center">
+	<div class="grid-x grid-padding-x medium-align-center large-align-left">
 		<div class="medium-8 large-4 cell mb-40">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
