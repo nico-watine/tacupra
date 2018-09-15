@@ -50,25 +50,21 @@ upload-date: November 6, 2017
 	<br>
 	<br>
 	<div class="grid-container grid-x grid-padding-x">
-		<div class="medium-4 cell">
+		<div class="medium-4 cell mb-40">
 			<div class="infoCard margin-centered">
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
 				<div class="padding-XY">
 					<p>This is the measuring point at the back of the output flange.</p>
 				</div>
 			</div>
-			<br>
-			<br>
 		</div>
-		<div class="medium-8 cell">
-			<div class="infoCard margin-centered">
+		<div class="medium-8 cell mb-40">
+			<div class="infoCard margin-centered" style="height: 100%;">
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
 				<div class="padding-XY">
 					<p>This point is the mounting flange at the front of the carrier bearing.</p>
 				</div>
 			</div>
-			<br>
-			<br>
 		</div>
 	</div>
 </section>
