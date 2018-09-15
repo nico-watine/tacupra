@@ -117,8 +117,8 @@ layout: index-video-splash
 <br>
 <br>
 <section class="updatePost-links">
-	<div class="row expanded">
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+	<div class="grid-x align-center grid-padding-x">
+		<div class="medium-8 large-4 cell">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
 				<div class="prose">
@@ -127,7 +127,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
+		<div class="medium-8 large-4 cell">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tundra-brake-setup.jpg" alt="Tacoma Tundra Brake Swap Preview">
 				<div class="prose">
@@ -136,7 +136,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
+		<div class="medium-8 large-4 cell end">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
