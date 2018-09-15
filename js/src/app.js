@@ -31,3 +31,10 @@ jQuery('img.svg').each(function(){
 	}, 'xml');
 
 });
+
+// Masonry init
+// vanilla JS
+var grid = document.querySelector('#masonryGrid');
+var msnry = new Masonry( grid, {
+	itemSelector: '#masonryGrid .tile'
+});

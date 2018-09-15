@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "foundation-sites": "^6.4.3",
-    "motion-ui": "~1.2.2"
+    "motion-ui": "~1.2.2",
+    "masonry-layout": "masonry#^4.2.2"
   }
 }
