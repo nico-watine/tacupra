@@ -62,7 +62,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.drilldown.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.dropdown.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js"
-    - "bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js"
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.interchange.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.offcanvas.js"
