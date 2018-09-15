@@ -1,19 +1,48 @@
+// -------------------------------------------------
+// |            Horizontal Align-Center            |
+// -------------------------------------------------
+
+// Medium+
 @mixin medium-align-center() {
 	@include breakpoint(medium) {
 		@include flex-align(center);
 	}
 }
-
 .medium-align-center {
 	@include medium-align-center();
 }
 
+// Large+
 @mixin large-align-center() {
 	@include breakpoint(large) {
 		@include flex-align(center);
 	}
 }
-
 .large-align-center {
 	@include large-align-center();
+}
+
+
+// -----------------------------------------------
+// |            Horizontal Align-Left            |
+// -----------------------------------------------
+
+// Medium+
+@mixin medium-align-left() {
+	@include breakpoint(medium) {
+		@include flex-align(left);
+	}
+}
+.medium-align-left {
+	@include medium-align-left();
+}
+
+// Large+
+@mixin large-align-left() {
+	@include breakpoint(large) {
+		@include flex-align(left);
+	}
+}
+.large-align-left {
+	@include large-align-left();
 }

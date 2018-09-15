@@ -3913,6 +3913,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 64em) { .large-align-center { justify-content: center; } }
 
+@media print, screen and (min-width: 40em) { .medium-align-left { justify-content: flex-start; } }
+
+@media print, screen and (min-width: 64em) { .large-align-left { justify-content: flex-start; } }
+
 .relative { position: relative; }
 
 .ie-only { display: none; visibility: hidden; }
