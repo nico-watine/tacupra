@@ -7,3 +7,13 @@
 .medium-align-center {
 	@include medium-align-center();
 }
+
+@mixin large-align-center() {
+	@include breakpoint(large) {
+		@include flex-align(center);
+	}
+}
+
+.large-align-center {
+	@include large-align-center();
+}
