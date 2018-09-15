@@ -44,7 +44,7 @@ layout: index-video-splash
 			</div>
 		</div>
 		<div class="medium-6 cell mb-40">
-			<div class="specCard" style="height: 100%;">
+			<div class="specCard h-100">
 				<div class="specCard-header">
 					<h2><strong>Swap Engine</strong></h2>
 					<div class="image-scrim">&nbsp;</div>
