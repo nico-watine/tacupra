@@ -49,8 +49,8 @@ upload-date: November 6, 2017
 	</div>
 	<br>
 	<br>
-	<div class="row" data-equalizer>
-		<div class="medium-4 columns">
+	<div class="grid-container grid-x grid-padding-x" data-equalizer>
+		<div class="medium-4 cell">
 			<div class="infoCard margin-centered" data-equalizer-watch>
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measure-driveshaft-back-output-flange.jpg" alt="">
 				<div class="padding-XY">
@@ -60,7 +60,7 @@ upload-date: November 6, 2017
 			<br>
 			<br>
 		</div>
-		<div class="medium-8 columns">
+		<div class="medium-8 cell">
 			<div class="infoCard margin-centered" data-equalizer-watch>
 				<img src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/measuring-original-driveshaft-length.jpg" alt="">
 				<div class="padding-XY">
