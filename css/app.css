@@ -3917,6 +3917,10 @@ footer a.colophon:hover { text-decoration: underline; }
 
 @media print, screen and (min-width: 64em) { .large-align-left { justify-content: flex-start; } }
 
+@media print, screen and (min-width: 40em) { .medium-align-right { justify-content: flex-end; } }
+
+@media print, screen and (min-width: 64em) { .large-align-right { justify-content: flex-end; } }
+
 .relative { position: relative; }
 
 .ie-only { display: none; visibility: hidden; }

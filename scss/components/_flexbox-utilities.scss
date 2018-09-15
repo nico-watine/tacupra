@@ -46,3 +46,28 @@
 .large-align-left {
 	@include large-align-left();
 }
+
+
+// -----------------------------------------------
+// |            Horizontal Align-Right            |
+// -----------------------------------------------
+
+// Medium+
+@mixin medium-align-right() {
+	@include breakpoint(medium) {
+		@include flex-align(right);
+	}
+}
+.medium-align-right {
+	@include medium-align-right();
+}
+
+// Large+
+@mixin large-align-right() {
+	@include breakpoint(large) {
+		@include flex-align(right);
+	}
+}
+.large-align-right {
+	@include large-align-right();
+}
