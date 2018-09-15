@@ -4187,6 +4187,24 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .margin-centered { margin: 0 auto; }
 
+.padding-0 { padding: 0 !important; }
+
+.padding-X { padding: 0 0.9375rem !important; }
+
+.padding-Y { padding: 0.9375rem 0 !important; }
+
+.padding-XY { padding: 0.9375rem !important; }
+
+.margin-0 { margin: 0 !important; }
+
+.margin-X { margin: 0 0.9375rem !important; }
+
+.margin-Y { margin: 0.9375rem 0 !important; }
+
+.margin-XY { margin: 0.9375rem !important; }
+
+.margin-centered { margin: 0 auto; }
+
 html, body { height: 100%; }
 
 p.large, p.xLarge { line-height: 1.4; margin: 0 0 0.5rem; }
