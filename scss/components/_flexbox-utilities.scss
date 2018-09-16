@@ -47,7 +47,17 @@
 // |            Horizontal Align-Left            |
 // -----------------------------------------------
 
-// Medium+
+// Medium ONLY
+@mixin medium-only-align-left() {
+	@include breakpoint(medium only) {
+		@include flex-align(left);
+	}
+}
+.medium-only-align-left {
+	@include medium-only-align-left();
+}
+
+// Medium +
 @mixin medium-align-left() {
 	@include breakpoint(medium) {
 		@include flex-align(left);
@@ -57,7 +67,17 @@
 	@include medium-align-left();
 }
 
-// Large+
+// Large ONLY
+@mixin large-only-align-left() {
+	@include breakpoint(large only) {
+		@include flex-align(left);
+	}
+}
+.large-only-align-left {
+	@include large-only-align-left();
+}
+
+// Large +
 @mixin large-align-left() {
 	@include breakpoint(large) {
 		@include flex-align(left);
