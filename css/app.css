@@ -3643,7 +3643,7 @@ footer a.colophon:hover { text-decoration: underline; }
 
 #mc_embed_signup .button:hover { background: #0a0a0a; }
 
-.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; margin-bottom: 1.875rem; background: #fefefe; }
+.postLink-card { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); border: 0.1875rem solid #9f031b; border-radius: 0.25rem; background: #fefefe; }
 
 .postLink-card .prose { padding: 1rem; }
 
@@ -3908,6 +3908,18 @@ footer a.colophon:hover { text-decoration: underline; }
 .vertical-center { position: absolute; top: 50%; transform: translateY(-50%); }
 
 .absolute-center { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+
+@media print, screen and (min-width: 40em) { .medium-align-center { justify-content: center; } }
+
+@media print, screen and (min-width: 64em) { .large-align-center { justify-content: center; } }
+
+@media print, screen and (min-width: 40em) { .medium-align-left { justify-content: flex-start; } }
+
+@media print, screen and (min-width: 64em) { .large-align-left { justify-content: flex-start; } }
+
+@media print, screen and (min-width: 40em) { .medium-align-right { justify-content: flex-end; } }
+
+@media print, screen and (min-width: 64em) { .large-align-right { justify-content: flex-end; } }
 
 .relative { position: relative; }
 

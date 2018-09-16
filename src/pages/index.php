@@ -117,41 +117,41 @@ layout: index-video-splash
 <br>
 <br>
 <section class="updatePost-links">
-	<div class="row expanded" data-equalizer>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card">
+	<div class="grid-x align-center grid-padding-x">
+		<div class="medium-8 large-4 cell mb-40">
+			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
 				<div class="prose">
-					<h4 data-equalizer-watch class="post-title"><strong>4x4 2JZ Transmission Mount</strong></h4>
+					<h4 class="post-title"><strong>4x4 2JZ Transmission Mount</strong></h4>
 					<a href="/build-progress/4x4-2jz-tacoma-transmission-mount" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns">
-			<div class="postLink-card">
+		<div class="medium-8 large-4 cell mb-40">
+			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tundra-brake-setup.jpg" alt="Tacoma Tundra Brake Swap Preview">
 				<div class="prose">
-					<h4 data-equalizer-watch class="post-title"><strong>Tacoma-Tundra Brake Swap</strong></h4>
+					<h4 class="post-title"><strong>Tacoma-Tundra Brake Swap</strong></h4>
 					<a href="/build-progress/tacoma-tundra-brake-swap" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
-			<div class="postLink-card">
+		<div class="medium-8 large-4 cell mb-40">
+			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
-					<h4 data-equalizer-watch class="post-title"><strong>Single Turbo Fitment</strong></h4>
+					<h4 class="post-title"><strong>Single Turbo Fitment</strong></h4>
 					<a href="/build-progress/single-turbo-fitment" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row expanded" data-equalizer>
-		<div class="medium-8 medium-push-2 large-4 large-push-0 columns end">
+	<div class="grid-x grid-padding-x medium-align-center large-align-left">
+		<div class="medium-8 large-4 cell mb-40">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
-					<h4 data-equalizer-watch class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
+					<h4 class="post-title"><strong>Suspension &amp; Brakes</strong></h4>
 					<a href="/build-progress/2001-toyota-tacoma-suspension" class="post-link text-center">Build Update</a>
 				</div>
 			</div>
