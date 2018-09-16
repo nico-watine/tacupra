@@ -2,7 +2,17 @@
 // |            Horizontal Align-Center            |
 // -------------------------------------------------
 
-// Medium+
+// Medium ONLY
+@mixin medium-only-align-center() {
+	@include breakpoint(medium only) {
+		@include flex-align(center);
+	}
+}
+.medium-only-align-center {
+	@include medium-only-align-center();
+}
+
+// Medium +
 @mixin medium-align-center() {
 	@include breakpoint(medium) {
 		@include flex-align(center);
@@ -12,7 +22,17 @@
 	@include medium-align-center();
 }
 
-// Large+
+// Large ONLY
+@mixin large-only-align-center() {
+	@include breakpoint(large only) {
+		@include flex-align(center);
+	}
+}
+.large-only-align-center {
+	@include large-only-align-center();
+}
+
+// Large +
 @mixin large-align-center() {
 	@include breakpoint(large) {
 		@include flex-align(center);

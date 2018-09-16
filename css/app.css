@@ -3909,7 +3909,11 @@ footer a.colophon:hover { text-decoration: underline; }
 
 .absolute-center { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
 
+@media screen and (min-width: 40em) and (max-width: 63.9375em) { .medium-only-align-center { justify-content: center; } }
+
 @media print, screen and (min-width: 40em) { .medium-align-center { justify-content: center; } }
+
+@media screen and (min-width: 64em) and (max-width: 74.9375em) { .large-only-align-center { justify-content: center; } }
 
 @media print, screen and (min-width: 64em) { .large-align-center { justify-content: center; } }
 
