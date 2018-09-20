@@ -23,25 +23,11 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/_ignores\/head\/favicon-linking.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/head\/favicon-linking.html",
-		"oF": 0
-		},
-	"\/_ignores\/head\/head-references.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/head\/head-references.html",
-		"oF": 0
-		},
-	"\/_ignores\/htaccess-snippets.txt": {
+	"\/_ignores\/htaccess\/force-https.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_ignores\/htaccess-snippets.txt",
+		"oAP": "\/_ignores\/htaccess\/force-https.txt",
 		"oF": 0
 		},
 	"\/_ignores\/mailchimp-form-1.html": {
@@ -49,13 +35,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/mailchimp-form-1.html",
-		"oF": 0
-		},
-	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_ignores\/misc\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
 	"\/_ignores\/tacupra.sublime-project": {
