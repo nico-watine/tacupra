@@ -19,7 +19,7 @@ layout: index-video-splash
 	</div>
 	<div class="grid-x position-absolute w-100 h-100">
 		<div class="cell">
-			<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
+			<video playsinline autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
 				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
 				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
 			</video>	
