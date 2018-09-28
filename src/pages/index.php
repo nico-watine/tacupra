@@ -20,8 +20,8 @@ layout: index-video-splash
 	<div class="grid-x position-absolute w-100 h-100">
 		<div class="cell">
 			<video playsinline autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
-				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
-				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
+				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
+				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
 			</video>	
 		</div>
 	</div>
@@ -98,7 +98,7 @@ layout: index-video-splash
 					</div>
 				</div>
 				<div class="absolute imgWrap medium-text-right">
-					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
+					<img src="{{ cdn }}/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>
 		</div>
@@ -109,7 +109,7 @@ layout: index-video-splash
 						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
 					</div>
 					<div>
-						<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+						<img src="{{ cdn }}/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
 					</div>
 				</div>
 				<div class="absolute overflowMask">
