@@ -22,7 +22,7 @@ layout: index-video-splash
 			<video playsinline autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
 				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
 				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
-			</video>	
+			</video>
 		</div>
 	</div>
 </div>
@@ -76,7 +76,7 @@ layout: index-video-splash
 			<div id="mc_embed_signup">
 			<form action="//tacupra.us16.list-manage.com/subscribe/post?u=903b555d6a54b73bf9559f92d&amp;id=39b1037e0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
-				
+
 				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
 			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 			    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_903b555d6a54b73bf9559f92d_39b1037e0e" tabindex="-1" value=""></div>
