@@ -9,7 +9,7 @@ body-id: index
 body-class:
 layout: index-video-splash
 ---
-<div class="index-video-splash position-relative overflow-hidden">
+<div class="index-video-splash overflow-hidden grid-x align-middle">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-center">
 			<div class="cell medium-10 large-8 logo-wrapper">
@@ -17,15 +17,14 @@ layout: index-video-splash
 			</div>
 		</div>
 	</div>
-	<!-- <div class="row">
-		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
-			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
+	<div class="grid-x" style="position: absolute; top: 0; width: 100%;">
+		<div class="cell">
+			<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
+				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
+				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
+			</video>	
 		</div>
-	</div> -->
-	<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" class="position-absolute" id="backgroundVideo">
-		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
-		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
-	</video>
+	</div>
 </div>
 <section class="build-specs">
 	<div class="row" style="margin-bottom: 20px;">
