@@ -17,7 +17,7 @@ layout: index-video-splash
 			</div>
 		</div>
 	</div>
-	<div class="grid-x" style="position: absolute; top: 0; width: 100%; height: 100%;">
+	<div class="grid-x position-absolute video-wrapper w-100 h-100">
 		<div class="cell">
 			<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
 				<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
