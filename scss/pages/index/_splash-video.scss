@@ -1,4 +1,4 @@
-.bgvid-container {
+.index-video-splash {
 	position: relative;
 	top: 0;
 	left: 0;
@@ -6,13 +6,11 @@
 	min-height: 100%;
 	overflow: hidden;
 
-	.row {
-		.logo-wrapper {
-			position: absolute !important;
-			background: rgba(255,255,255,.40);
-			z-index: 20;
-			@include vertical-center;
-		}
+	.logo-wrapper {
+		position: absolute !important;
+		background: rgba(255,255,255,.40);
+		z-index: 20;
+		@include vertical-center;
 	}
 
 	div {
