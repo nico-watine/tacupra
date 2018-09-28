@@ -6775,6 +6775,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/video\/timelapse-day-1\/poster.jpg": {
+		"ft": 16384,
+		"iS": 58681,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/video\/timelapse-day-1\/poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/video\/timelapse-day-1\/tacupra-timelapse-day-1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/video\/timelapse-day-1\/tacupra-timelapse-day-1.mp4",
+		"oF": 0
+		},
+	"\/img\/video\/timelapse-day-1\/tacupra-timelapse-day-1.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/video\/timelapse-day-1\/tacupra-timelapse-day-1.webm",
+		"oF": 0
+		},
 	"\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,

@@ -9,16 +9,21 @@ body-id: index
 body-class:
 layout: index-video-splash
 ---
-<div class="bgvid-container">
-	<div class="row">
-		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
-			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
+<div class="index-video-splash overflow-hidden grid-x align-middle">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x align-center">
+			<div class="cell medium-10 large-8 logo-wrapper">
+				<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
+			</div>
 		</div>
 	</div>
-	<div class="gfyitem" data-id="OccasionalDecisiveKoi"></div>
-	<div class="ie-only">
-		<div class="gfycat-cover" id="gfycat-cover"></div>
-		<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/OccasionalDecisiveKoi' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+	<div class="grid-x position-absolute w-100 h-100">
+		<div class="cell">
+			<video playsinline autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
+				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
+				<source src="{{ cdn }}/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
+			</video>	
+		</div>
 	</div>
 </div>
 <section class="build-specs">
@@ -93,7 +98,7 @@ layout: index-video-splash
 					</div>
 				</div>
 				<div class="absolute imgWrap medium-text-right">
-					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
+					<img src="{{ cdn }}/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>
 		</div>
@@ -104,7 +109,7 @@ layout: index-video-splash
 						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
 					</div>
 					<div>
-						<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+						<img src="{{ cdn }}/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
 					</div>
 				</div>
 				<div class="absolute overflowMask">
