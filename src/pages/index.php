@@ -9,12 +9,16 @@ body-id: index
 body-class:
 layout: index-video-splash
 ---
-<div class="bgvid-container">
+<div class="index-video-splash">
 	<div class="row">
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
 			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
 		</div>
 	</div>
+	<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
+		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
+		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
+	</video>
 	<!-- <div class="gfyitem" data-id="OccasionalDecisiveKoi"></div> -->
 	<!-- <div class="ie-only">
 		<div class="gfycat-cover" id="gfycat-cover"></div>
