@@ -9,7 +9,7 @@ body-id: index
 body-class:
 layout: index-video-splash
 ---
-<div class="bgvid-container">
+<div class="bgvid-container index-video-splash">
 	<div class="row">
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end logo-wrapper">
 			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
