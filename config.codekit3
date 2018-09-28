@@ -16,6 +16,13 @@
 		"oAP": "\/.babelrc",
 		"oF": 0
 		},
+	"\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.editorconfig",
+		"oF": 0
+		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
