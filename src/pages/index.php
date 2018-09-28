@@ -15,6 +15,10 @@ layout: index-video-splash
 			<img src="{{ cdn }}/img/logo/white-alpha-bg.png" alt="Toyota Tacupra Swap Logo" title="Toyota Tacupra Swap Logo">
 		</div>
 	</div>
+	<video autoplay muted loop poster="/img/video/timelapse-day-1/poster.jpg" id="backgroundVideo">
+		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.webm" type="video/webm">
+		<source src="/img/video/timelapse-day-1/tacupra-timelapse-day-1.mp4" type="video/mp4">
+	</video>
 	<!-- <div class="gfyitem" data-id="OccasionalDecisiveKoi"></div> -->
 	<!-- <div class="ie-only">
 		<div class="gfycat-cover" id="gfycat-cover"></div>
