@@ -13,9 +13,6 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
-    - ".gfy-video"
-    - ".gfyitem"
-    - ".bgvid-container div .gfy-video"
     - ".instagramFeed .imageColumn .prose svg"
     - ".instagramFeed .imageColumn .prose svg path"
     - ".instagramFeed .textColumn svg"
