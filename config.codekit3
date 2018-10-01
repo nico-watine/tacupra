@@ -65,6 +65,13 @@
 		"oAP": "/_ignores/update-post-image-sizes.txt",
 		"oF": 0
 		},
+	"/_ignores/update-post-yaml.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_ignores/update-post-yaml.php",
+		"oF": 0
+		},
 	"/_ignores/youtube-upload-links.html": {
 		"cB": 0,
 		"ft": 8192,
