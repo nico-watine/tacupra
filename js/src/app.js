@@ -1,3 +1,6 @@
+// Prepends::
+	// masonry.js via bower_components into Codekit settings
+
 $(document).foundation();
 
 /*
