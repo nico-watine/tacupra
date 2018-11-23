@@ -7880,6 +7880,13 @@
 		"oAP": "/src/partials/googleTagManager-head.html",
 		"oF": 0
 		},
+	"/src/partials/scripts-tag.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/src/partials/scripts-tag.html",
+		"oF": 0
+		},
 	"/src/partials/updatePost-footer.html": {
 		"cB": 0,
 		"ft": 8192,
