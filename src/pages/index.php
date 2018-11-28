@@ -98,7 +98,7 @@ layout: index-video-splash
 					</div>
 				</div>
 				<div class="absolute imgWrap medium-text-right">
-					<img src="{{ cdn }}/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
+					<img src="/img/social-media/instagram/instagram-word.svg" alt="Instagram Logo" class="svg">
 				</div>
 			</div>
 		</div>
@@ -109,7 +109,7 @@ layout: index-video-splash
 						<a href="https://www.instagram.com/2jz_tacupra/" class="button">@2jz_tacupra</a>
 					</div>
 					<div>
-						<img src="{{ cdn }}/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
+						<img src="/img/social-media/instagram/instagram-icon.svg" alt="Instagram Icon" class="svg">
 					</div>
 				</div>
 				<div class="absolute overflowMask">
