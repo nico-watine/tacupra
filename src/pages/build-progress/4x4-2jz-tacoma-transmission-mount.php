@@ -42,7 +42,7 @@ upload-date: November 6, 2017
 	<div class="row">
 		<div class="large-8 large-centered columns">
 			<div class="measurementIntro-prose margin-centered">
-				<img id="pencil-saw" class="float-left margin-X" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/pencil-saw.svg" alt="">
+				<img id="pencil-saw" class="float-left margin-X" src="/img/update-post/4x4-2jz-tacoma-transmission-mount/svg/pencil-saw.svg" alt="">
 				<p class="xLarge"><strong>I first needed to measure the original length of the driveshaft to verify my total length after the cut.</strong></p>
 			</div>
 		</div>
