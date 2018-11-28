@@ -35,9 +35,7 @@ jQuery('img.svg').each(function(){
 
 });
 
-// Masonry init
-// vanilla JS
-var grid = document.querySelector('#masonryGrid');
-var msnry = new Masonry( grid, {
+// Masonry.js init using jQuery
+$('#masonryGrid').masonry({
 	itemSelector: '#masonryGrid .tile'
 });
