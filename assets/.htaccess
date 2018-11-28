@@ -28,10 +28,10 @@
 # -------------------------------------------------------------------------------------------------------
 
 # Use 403 for 'access denied' - Don't necessarily need 403 by default
-ErrorDocument 403 /403.html
+ErrorDocument 403 /
 
 # Use 404 for 'not found' - Is good to use
-ErrorDocument 404 /404.html
+ErrorDocument 404 /
 
 
 
