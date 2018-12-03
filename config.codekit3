@@ -3987,6 +3987,70 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/bower_components/imagesloaded/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imagesloaded/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imagesloaded/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imagesloaded/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imagesloaded/imagesloaded.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/bower_components/imagesloaded/imagesloaded.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/imagesloaded/imagesloaded.pkgd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/bower_components/imagesloaded/imagesloaded.pkgd.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/imagesloaded/imagesloaded.pkgd.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/bower_components/imagesloaded/imagesloaded.pkgd.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/bower_components/imagesloaded/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/imagesloaded/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/bower_components/jquery/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -7281,12 +7345,32 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/js/masonry-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/masonry-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/js/src/app.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 0,
 		"oAP": "/js/app-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/src/masonry.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/js/masonry-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
@@ -7891,11 +7975,17 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"/js/src/app.js": [
+	"/js/src/masonry.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/imagesloaded/imagesloaded.pkgd.min.js",
+			"position": 0,
+			"type": 0
+			},
 		{
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/masonry-layout/dist/masonry.pkgd.min.js",
-			"position": 0,
+			"position": 1,
 			"type": 0
 			}
 		]

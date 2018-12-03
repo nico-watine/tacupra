@@ -1,10 +1,3 @@
-// Prepends::
-	// masonry.js via bower_components into Codekit settings
-
-// Masonry.js init using jQuery
-$('#masonryGrid').masonry({
-	itemSelector: '#masonryGrid .tile'
-});
 
 $(document).foundation();
 
