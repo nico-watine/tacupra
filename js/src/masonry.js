@@ -2,8 +2,8 @@
 	// masonry.js
 	// imagesloaded.js
 
-// $('#masonryGrid').imagesLoaded( function() {
+$('#masonryGrid').imagesLoaded( function() {
 	$('#masonryGrid').masonry({
 		itemSelector: '#masonryGrid .tile'
 	});
-// });
+});

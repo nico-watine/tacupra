@@ -7368,7 +7368,7 @@
 	"/js/src/masonry.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
+		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/masonry-min.js",
 		"oF": 1,
