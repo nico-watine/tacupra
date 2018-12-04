@@ -74,6 +74,19 @@ function sass() {
 }
 
 
+// Combine Foundation JavaScript imports into one file (app.js)
+// In production, the file is minified (app-min.js)
+function javascript() {
+	return gulp.src(PATHS.javascript)
+		.pipe($.babel({ignore: ['what-input.js']}))
+		.pipe($.concat('app-min.js'))
+		.pipe($.if(PRODUCTION, $.uglify()
+			.on('error', e => { console.log(e); })
+		))
+		.pipe(gulp.dest(PATHS.dist + '/js'));
+}
+
+
 // Watch and copy *-min.js files srced from js/src to js
 // These files are fully compiled via Codekit and are not touched in the ZF6 build process
 function javascript_custom() {
@@ -87,19 +100,6 @@ function javascript_custom() {
 function javascript_vendor() {
 	return gulp.src('js/vendor/**') // all sub-files and sub-folders except src
 		.pipe(gulp.dest(PATHS.dist + '/js/vendor/'));
-}
-
-
-// Combine Foundation JavaScript imports into one file (app.js)
-// In production, the file is minified (app-min.js)
-function javascript() {
-	return gulp.src(PATHS.javascript)
-		.pipe($.babel({ignore: ['what-input.js']}))
-		.pipe($.concat('app-min.js'))
-		.pipe($.if(PRODUCTION, $.uglify()
-			.on('error', e => { console.log(e); })
-		))
-		.pipe(gulp.dest(PATHS.dist + '/js'));
 }
 
 
