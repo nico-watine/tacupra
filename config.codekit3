@@ -7866,6 +7866,13 @@
 		"oAP": "/src/layouts/index-video-splash.html",
 		"oF": 0
 		},
+	"/src/layouts/updatePost-gfycat.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/src/layouts/updatePost-gfycat.html",
+		"oF": 0
+		},
 	"/src/layouts/updatePost-masonry.html": {
 		"cB": 0,
 		"ft": 8192,
