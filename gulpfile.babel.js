@@ -24,7 +24,7 @@ function loadConfig() {
 
 // Build the "dist" folder by running all of the below tasks
 gulp.task('build',
-	gulp.series(clean, gulp.parallel(pages, sass, javascript, javascript_custom, javascript_vendor, fonts, images, copy)));
+	gulp.series(clean, gulp.parallel(pages, sass, javascript_custom, javascript, javascript_vendor, fonts, images, copy)));
 
 // Build the site, run the server, and watch for file changes
 gulp.task('default',
@@ -74,6 +74,14 @@ function sass() {
 }
 
 
+// Watch and copy *-min.js files srced from js/src to js
+// These files are fully compiled via Codekit and are not touched in the ZF6 build process
+function javascript_custom() {
+	return gulp.src('js/*-min.js')
+		.pipe(gulp.dest(PATHS.dist + '/js'));
+}
+
+
 // Combine Foundation JavaScript imports into one file (app.js)
 // In production, the file is minified (app-min.js)
 function javascript() {
@@ -86,12 +94,6 @@ function javascript() {
 		.pipe(gulp.dest(PATHS.dist + '/js'));
 }
 
-// Watch and copy *-min.js files srced from js/src to js
-// These files are fully compiled via Codekit and are not touched in the ZF6 build process
-function javascript_custom() {
-	return gulp.src('js/*-min.js')
-		.pipe(gulp.dest(PATHS.dist + '/js'));
-}
 
 // Watch and copy .js files located in js/vendor to js/vendor in dist
 // These js files are not touched by Codekit. For example, a jquery source file is in here
@@ -119,7 +121,7 @@ function watch() {
 	gulp.watch('src/pages/**', gulp.series(pages)); // <-watch for any type of additions
 	gulp.watch('src/{layouts,partials}/**/*.html', gulp.series(resetPages, pages));
 	gulp.watch('css/*.css', sass);
-	gulp.watch('js/**', gulp.series(javascript, javascript_custom, javascript_vendor));
+	gulp.watch('js/**', gulp.series(javascript_custom, javascript, javascript_vendor));
 	gulp.watch('img/**', images);
 	gulp.watch('fonts/**', fonts);
 }
