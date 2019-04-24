@@ -11,8 +11,10 @@ import fs       from 'fs';
 // Load all Gulp plugins into one variable
 const $ = plugins();
 
+
 // Check for --production flag
 const PRODUCTION = !!(yargs.argv.production);
+
 
 // Load settings from settings.yml
 const { COMPATIBILITY, UNCSS_OPTIONS, PATHS } = loadConfig();
@@ -22,13 +24,16 @@ function loadConfig() {
 	return yaml.load(ymlFile);
 }
 
+
 // Build the "dist" folder by running all of the below tasks
 gulp.task('build',
 	gulp.series(clean, gulp.parallel(pages, sass, javascript_custom, javascript_vendor, javascript, fonts, images, copy)));
 
+
 // Build the site, run the server, and watch for file changes
 gulp.task('default',
 	gulp.series('build', watch));
+
 
 // Delete the "dist" folder
 // This happens every time a build starts
@@ -36,11 +41,13 @@ function clean(done) {
 	rimraf(PATHS.dist, done);
 }
 
+
 // Copy files out of the assets folder
 function copy() {
 	return gulp.src(PATHS.assets)
 		.pipe(gulp.dest(PATHS.dist + '/'));
 }
+
 
 // Copy page templates into finished HTML files
 function pages() {
@@ -54,6 +61,7 @@ function pages() {
 	}))
 	.pipe(gulp.dest(PATHS.dist));
 }
+
 
 // Load updated HTML templates and partials into Panini
 function resetPages(done) {
@@ -108,6 +116,7 @@ function fonts() {
 	return gulp.src('fonts/**')
 		.pipe(gulp.dest(PATHS.dist + '/fonts'));
 }
+
 
 // Copy images to the "dist" folder
 function images() {
