@@ -54,7 +54,7 @@ upload-date: October 28, 2017
 			</ul>
 			<br>
 		</div>
-	</div>	
+	</div>
 </section>
 <div class="row expanded collapse step-1-2-3">
 	<div class="medium-4 columns">
@@ -95,4 +95,3 @@ upload-date: October 28, 2017
 		</div>
 	</div>
 </section>
-

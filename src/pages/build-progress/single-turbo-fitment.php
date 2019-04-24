@@ -3,11 +3,11 @@ url: /build-progress/single-turbo-fitment
 title: Single Turbo Fitment on 4x4 2JZ Tacoma
 description: I decided that the single turbo was my plan of action because the stock twins…
 og-title: Single Turbo Fitment on 4x4 2JZ Tacoma
-og-description: I decided that the single turbo was my plan of action because the stock twins… 
+og-description: I decided that the single turbo was my plan of action because the stock twins…
 og-image: /img/update-post/single-turbo-fitment/2jz-tacoma-single-turbo-fitment.png
-body-id: 
+body-id:
 body-class: updatePost updatePost-stock
-layout: updatePost
+layout: updatePost-gfycat
 hero-background-image: /img/update-post/single-turbo-fitment/hero.jpg
 post-title: Single Turbo Fitment on 4x4 2JZ Tacoma
 upload-date: Uploaded September 12, 2017
@@ -23,7 +23,7 @@ upload-date: Uploaded September 12, 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class="gfyitem updatePost-gfyEmbed" data-id="PaltryLividJoey"></div>
+			<div class="gfycat-embed"><iframe src="https://gfycat.com/ifr/PaltryLividJoey?hd=1" allowfullscreen></iframe></div>
 			<p>The stock twins will not fit for this application without cutting into the firewall and relocating critical A/C components. The rear turbo is right up against the firewall. Then the hard piping extends even further for the inlet. The engine could not move further forward without moving the radiator/core support/front bumper forward.</p>
 			<p>This is when I decided that the single turbo was my plan of action.</p>
 		</div>
@@ -66,7 +66,7 @@ upload-date: Uploaded September 12, 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class="gfyitem updatePost-gfyEmbed" data-id="ShadySlimyHarpyeagle"></div>
+			<div class="gfycat-embed"><iframe src="https://gfycat.com/ifr/ShadySlimyHarpyeagle?hd=1" allowfullscreen></iframe></div>
 			<p>Mockup of BorgWarner EFR 7064 and SPA Turbo Manifold placement.</p>
 		</div>
 	</div>
@@ -100,7 +100,7 @@ upload-date: Uploaded September 12, 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class="gfyitem updatePost-gfyEmbed" data-id="HatefulSeveralJay"></div>
+			<div class="gfycat-embed"><iframe src="https://gfycat.com/ifr/HatefulSeveralJay?hd=1" allowfullscreen></iframe></div>
 			<p>Testing a placement mockup of the 3D printed Quick Spool Valve.</p>
 		</div>
 	</div>
@@ -127,7 +127,7 @@ upload-date: Uploaded September 12, 2017
 <div class="container">
 	<div class="row">
 		<div class="content">
-			<div class="gfyitem updatePost-gfyEmbed" data-id="ImaginativeIlliterateFurseal"></div>
+			<div class="gfycat-embed"><iframe src="https://gfycat.com/ifr/ImaginativeIlliterateFurseal?hd=1" allowfullscreen></iframe></div>
 			<p>CX Racing Intercooler</p>
 		</div>
 	</div>

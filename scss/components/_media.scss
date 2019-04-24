@@ -7,3 +7,12 @@
 	border: rem-calc(3) solid #fff;
 	box-shadow: $z-1;
 }
+
+.gfycat-embed {
+	@extend .responsive-embed;
+	padding-bottom: calc(56.25% + 44px);
+
+	iframe {
+		border: 0 !important;
+	}
+}
