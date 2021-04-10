@@ -10278,7 +10278,7 @@
       }
     },
     "esLintSourceType" : 0,
-    "externalServerAddress" : "http:\/\/tacupra.local",
+    "externalServerAddress" : "https:\/\/tacupra.local",
     "gitIgnoreBuildFolder" : 1,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
