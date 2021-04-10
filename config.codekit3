@@ -8853,20 +8853,7 @@
 
   ],
   "manualImportLinks" : {
-    "\/js\/src\/masonry.js" : [
-      {
-        "followForSyntaxChecking" : 0,
-        "linkedFileAbbreviatedPath" : "\/bower_components\/imagesloaded\/imagesloaded.pkgd.min.js",
-        "position" : 0,
-        "type" : 0
-      },
-      {
-        "followForSyntaxChecking" : 0,
-        "linkedFileAbbreviatedPath" : "\/bower_components\/masonry-layout\/dist\/masonry.pkgd.min.js",
-        "position" : 1,
-        "type" : 0
-      }
-    ]
+
   },
   "projectAttributes" : {
     "creationDate" : 506653277,
