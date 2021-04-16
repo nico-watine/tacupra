@@ -63,12 +63,12 @@
 // #2 Pages
 @import 'pages/_pages.scss';
 
+// #3 Blocks
+@import 'blocks/_blocks.scss';
 
 
 
-// COMMON PAGE BLOCKS (Legacy SCSS structure)
-@import 'blocks/_footer.scss';
-
+// Legacy fringe markup, specific to index only:
 html,
 body {
 	height: 100%; // for index gfy-cat background video
