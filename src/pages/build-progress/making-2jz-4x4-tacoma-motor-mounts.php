@@ -8,7 +8,7 @@ og-image:
 body-id: id-making-2jz-4x4-tacoma-motor-mounts
 body-class: updatePost updatePost-unique
 layout: updatePost-masonry
-hero-background-image:
+hero-background-image: /img/update-post/making-2jz-4x4-tacoma-motor-mounts/motor-mounts-hero.jpg
 post-title: Making the 2JZ 4x4 Tacoma Motor Mounts
 upload-date: April 14, 2021
 ---
