@@ -9,3 +9,12 @@
 .absolute-center {
 	@include absolute-center;
 }
+
+// Flexbox-based vertical and horizontal center
+// Requires parent div.flex
+.completeCenter {
+	display: flex;
+	flex-direction: column;
+	justify-content: center; // vertical placement
+	align-items: center; // horizontal placement
+}

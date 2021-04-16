@@ -10312,6 +10312,24 @@ p.xLarge {
   display: inline-flex !important;
 }
 
+.displayInlineBlock,
+.inline-block {
+  display: inline-block;
+}
+
+.displayBlock,
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.flex {
+  display: flex;
+}
+
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
   .medium-only-align-center {
     justify-content: center;
@@ -10717,6 +10735,13 @@ p.xLarge {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.completeCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .overflow-auto {
@@ -11871,31 +11896,6 @@ footer a.colophon:hover {
   height: 100%;
   width: 100%;
   background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9f031b 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat;
-}
-
-.displayInlineBlock,
-.inline-block {
-  display: inline-block;
-}
-
-.displayBlock,
-.block {
-  display: block;
-}
-
-.inline {
-  display: inline;
-}
-
-.flex {
-  display: flex;
-}
-
-.completeCenter {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .relative {
