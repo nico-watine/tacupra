@@ -6860,12 +6860,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/dist" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/dist",
-      "oF" : 0
-    },
     "\/gulpfile.babel.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -8766,6 +8760,14 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/src\/pages\/build-progress\/index.php",
+      "oF" : 0
+    },
+    "\/src\/pages\/build-progress\/making-2jz-4x4-tacoma-motor-mounts.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/src\/pages\/build-progress\/making-2jz-4x4-tacoma-motor-mounts.php",
       "oF" : 0
     },
     "\/src\/pages\/build-progress\/single-turbo-fitment.php" : {
