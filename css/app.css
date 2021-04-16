@@ -10104,14 +10104,6 @@ ol.list-upper-roman {
   font-weight: 900 !important;
 }
 
-a:not(.button) {
-  text-decoration: underline;
-}
-
-a:not(.button):hover {
-  text-decoration: none;
-}
-
 .text-black {
   color: #000 !important;
 }
