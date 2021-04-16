@@ -11,3 +11,14 @@
 		z-index: 1020;
 	}
 }
+
+
+// Legacy classes----
+// Eventually locate within pages and replace with vanilla utility .position-* classes
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
