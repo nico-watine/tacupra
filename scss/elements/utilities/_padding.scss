@@ -1,3 +1,16 @@
+// Legacy padding classes----
+.padding-X {
+	padding: 0 rem-calc(15) !important;
+}
+
+.padding-Y {
+	padding: rem-calc(15) 0 !important;
+}
+
+.padding-XY {
+	padding: rem-calc(15) !important;
+}
+
 // ---------------------------------
 // |            Padding            |
 // ---------------------------------

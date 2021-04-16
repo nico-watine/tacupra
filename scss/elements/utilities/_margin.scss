@@ -1,3 +1,20 @@
+// Legacy margin classes---
+.margin-X {
+	margin: 0 rem-calc(15) !important;
+}
+
+.margin-Y {
+	margin: rem-calc(15) 0 !important;
+}
+
+.margin-XY {
+	margin: rem-calc(15) !important;
+}
+
+.margin-centered {
+	margin: 0 auto;
+}
+
 // ---------------------------------
 // |            Margin            |
 // ---------------------------------
