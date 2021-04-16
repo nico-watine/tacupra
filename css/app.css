@@ -10448,6 +10448,18 @@ p.xLarge {
   text-shadow: none;
 }
 
+.ie-only {
+  display: none;
+  visibility: hidden;
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .ie-only {
+    display: block;
+    visibility: visible;
+  }
+}
+
 .margin-X {
   margin: 0 0.9375rem !important;
 }
@@ -11932,22 +11944,6 @@ footer a.colophon:hover {
   height: 100%;
   width: 100%;
   background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9f031b 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat;
-}
-
-.relative {
-  position: relative;
-}
-
-.ie-only {
-  display: none;
-  visibility: hidden;
-}
-
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-  .ie-only {
-    display: block;
-    visibility: visible;
-  }
 }
 
 .updatePost-gfyEmbed {

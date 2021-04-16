@@ -8320,20 +8320,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_internetExplorer.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/css\/_internetExplorer.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/components\/_media.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -8595,6 +8581,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/elements\/css\/_highlight-effect.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_internet-explorer.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_internet-explorer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
