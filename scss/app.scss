@@ -60,13 +60,11 @@
 // Elements
 @import 'elements/_elements.scss';
 
-// #2 COMMON PAGE BLOCKS
+// #2 Pages
+@import 'pages/_pages.scss';
+
+// COMMON PAGE BLOCKS (Legacy SCSS structure)
 @import 'blocks/_footer.scss';
-
-// #3 SPECIFIC PAGE STYLES
-@import 'pages/index/_index.scss';
-@import 'pages/updatePost/_updatePost.scss';
-
 
 html,
 body {

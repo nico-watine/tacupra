@@ -11158,44 +11158,6 @@ p.xLarge {
   min-width: 25%;
 }
 
-footer {
-  background: #282b2f url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat;
-}
-
-@media print, screen and (min-width: 40em) {
-  footer {
-    background-position: center top;
-  }
-}
-
-@media print, screen and (min-width: 64em) {
-  footer {
-    background-size: cover;
-  }
-}
-
-footer h5 a {
-  color: #f5f5f5;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-}
-
-footer a.colophon {
-  color: #f1f1f1;
-  letter-spacing: 2px;
-  font-size: 12px;
-  text-transform: uppercase;
-  line-height: 36px;
-}
-
-footer a.colophon span {
-  text-decoration: underline;
-}
-
-footer a.colophon:hover {
-  text-decoration: underline;
-}
-
 .index-video-splash {
   position: relative;
   min-height: 100%;
@@ -11990,6 +11952,44 @@ footer a.colophon:hover {
   height: 100%;
   width: 100%;
   background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9f031b 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat;
+}
+
+footer {
+  background: #282b2f url("/img/update-post/assets/footer/tacupra.svg") left top/auto 100% no-repeat;
+}
+
+@media print, screen and (min-width: 40em) {
+  footer {
+    background-position: center top;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  footer {
+    background-size: cover;
+  }
+}
+
+footer h5 a {
+  color: #f5f5f5;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+footer a.colophon {
+  color: #f1f1f1;
+  letter-spacing: 2px;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 36px;
+}
+
+footer a.colophon span {
+  text-decoration: underline;
+}
+
+footer a.colophon:hover {
+  text-decoration: underline;
 }
 
 html,
