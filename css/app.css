@@ -10118,6 +10118,33 @@ a:not(.button):hover {
   text-decoration: none !important;
 }
 
+p.large,
+p.xLarge {
+  line-height: 1.4;
+  margin: 0 0 0.5rem;
+}
+
+p.large {
+  font-size: 1.0625rem;
+}
+
+p.xLarge {
+  font-size: 1.125rem;
+}
+
+@media print, screen and (min-width: 40em) {
+  p.large {
+    font-size: 1.25rem;
+  }
+  p.xLarge {
+    font-size: 1.5625rem;
+  }
+}
+
+.p {
+  font-size: 1rem;
+}
+
 .border-radius-0 {
   border-radius: 0 !important;
 }
@@ -11010,33 +11037,6 @@ a:not(.button):hover {
 
 .min-width-25 {
   min-width: 25%;
-}
-
-p.large,
-p.xLarge {
-  line-height: 1.4;
-  margin: 0 0 0.5rem;
-}
-
-p.large {
-  font-size: 1.0625rem;
-}
-
-p.xLarge {
-  font-size: 1.125rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  p.large {
-    font-size: 1.25rem;
-  }
-  p.xLarge {
-    font-size: 1.5625rem;
-  }
-}
-
-.p {
-  font-size: 1rem;
 }
 
 footer {
@@ -12632,31 +12632,4 @@ footer a.colophon:hover {
 html,
 body {
   height: 100%;
-}
-
-p.large,
-p.xLarge {
-  line-height: 1.4;
-  margin: 0 0 0.5rem;
-}
-
-p.large {
-  font-size: 1.0625rem;
-}
-
-p.xLarge {
-  font-size: 1.125rem;
-}
-
-@media print, screen and (min-width: 40em) {
-  p.large {
-    font-size: 1.25rem;
-  }
-  p.xLarge {
-    font-size: 1.5625rem;
-  }
-}
-
-.p {
-  font-size: 1rem;
 }
