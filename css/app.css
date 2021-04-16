@@ -10040,6 +10040,20 @@ ol.list-upper-roman {
   animation-delay: 700ms !important;
 }
 
+.updatePost-gfyEmbed {
+  margin: 1rem 0;
+  border: 0.1875rem solid #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+}
+
+.gfycat-embed {
+  padding-bottom: calc(56.25% + 44px);
+}
+
+.gfycat-embed iframe {
+  border: 0 !important;
+}
+
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
 }
@@ -11944,20 +11958,6 @@ footer a.colophon:hover {
   height: 100%;
   width: 100%;
   background: linear-gradient(-180deg, rgba(245, 81, 95, 0) 0%, rgba(187, 29, 49, 0.5) 62%, #9f031b 100%), url("/img/update-post/assets/header/tacupra.svg") center bottom/contain no-repeat;
-}
-
-.updatePost-gfyEmbed {
-  margin: 1rem 0;
-  border: 0.1875rem solid #fff;
-  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-}
-
-.gfycat-embed {
-  padding-bottom: calc(56.25% + 44px);
-}
-
-.gfycat-embed iframe {
-  border: 0 !important;
 }
 
 .h-25 {
