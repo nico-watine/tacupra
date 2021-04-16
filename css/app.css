@@ -11150,6 +11150,11 @@ p.xLarge {
   min-width: 25%;
 }
 
+html.index,
+body.index {
+  height: 100%;
+}
+
 .index-video-splash {
   position: relative;
   min-height: 100%;
@@ -11982,9 +11987,4 @@ footer a.colophon span {
 
 footer a.colophon:hover {
   text-decoration: underline;
-}
-
-html,
-body {
-  height: 100%;
 }

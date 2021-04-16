@@ -1,3 +1,9 @@
+// Legacy fringe markup, specific to index only:
+html.index,
+body.index {
+	height: 100%; // for index gfy-cat background video
+}
+
 .index-video-splash {
 	position: relative;
 	min-height: 100%;
