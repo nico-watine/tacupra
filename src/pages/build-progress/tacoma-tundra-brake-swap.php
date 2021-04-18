@@ -16,7 +16,7 @@ upload-date: October 28, 2017
 	<div class="medium-6 columns">
 		<div class="imageCard">
 			<img src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/factory-tacoma-brakes.jpg" alt="Factory Tacoma Brakes" title="Factory Tacoma Brakes">
-			<h5 class="text-center inline-block margin-0"><strong>Factory Tacoma brakes</strong></h5>
+			<h5 class="text-center display-inline-block margin-0"><strong>Factory Tacoma brakes</strong></h5>
 		</div>
 		<br>
 	</div>
@@ -60,26 +60,26 @@ upload-date: October 28, 2017
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>1</strong></span>
-			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
+			<img class="display-block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/cut-to-fit-tundra-caliper.jpg" alt="Cut spash guard" title="Cut spash guard">
 		</div>
 		<br>
-		<h5 class="text-center inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
+		<h5 class="text-center display-inline-block">Cut splash guard to fit larger Tundra caliper.</h5>
 	</div>
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>2</strong></span>
-			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
+			<img class="display-block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/trimmed-banjo-bolts.jpg" alt="Trimmed banjo bolts" translate="Trimmed banjo bolts">
 		</div>
 		<br>
-		<h5 class="text-center inline-block">Trim banjo bolts (only two threads is plenty)</h5>
+		<h5 class="text-center display-inline-block">Trim banjo bolts (only two threads is plenty)</h5>
 	</div>
 	<div class="medium-4 columns">
 		<div class="positionWrapper">
 			<span class="padding-XY"><strong>3</strong></span>
-			<img class="block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
+			<img class="display-block" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/installed-rotors-calipers.jpg" alt="Installed rotors &amp; calipers" title="Installed rotors &amp; calipers">
 		</div>
 		<br>
-		<h5 class="text-center inline-block">Install rotors and calipers</h5>
+		<h5 class="text-center display-inline-block">Install rotors and calipers</h5>
 	</div>
 </div>
 <section class="step-4">
