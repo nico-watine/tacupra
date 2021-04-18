@@ -11851,13 +11851,6 @@ p.xLarge {
   display: inline-flex !important;
 }
 
-.flex {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-}
-
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
   .medium-only-align-center {
     -webkit-box-pack: center;
