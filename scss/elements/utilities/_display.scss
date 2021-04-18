@@ -16,7 +16,7 @@
 
 // Legacy Classes -----
 // Eventually locate within pages and replace with vanilla utility .display-* classes
-.displayInlineBlock,
+// .displayInlineBlock,
 .inline-block {
 	display: inline-block;
 }
@@ -26,9 +26,9 @@
 	display: block;
 }
 
-.inline {
-	display: inline;
-}
+// .inline {
+// 	display: inline;
+// }
 
 .flex {
 	display: flex;

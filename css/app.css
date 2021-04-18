@@ -11851,7 +11851,6 @@ p.xLarge {
   display: inline-flex !important;
 }
 
-.displayInlineBlock,
 .inline-block {
   display: inline-block;
 }
@@ -11859,10 +11858,6 @@ p.xLarge {
 .displayBlock,
 .block {
   display: block;
-}
-
-.inline {
-  display: inline;
 }
 
 .flex {
