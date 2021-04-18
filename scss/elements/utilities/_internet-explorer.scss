@@ -1,9 +1,0 @@
-.ie-only {
-	display: none;
-	visibility: hidden;
-
-	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-		display: block;
-		visibility: visible;
-	}
-}

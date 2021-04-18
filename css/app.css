@@ -12042,18 +12042,6 @@ p.xLarge {
   text-shadow: none;
 }
 
-.ie-only {
-  display: none;
-  visibility: hidden;
-}
-
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-  .ie-only {
-    display: block;
-    visibility: visible;
-  }
-}
-
 .margin-X {
   margin: 0 0.9375rem !important;
 }
