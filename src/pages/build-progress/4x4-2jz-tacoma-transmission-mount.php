@@ -21,7 +21,7 @@ upload-date: November 6, 2017
 				<p class="large"><strong>Since the Tacupra is receiving the 2JZ inline-6 engine from the Toyota Supra, I had to shorten the driveshaft.</strong></p>
 				<p>The 2JZ is longer than the Tacoma's original V6, so the make room, I cut the original driveshaft and pushed the transmission back. This meant I had to fabricate a whole new transmission crossmember.</p>
 				<br>
-				<span class="red-bar displayBlock"></span>
+				<span class="red-bar display-block"></span>
 				<br>
 				<br>
 			</div>
@@ -75,17 +75,17 @@ upload-date: November 6, 2017
 	<div class="grid-container grid-x grid-padding-x align-center">
 			<div class="large-4 cell mb-40">
 			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
-				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="displayBlock"><strong>27.75”</strong></span></p>
+				<p class="margin-0">Initial measurement taken from middle of flange to front of carrier bearing bracket <span class="display-block"><strong>27.75”</strong></span></p>
 			</div>
 		</div>
 		<div class="large-3 cell mb-40">
 			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
-				<p class="margin-0">Front half of the shaft cut by <span class="displayBlock"><strong>2.75”</strong></span></p>
+				<p class="margin-0">Front half of the shaft cut by <span class="display-block"><strong>2.75”</strong></span></p>
 			</div>
 		</div>
 		<div class="large-3 cell mb-40">
 			<div class="measurementCard margin-centered padding-XY" style="height: 100%;">
-				<p class="margin-0">Length after modifying transmission mount <span class="displayBlock"><strong>25”</strong></span></p>
+				<p class="margin-0">Length after modifying transmission mount <span class="display-block"><strong>25”</strong></span></p>
 			</div>
 		</div>
 	</div>
