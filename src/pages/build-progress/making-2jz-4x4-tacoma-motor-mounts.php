@@ -33,8 +33,6 @@ upload-date: April 14, 2021
 	<br>
 </section>
 
-<br>
-
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
