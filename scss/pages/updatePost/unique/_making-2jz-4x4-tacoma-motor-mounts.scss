@@ -7,6 +7,21 @@
 			.img-wrap {
 				width: 130px;
 				position: relative;
+
+				img {
+					width: 50px;
+					position: absolute;
+				}
+
+				img#fab-pen-1 {
+					top: -170px;
+					right: 0;
+				}
+
+				img#fab-pen-2 {
+					top: 100px;
+					left: 0;
+				}
 			}
 		}
 	}
