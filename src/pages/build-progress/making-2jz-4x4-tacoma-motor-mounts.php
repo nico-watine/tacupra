@@ -43,7 +43,7 @@ upload-date: April 14, 2021
 					<img style="width: 50px; position: absolute; top: -170px; right: 0;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
 					<img style="width: 50px; position: absolute; top: 100px; left: 0;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
 				</div>
-				<div class="prose-wrap display-none" style="padding-top: 100px; max-width: 350px;">
+				<div class="prose-wrap" style="padding-top: 100px; margin-left: 160px; width: 350px; margin-right: 40px;">
 					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
 					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
 						<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
