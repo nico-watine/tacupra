@@ -35,11 +35,18 @@ upload-date: April 14, 2021
 
 <section class="fab-pen-section grid-x align-middle" style="background: #fff;">
 	<div class="cell medium-6">
-		<div class="prose-wrap float-right mr-16 ml-40" style="max-width: 350px;">
-			<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
-			<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
-				<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
-				<span style="font-size: 14px; width: 160px;" class="display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
+		<div class="grid-x grid-padding-x align-right align-middle">
+			<div class="cell shrink">
+				<img style="width: 50px;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
+			</div>
+			<div class="cell shrink">
+				<div class="prose-wrap" style="max-width: 350px;">
+					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
+					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
+						<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
+						<span style="font-size: 14px; width: 160px;" class="display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
