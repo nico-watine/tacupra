@@ -38,8 +38,8 @@ upload-date: April 14, 2021
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<div class="fab-pen-prose float-right" style="max-width: 530px; padding-right: 16px;">
-				<div class="img-wrap" style="width: 130px; position: relative;">
+			<div class="fab-pen-prose float-right">
+				<div class="img-wrap">
 					<img style="width: 50px; position: absolute; top: -170px; right: 0;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
 					<img style="width: 50px; position: absolute; top: 100px; left: 0;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
 				</div>
