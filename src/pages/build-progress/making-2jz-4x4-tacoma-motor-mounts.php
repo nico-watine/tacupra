@@ -46,8 +46,8 @@ upload-date: April 14, 2021
 				<div class="prose-wrap" style="padding-top: 100px; margin-left: 160px; width: 350px; margin-right: 40px;">
 					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
 					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
-						<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
-						<span style="font-size: 14px; width: 160px;" class="display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
+						<img style="vertical-align: top; width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
+						<p style="font-size: 14px; width: 160px; padding-top: 6px;" class="m-0 display-inline-block">SHARPIE MED WHT OB PAINT MARKER</p>
 					</div>
 				</div>
 			</div>
