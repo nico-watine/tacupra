@@ -36,9 +36,13 @@ upload-date: April 14, 2021
 <section class="fab-pen-section" style="background: #fff;">
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<div class="fab-pen-prose float-right" style="max-width: 530px;">
+			<div class="fab-pen-prose float-right" style="max-width: 530px; padding-right: 16px;">
 				<div class="prose-wrap" style="padding-top: 100px; max-width: 350px;">
 					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
+					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
+						<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
+						<span style="font-size: 14px; width: 160px;" class="display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
+					</div>
 				</div>
 			</div>
 		</div>
