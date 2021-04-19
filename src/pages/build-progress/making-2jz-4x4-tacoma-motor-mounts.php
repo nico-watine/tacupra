@@ -35,6 +35,30 @@ upload-date: April 14, 2021
 
 <br>
 
+<section class="fab-pen-section" style="background: #fff;">
+	<div class="row expanded collapse overflow-hidden" style="height: 400px;">
+		<div class="medium-6 columns">
+			<div class="fab-pen-prose float-right" style="max-width: 530px; padding-right: 16px;">
+				<div class="img-wrap float-left">
+					<img style="width: 50px;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="">
+				</div>
+				<div class="prose-wrap" style="padding-top: 100px; max-width: 350px;">
+					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
+					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
+						<img style="width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt="">
+						<span style="font-size: 14px; width: 160px;" class="display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="fab-pen-media medium-6 columns">
+			<img style="object-fit: cover; min-height: 400px;" src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png" alt="">
+		</div>
+	</div>
+</section>
+
+<br>
+
 <section class="fab-pen-section grid-x align-middle align-right" style="background: #fff;">
 	<div class="cell shrink px-32">
 		<div class="prose-wrap" style="max-width: 350px;">
