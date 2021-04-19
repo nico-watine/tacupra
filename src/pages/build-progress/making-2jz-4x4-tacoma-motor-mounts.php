@@ -43,11 +43,11 @@ upload-date: April 14, 2021
 					<img class="fab-pen" id="fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 					<img class="fab-pen" id="fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 				</div>
-				<div class="prose-wrap" style="padding-top: 100px; margin-left: 160px; width: 350px; margin-right: 40px;">
+				<div class="prose-wrap">
 					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
-					<div class="amazon-link" style="background: #F1F1F1; border-radius: 4px;">
-						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img style="vertical-align: top; width:180px;" src="/img/assets/amazon/amazon-badge.svg" alt=""></a>
-						<p style="font-size: 14px; width: 160px; padding-top: 6px;" class="m-0 display-inline-block">SHARPIE MED WHT OB PAINT MARKER</p>
+					<div class="amazon-link">
+						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt=""></a>
+						<span class="m-0 display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
 					</div>
 				</div>
 			</div>

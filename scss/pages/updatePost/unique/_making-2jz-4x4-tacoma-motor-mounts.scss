@@ -23,6 +23,29 @@
 					left: 0;
 				}
 			}
+
+			.prose-wrap {
+				padding-top: 100px;
+				margin-left: 160px;
+				width: 350px;
+				margin-right: 40px;
+
+				.amazon-link {
+					background: #f1f1f1;
+					border-radius: 4px;
+
+					img {
+						vertical-align: top;
+						width: 180px;
+					}
+
+					span {
+						font-size: 14px;
+						width: 160px;
+						padding-top: 6px;
+					}
+				}
+			}
 		}
 	}
 }
