@@ -47,5 +47,13 @@
 				}
 			}
 		}
+
+		.fab-pen-media {
+			video {
+				object-fit: cover;
+				min-height: 400px;
+				width: 100%;
+			}
+		}
 	}
 }

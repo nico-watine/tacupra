@@ -53,7 +53,7 @@ upload-date: April 14, 2021
 			</div>
 		</div>
 		<div class="fab-pen-media medium-6 columns">
-			<video style="object-fit: cover; min-height: 400px; width: 100%;" playsinline autoplay muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
+			<video playsinline autoplay muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
 				<source src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video.mp4" type="video/mp4">
 				<!-- <source src="video.webm" type="video/webm"> -->
 				<!-- <source src="video.ogv" type="video/ogg"> -->
