@@ -46,7 +46,7 @@ upload-date: April 14, 2021
 				<div class="prose-wrap">
 					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
 					<div class="amazon-link">
-						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt=""></a>
+						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
 						<span class="m-0 display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
 					</div>
 				</div>
