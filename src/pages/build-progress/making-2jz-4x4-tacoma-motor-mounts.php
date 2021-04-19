@@ -32,3 +32,18 @@ upload-date: April 14, 2021
 	</div>
 	<br>
 </section>
+
+<section class="fab-pen-section" style="background: #fff;">
+	<div class="row expanded collapse">
+		<div class="medium-6 columns">
+			<div class="fab-pen-prose float-right" style="max-width: 530px;">
+				<div class="prose-wrap" style="padding-top: 100px; max-width: 350px;">
+					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
+				</div>
+			</div>
+		</div>
+		<div class="fab-pen-media medium-6 columns">
+			<img src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png" alt="">
+		</div>
+	</div>
+</section>
