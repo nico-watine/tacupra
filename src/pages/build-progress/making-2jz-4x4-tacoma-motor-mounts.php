@@ -35,8 +35,8 @@ upload-date: April 14, 2021
 
 <br>
 
-<section class="fab-pen-section" style="background: #fff;">
-	<div class="row expanded collapse overflow-hidden" style="height: 400px;">
+<section class="fab-pen-section overflow-hidden">
+	<div class="row expanded collapse">
 		<div class="medium-6 columns">
 			<div class="fab-pen-prose float-right" style="max-width: 530px; padding-right: 16px;">
 				<div class="img-wrap" style="width: 130px; position: relative;">
