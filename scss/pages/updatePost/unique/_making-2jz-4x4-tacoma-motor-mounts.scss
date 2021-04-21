@@ -1,58 +1,61 @@
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.fab-pen-section {
 		background: #fff;
-		height: 400px;
 
-		.fab-pen-prose {
-			.img-wrap {
-				width: 130px;
-				position: relative;
+		@include breakpoint(large) {
+			height: 400px;
 
-				img {
-					width: 50px;
-					position: absolute;
-				}
-
-				img#fab-pen-1 {
-					top: -170px;
-					right: 0;
-				}
-
-				img#fab-pen-2 {
-					top: 100px;
-					left: 0;
-				}
-			}
-
-			.prose-wrap {
-				padding-top: 100px;
-				margin-left: 160px;
-				width: 350px;
-				margin-right: 40px;
-
-				.amazon-link {
-					background: #f1f1f1;
-					border-radius: 4px;
+			.fab-pen-prose {
+				.img-wrap {
+					width: 130px;
+					position: relative;
 
 					img {
-						vertical-align: top;
-						width: 180px;
+						width: 50px;
+						position: absolute;
 					}
 
-					span {
-						font-size: 14px;
-						width: 160px;
-						padding-top: 6px;
+					img#fab-pen-1 {
+						top: -170px;
+						right: 0;
+					}
+
+					img#fab-pen-2 {
+						top: 100px;
+						left: 0;
+					}
+				}
+
+				.prose-wrap {
+					padding-top: 100px;
+					margin-left: 160px;
+					width: 350px;
+					margin-right: 40px;
+
+					.amazon-link {
+						background: #f1f1f1;
+						border-radius: 4px;
+
+						img {
+							vertical-align: top;
+							width: 180px;
+						}
+
+						span {
+							font-size: 14px;
+							width: 160px;
+							padding-top: 6px;
+						}
 					}
 				}
 			}
-		}
 
-		.fab-pen-media {
-			video {
-				object-fit: cover;
-				min-height: 400px;
-				width: 100%;
+			.fab-pen-media {
+				video {
+					object-fit: cover;
+					min-height: 400px;
+					width: 100%;
+				}
 			}
 		}
 	}
