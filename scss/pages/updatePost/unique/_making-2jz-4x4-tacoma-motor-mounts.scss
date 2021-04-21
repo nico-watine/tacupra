@@ -2,6 +2,12 @@
 	.fab-pen-section {
 		background: #fff;
 
+		.fab-pen-media {
+			video {
+				width: 100%;
+			}
+		}
+
 		@include breakpoint(large) {
 			height: 400px;
 
