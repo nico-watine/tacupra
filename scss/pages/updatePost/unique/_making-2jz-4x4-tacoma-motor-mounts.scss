@@ -2,6 +2,16 @@
 	.fab-pen-section {
 		background: #fff;
 
+		.fab-pen-prose {
+			.prose-wrap {
+				margin-top: rem-calc(40);
+				max-width: rem-calc(250);
+				width: 100%;
+
+				@extend .float-center;
+			}
+		}
+
 		.fab-pen-media {
 			video {
 				width: 100%;
@@ -10,6 +20,10 @@
 
 		@include breakpoint(large) {
 			height: 400px;
+
+			.large-float-right {
+				float: right;
+			}
 
 			.fab-pen-prose {
 				.img-wrap {
