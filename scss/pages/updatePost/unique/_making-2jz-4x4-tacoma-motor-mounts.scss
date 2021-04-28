@@ -12,6 +12,7 @@
 
 			.fab-pen-img-wrap {
 				height: 100px;
+				margin-bottom: rem-calc(40);
 
 				img.fab-pen {
 					transform: rotate(-90deg);
@@ -37,8 +38,36 @@
 
 		@include breakpoint(410) {
 			.fab-pen-prose {
+				overflow: hidden;
+
 				.prose-wrap {
 					width: rem-calc(380);
+
+					@extend .float-center;
+
+
+					h2,
+					p {
+						padding-left: rem-calc(120);
+					}
+				}
+
+				.fab-pen-img-wrap {
+					height: auto;
+					margin-bottom: 0;
+
+					img.fab-pen {
+						transform: none;
+					}
+
+					img.fab-pen-1 {
+						right: 290px;
+						top: 10px;
+					}
+
+					img.fab-pen-2 {
+						top: -210px;
+					}
 				}
 			}
 		}

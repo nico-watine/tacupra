@@ -43,7 +43,7 @@ upload-date: April 14, 2021
 				</div>
 				<div class="prose-wrap">
 					<h2 class="mb-40" style="line-height: 1.2;"><b>My tracing tool</b></h2>
-					<div class="hide-for-medium position-relative mb-40 fab-pen-img-wrap">
+					<div class="hide-for-medium position-relative fab-pen-img-wrap">
 						<img class="position-absolute fab-pen fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 						<img class="position-absolute fab-pen fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 					</div>
