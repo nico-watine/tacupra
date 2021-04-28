@@ -5,8 +5,7 @@
 		.fab-pen-prose {
 			.prose-wrap {
 				margin-top: rem-calc(40);
-				max-width: rem-calc(250);
-				width: 100%;
+				width: rem-calc(250);
 
 				@extend .float-center;
 			}
@@ -33,6 +32,14 @@
 		.fab-pen-media {
 			video {
 				width: 100%;
+			}
+		}
+
+		@include breakpoint(410) {
+			.fab-pen-prose {
+				.prose-wrap {
+					width: rem-calc(380);
+				}
 			}
 		}
 
