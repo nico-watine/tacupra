@@ -9,6 +9,10 @@
 				width: 100%;
 
 				@extend .float-center;
+			}
+
+			.fab-pen-img-wrap {
+				height: 100px;
 
 				img.fab-pen {
 					transform: rotate(-90deg);
@@ -16,7 +20,8 @@
 				}
 
 				img.fab-pen-1 {
-					top: -140px; right: 60px;
+					top: -140px;
+					right: 60px;
 				}
 
 				img.fab-pen-2 {
