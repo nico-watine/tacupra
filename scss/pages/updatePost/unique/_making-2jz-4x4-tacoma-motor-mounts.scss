@@ -8,6 +8,10 @@
 				width: rem-calc(250);
 
 				@extend .float-center;
+
+				.amazon-link {
+					@extend .float-center;
+				}
 			}
 
 			.fab-pen-img-wrap {
@@ -49,6 +53,10 @@
 					h2,
 					p {
 						padding-left: rem-calc(120);
+					}
+
+					.amazon-link {
+						float: right;
 					}
 				}
 

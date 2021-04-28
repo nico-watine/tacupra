@@ -8733,7 +8733,7 @@ a.thumbnail image {
   float: right !important;
 }
 
-.float-center, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+.float-center, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -13362,6 +13362,9 @@ body.index {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap h2,
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap p {
     padding-left: 7.5rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link {
+    float: right;
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap {
     height: auto;

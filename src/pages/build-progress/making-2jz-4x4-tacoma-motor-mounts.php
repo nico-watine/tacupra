@@ -48,7 +48,7 @@ upload-date: April 14, 2021
 						<img class="position-absolute fab-pen fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 					</div>
 					<p class="mb-40">If you haven't used a paint pen for fab work, try it. I run through these Sharpies so fast because I can use them for tons of different projects.</p>
-					<div class="amazon-link mb-40 float-center" style="width: 180px; background: #f1f1f1; border-radius: 6px;">
+					<div class="amazon-link mb-40" style="width: 180px; background: #f1f1f1; border-radius: 6px;">
 						<span class="m-0 display-inline-block p-8" style="font-size: 14px;">SHARPIE MED WHT OB PAINT MARKER</span>
 						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
 					</div>
