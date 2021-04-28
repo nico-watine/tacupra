@@ -35,23 +35,28 @@ upload-date: April 14, 2021
 
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
-		<div class="medium-6 columns">
-			<div class="fab-pen-prose float-right">
-				<div class="img-wrap">
+		<div class="fab-pen-prose medium-6 columns">
+			<div class="large-float-right">
+				<div class="img-wrap show-for-large">
 					<img class="fab-pen" id="fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 					<img class="fab-pen" id="fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 				</div>
 				<div class="prose-wrap">
-					<p>If you haven't used a paint pen for fab work, try it. I run through these so fast because I can use them for tons of different projects.</p>
-					<div class="amazon-link">
+					<h2 class="mb-40" style="line-height: 1.2;"><b>My tracing tool</b></h2>
+					<div class="hide-for-medium position-relative fab-pen-img-wrap">
+						<img class="position-absolute fab-pen fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
+						<img class="position-absolute fab-pen fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
+					</div>
+					<p class="mb-40">If you haven't used a paint pen for fab work, try it. I run through these Sharpies so fast because I can use them for tons of different projects.</p>
+					<div class="amazon-link mb-40" style="width: 180px; background: #f1f1f1; border-radius: 6px;">
+						<span class="m-0 display-inline-block p-8" style="font-size: 14px;">SHARPIE MED WHT OB PAINT MARKER</span>
 						<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
-						<span class="m-0 display-inline-block">SHARPIE MED WHT OB PAINT MARKER</span>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="fab-pen-media medium-6 columns">
-			<video playsinline autoplay muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
+			<video playsinline  muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
 				<source src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video.mp4" type="video/mp4">
 				<!-- <source src="video.webm" type="video/webm"> -->
 				<!-- <source src="video.ogv" type="video/ogg"> -->

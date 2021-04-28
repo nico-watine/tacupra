@@ -1,58 +1,143 @@
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.fab-pen-section {
 		background: #fff;
-		height: 400px;
 
 		.fab-pen-prose {
-			.img-wrap {
-				width: 130px;
-				position: relative;
+			.prose-wrap {
+				margin-top: rem-calc(40);
+				width: rem-calc(250);
 
-				img {
-					width: 50px;
-					position: absolute;
-				}
+				@extend .float-center;
 
-				img#fab-pen-1 {
-					top: -170px;
-					right: 0;
-				}
-
-				img#fab-pen-2 {
-					top: 100px;
-					left: 0;
+				.amazon-link {
+					@extend .float-center;
 				}
 			}
 
-			.prose-wrap {
-				padding-top: 100px;
-				margin-left: 160px;
-				width: 350px;
-				margin-right: 40px;
+			.fab-pen-img-wrap {
+				height: 100px;
+				margin-bottom: rem-calc(40);
 
-				.amazon-link {
-					background: #f1f1f1;
-					border-radius: 4px;
+				img.fab-pen {
+					transform: rotate(-90deg);
+					width: 40px;
+				}
 
-					img {
-						vertical-align: top;
-						width: 180px;
-					}
+				img.fab-pen-1 {
+					top: -140px;
+					right: 60px;
+				}
 
-					span {
-						font-size: 14px;
-						width: 160px;
-						padding-top: 6px;
-					}
+				img.fab-pen-2 {
+					top: -90px;
 				}
 			}
 		}
 
 		.fab-pen-media {
 			video {
-				object-fit: cover;
-				min-height: 400px;
 				width: 100%;
+			}
+		}
+
+		@include breakpoint(410) {
+			.fab-pen-prose {
+				overflow: hidden;
+
+				.prose-wrap {
+					width: rem-calc(380);
+
+					@extend .float-center;
+
+
+					h2,
+					p {
+						padding-left: rem-calc(120);
+					}
+
+					.amazon-link {
+						float: right;
+					}
+				}
+
+				.fab-pen-img-wrap {
+					height: auto;
+					margin-bottom: 0;
+
+					img.fab-pen {
+						transform: none;
+					}
+
+					img.fab-pen-1 {
+						right: 290px;
+						top: 10px;
+					}
+
+					img.fab-pen-2 {
+						top: -210px;
+					}
+				}
+			}
+		}
+
+		@include breakpoint(large) {
+			height: 400px;
+
+			.large-float-right {
+				float: right;
+			}
+
+			.fab-pen-prose {
+				.img-wrap {
+					width: 130px;
+					position: relative;
+
+					img {
+						width: 50px;
+						position: absolute;
+					}
+
+					img#fab-pen-1 {
+						top: -170px;
+						right: 0;
+					}
+
+					img#fab-pen-2 {
+						top: 100px;
+						left: 0;
+					}
+				}
+
+				.prose-wrap {
+					padding-top: 100px;
+					margin-left: 160px;
+					width: 350px;
+					margin-right: 40px;
+
+					.amazon-link {
+						background: #f1f1f1;
+						border-radius: 4px;
+
+						img {
+							vertical-align: top;
+							width: 180px;
+						}
+
+						span {
+							font-size: 14px;
+							width: 160px;
+							padding-top: 6px;
+						}
+					}
+				}
+			}
+
+			.fab-pen-media {
+				video {
+					object-fit: cover;
+					min-height: 400px;
+					width: 100%;
+				}
 			}
 		}
 	}
