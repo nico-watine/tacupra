@@ -100,19 +100,20 @@
 
 		@include breakpoint(900) {
 			.fab-pen-prose {
-				@include grid-column(6, 0);
+				@include grid-column(6);
 
 				.prose-wrap {
-					width: rem-calc(480);
+					width: auto;
+					max-width: rem-calc(440);
 				}
 
 				.fab-pen-img-wrap {
 					img.fab-pen-1 {
-						left: 40px;
+						// left: 40px;
 					}
 
 					img.fab-pen-2 {
-						left: -30px;
+						// left: -30px;
 					}
 				}
 			}
