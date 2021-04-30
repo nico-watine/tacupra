@@ -13454,32 +13454,7 @@ body.index {
 
 @media print, screen and (min-width: 64em) {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section {
-    height: 400px;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .large-float-right {
-    float: right;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .img-wrap {
-    width: 130px;
-    position: relative;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .img-wrap img {
-    width: 50px;
-    position: absolute;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .img-wrap img#fab-pen-1 {
-    top: -170px;
-    right: 0;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .img-wrap img#fab-pen-2 {
-    top: 100px;
-    left: 0;
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
-    padding-top: 100px;
-    margin-left: 160px;
-    width: 350px;
-    margin-right: 40px;
+    height: 420px;
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link {
     background: #f1f1f1;
@@ -13497,7 +13472,7 @@ body.index {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media video {
     -o-object-fit: cover;
        object-fit: cover;
-    min-height: 400px;
+    min-height: 420px;
     width: 100%;
   }
 }
