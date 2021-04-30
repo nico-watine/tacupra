@@ -9,7 +9,16 @@
 
 				@extend .float-center;
 
+				h2 {
+					line-height: 1.2;
+				}
+
 				.amazon-link {
+					width: 180px;
+					background: #f1f1f1;
+					border-radius: 6px;
+					font-size: 14px;
+
 					@extend .float-center;
 				}
 			}
@@ -134,26 +143,6 @@
 
 		@include breakpoint(large) {
 			height: 420px;
-
-			.fab-pen-prose {
-				.prose-wrap {
-					.amazon-link {
-						background: #f1f1f1;
-						border-radius: 4px;
-
-						img {
-							vertical-align: top;
-							width: 180px;
-						}
-
-						span {
-							font-size: 14px;
-							width: 160px;
-							padding-top: 6px;
-						}
-					}
-				}
-			}
 		}
 
 		@include breakpoint(1200) {
