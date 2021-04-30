@@ -98,6 +98,31 @@
 			}
 		}
 
+		@include breakpoint(900) {
+			.fab-pen-prose {
+				@include grid-column(6);
+
+				.prose-wrap {
+					width: auto;
+					max-width: rem-calc(440);
+				}
+
+				.fab-pen-img-wrap {
+					img.fab-pen-1 {
+						left: 60px;
+					}
+
+					img.fab-pen-2 {
+						left: 0;
+					}
+				}
+			}
+
+			.fab-pen-media {
+				@include grid-column(6, 0);
+			}
+		}
+
 		@include breakpoint(large) {
 			height: 400px;
 
