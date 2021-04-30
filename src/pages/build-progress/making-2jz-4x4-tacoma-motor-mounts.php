@@ -35,7 +35,7 @@ upload-date: April 14, 2021
 
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
-		<div class="fab-pen-prose medium-6 columns">
+		<div class="fab-pen-prose large-6 columns">
 			<div class="large-float-right">
 				<div class="img-wrap show-for-large">
 					<img class="fab-pen" id="fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
@@ -43,7 +43,7 @@ upload-date: April 14, 2021
 				</div>
 				<div class="prose-wrap">
 					<h2 class="mb-40" style="line-height: 1.2;"><b>My tracing tool</b></h2>
-					<div class="hide-for-medium position-relative fab-pen-img-wrap">
+					<div class="hide-for-large position-relative fab-pen-img-wrap">
 						<img class="position-absolute fab-pen fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 						<img class="position-absolute fab-pen fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
 					</div>
@@ -55,7 +55,7 @@ upload-date: April 14, 2021
 				</div>
 			</div>
 		</div>
-		<div class="fab-pen-media medium-6 columns">
+		<div class="fab-pen-media large-6 columns">
 			<video playsinline  muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
 				<source src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video.mp4" type="video/mp4">
 				<!-- <source src="video.webm" type="video/webm"> -->

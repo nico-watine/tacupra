@@ -80,6 +80,24 @@
 			}
 		}
 
+		@include breakpoint(medium) {
+			.fab-pen-prose {
+				.prose-wrap {
+					width: rem-calc(480);
+				}
+
+				.fab-pen-img-wrap {
+					img.fab-pen-1 {
+						left: 40px;
+					}
+
+					img.fab-pen-2 {
+						left: -30px;
+					}
+				}
+			}
+		}
+
 		@include breakpoint(large) {
 			height: 400px;
 
