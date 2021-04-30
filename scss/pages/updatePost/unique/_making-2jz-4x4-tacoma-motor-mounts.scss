@@ -98,6 +98,30 @@
 			}
 		}
 
+		@include breakpoint(900) {
+			.fab-pen-prose {
+				@include grid-column(6, 0);
+
+				.prose-wrap {
+					width: rem-calc(480);
+				}
+
+				.fab-pen-img-wrap {
+					img.fab-pen-1 {
+						left: 40px;
+					}
+
+					img.fab-pen-2 {
+						left: -30px;
+					}
+				}
+			}
+
+			.fab-pen-media {
+				@include grid-column(6, 0);
+			}
+		}
+
 		@include breakpoint(large) {
 			height: 400px;
 
