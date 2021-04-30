@@ -96,9 +96,18 @@
 					}
 				}
 			}
+
+			.fab-pen-media {
+				video {
+					min-height: 420px;
+					object-fit: cover;
+				}
+			}
 		}
 
 		@include breakpoint(900) {
+			height: 420px;
+
 			.fab-pen-prose {
 				@include grid-column(6);
 
@@ -143,14 +152,6 @@
 							padding-top: 6px;
 						}
 					}
-				}
-			}
-
-			.fab-pen-media {
-				video {
-					object-fit: cover;
-					min-height: 420px;
-					width: 100%;
 				}
 			}
 		}
