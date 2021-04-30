@@ -108,14 +108,14 @@
 
 			.fab-pen-media {
 				video {
-					min-height: 420px;
+					min-height: rem-calc(420);
 					object-fit: cover;
 				}
 			}
 		}
 
 		@include breakpoint(900) {
-			height: 420px;
+			height: rem-calc(420);
 
 			.fab-pen-prose {
 				@include grid-column(6);
@@ -139,10 +139,6 @@
 			.fab-pen-media {
 				@include grid-column(6, 0);
 			}
-		}
-
-		@include breakpoint(large) {
-			height: 420px;
 		}
 
 		@include breakpoint(1200) {
