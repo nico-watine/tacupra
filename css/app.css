@@ -13479,6 +13479,13 @@ body.index {
   }
 }
 
+@media screen and (min-width: 75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+    float: right;
+    margin-right: 2rem;
+  }
+}
+
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {
   background: #f1f1f1 url("/img/assets/logos/toyota/icon/E5E5E5/toyota-icon.svg") right/auto 100% no-repeat;
   background-position: 110% -50px;

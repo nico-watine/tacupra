@@ -155,5 +155,14 @@
 				}
 			}
 		}
+
+		@include breakpoint(1200) {
+			.fab-pen-prose {
+				.prose-wrap {
+					float: right;
+					margin-right: rem-calc(32);
+				}
+			}
+		}
 	}
 }
