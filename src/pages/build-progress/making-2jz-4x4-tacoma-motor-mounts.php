@@ -5,7 +5,7 @@ description:
 og-title: 2JZ 4x4 Tacoma Motor Mounts
 og-description:
 og-image:
-body-id: id-making-2jz-4x4-tacoma-motor-mounts
+body-id: making-2jz-4x4-tacoma-motor-mounts
 body-class: updatePost updatePost-unique
 layout: updatePost-masonry
 hero-background-image: /img/update-post/making-2jz-4x4-tacoma-motor-mounts/motor-mounts-hero.jpg
@@ -32,3 +32,31 @@ upload-date: April 14, 2021
 	</div>
 	<br>
 </section>
+
+<section class="fab-pen-section overflow-hidden">
+	<div class="row expanded collapse">
+		<div class="fab-pen-prose columns">
+			<div class="prose-wrap">
+				<h2 class="mb-40"><b>My tracing tool</b></h2>
+				<div class="position-relative fab-pen-img-wrap">
+					<img class="position-absolute fab-pen fab-pen-1" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
+					<img class="position-absolute fab-pen fab-pen-2" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/white-sharpie-paint-marker.jpg" alt="White Sharpie Paint Marker" title="White Sharpie Paint Marker">
+				</div>
+				<p class="mb-40">If you haven't used a paint pen for fab work, try it. I run through these Sharpies so fast because I can use them for tons of different projects.</p>
+				<div class="amazon-link mb-40">
+					<span class="m-0 display-inline-block p-8">SHARPIE MED WHT OB PAINT MARKER</span>
+					<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
+				</div>
+			</div>
+		</div>
+		<div class="fab-pen-media columns">
+			<video playsinline autoplay muted loop poster="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video-thumbnail.png">
+				<source src="{{ cdn }}/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/fab-pen-video.mp4" type="video/mp4">
+				<!-- <source src="video.webm" type="video/webm"> -->
+				<!-- <source src="video.ogv" type="video/ogg"> -->
+			</video>
+		</div>
+	</div>
+</section>
+
+<br>

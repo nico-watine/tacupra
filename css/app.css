@@ -8733,7 +8733,7 @@ a.thumbnail image {
   float: right !important;
 }
 
-.float-center {
+.float-center, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -13316,6 +13316,166 @@ body.index {
 
 .updatePost#tacoma-tundra-brake-swap .step-4 .row .prose h4 {
   padding: 0.625rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section {
+  background: #fff;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+  margin-top: 2.5rem;
+  width: 15.625rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap h2 {
+  line-height: 1.2;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link {
+  width: 180px;
+  background: #f1f1f1;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap {
+  height: 100px;
+  margin-bottom: 2.5rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen {
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  width: 40px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-1 {
+  top: -140px;
+  right: 60px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-2 {
+  top: -90px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media video {
+  width: 100%;
+}
+
+@media screen and (min-width: 25.625em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose {
+    overflow: hidden;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+    width: 23.75rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap h2,
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap p {
+    padding-left: 7.5rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link {
+    float: right;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap {
+    height: auto;
+    margin-bottom: 0;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-1 {
+    right: 290px;
+    top: 10px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-2 {
+    top: -210px;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+    width: 30rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-1 {
+    left: 40px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-2 {
+    left: -30px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media video {
+    min-height: 26.25rem;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section {
+    height: 26.25rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose {
+    width: 50%;
+    float: left;
+    padding-right: 0.625rem;
+    padding-left: 0.625rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) and (min-width: 40em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) and (min-width: 64em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose {
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem;
+  }
+}
+
+@media screen and (min-width: 56.25em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose:last-child:not(:first-child) {
+    float: left;
+    clear: none;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose:last-child:not(:first-child) {
+    float: right;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+    width: auto;
+    max-width: 27.5rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-1 {
+    left: 60px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .fab-pen-img-wrap img.fab-pen-2 {
+    left: 0;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media {
+    width: 50%;
+    float: left;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media:last-child:not(:first-child) {
+    float: left;
+    clear: none;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-media:last-child:not(:first-child) {
+    float: right;
+  }
+}
+
+@media screen and (min-width: 75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+    float: right;
+    margin-right: 2rem;
+  }
 }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {

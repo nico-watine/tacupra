@@ -1,0 +1,153 @@
+.updatePost#making-2jz-4x4-tacoma-motor-mounts {
+	.fab-pen-section {
+		background: #fff;
+
+		.fab-pen-prose {
+			.prose-wrap {
+				margin-top: rem-calc(40);
+				width: rem-calc(250);
+
+				@extend .float-center;
+
+				h2 {
+					line-height: 1.2;
+				}
+
+				.amazon-link {
+					width: 180px;
+					background: #f1f1f1;
+					border-radius: 6px;
+					font-size: 14px;
+
+					@extend .float-center;
+				}
+			}
+
+			.fab-pen-img-wrap {
+				height: 100px;
+				margin-bottom: rem-calc(40);
+
+				img.fab-pen {
+					transform: rotate(-90deg);
+					width: 40px;
+				}
+
+				img.fab-pen-1 {
+					top: -140px;
+					right: 60px;
+				}
+
+				img.fab-pen-2 {
+					top: -90px;
+				}
+			}
+		}
+
+		.fab-pen-media {
+			video {
+				width: 100%;
+			}
+		}
+
+		@include breakpoint(410) {
+			.fab-pen-prose {
+				overflow: hidden;
+
+				.prose-wrap {
+					width: rem-calc(380);
+
+					@extend .float-center;
+
+
+					h2,
+					p {
+						padding-left: rem-calc(120);
+					}
+
+					.amazon-link {
+						float: right;
+					}
+				}
+
+				.fab-pen-img-wrap {
+					height: auto;
+					margin-bottom: 0;
+
+					img.fab-pen {
+						transform: none;
+					}
+
+					img.fab-pen-1 {
+						right: 290px;
+						top: 10px;
+					}
+
+					img.fab-pen-2 {
+						top: -210px;
+					}
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			.fab-pen-prose {
+				.prose-wrap {
+					width: rem-calc(480);
+				}
+
+				.fab-pen-img-wrap {
+					img.fab-pen-1 {
+						left: 40px;
+					}
+
+					img.fab-pen-2 {
+						left: -30px;
+					}
+				}
+			}
+
+			.fab-pen-media {
+				video {
+					min-height: rem-calc(420);
+					object-fit: cover;
+				}
+			}
+		}
+
+		@include breakpoint(900) {
+			height: rem-calc(420);
+
+			.fab-pen-prose {
+				@include grid-column(6);
+
+				.prose-wrap {
+					width: auto;
+					max-width: rem-calc(440);
+				}
+
+				.fab-pen-img-wrap {
+					img.fab-pen-1 {
+						left: 60px;
+					}
+
+					img.fab-pen-2 {
+						left: 0;
+					}
+				}
+			}
+
+			.fab-pen-media {
+				@include grid-column(6, 0);
+			}
+		}
+
+		@include breakpoint(1200) {
+			.fab-pen-prose {
+				.prose-wrap {
+					float: right;
+					margin-right: rem-calc(32);
+				}
+			}
+		}
+	}
+}
