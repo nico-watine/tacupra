@@ -6943,6 +6943,26 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/icons\/svg\/pencil-saw.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/pencil-saw.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/icons\/svg\/ruler.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/ruler.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/img\/index\/build-specs\/build-truck\/tacoma.jpg" : {
       "ft" : 16384,
       "iS" : 114699,
