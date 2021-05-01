@@ -62,3 +62,15 @@ upload-date: April 14, 2021
 </section>
 
 <br>
+
+<!-- Traced & Cut Section -->
+<section class="traced-and-cut-section" style="background: #fff;">
+	<div class="row">
+		<div class="large-3 columns">
+			<img style="width: 170px; float: right;" src="/img/icons/svg/pencil-saw.svg" alt="">
+		</div>
+		<div class="large-9 columns">
+
+		</div>
+	</div>
+</section>
