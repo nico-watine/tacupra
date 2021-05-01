@@ -65,7 +65,7 @@ upload-date: April 14, 2021
 
 <!-- Traced & Cut Section -->
 <section class="traced-and-cut-section">
-	<div class="row" style="position: relative; padding-top: 100px; padding-bottom: 100px;">
+	<div class="row" style="position: relative; padding-top: 100px; padding-bottom: 80px;">
 		<div class="medium-3 columns">
 			<img style="width: 170px; float: right;" src="/img/icons/svg/pencil-saw.svg" alt="">
 		</div>
@@ -73,6 +73,16 @@ upload-date: April 14, 2021
 			<div class="prose vertical-center" style="max-width: 770px;">
 				<p class="h4">Various shots of the <b>side motor mount flanges</b> getting traced and cut. These flanges attach to the Tacoma’s frame.</p>
 			</div>
+		</div>
+	</div>
+	<div class="row expanded collapse">
+		<div class="medium-6 columns">
+			<img style="border: 1px solid #000;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/ZlpYWdo.jpg" alt="">
+			<img style="border: 1px solid #000;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/pZyRjJk.jpg" alt="">
+		</div>
+		<div class="medium-6 columns">
+			<img style="border: 1px solid #000;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/mUv1Mrh.jpg" alt="">
+			<img style="border: 1px solid #000;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/INA65jn.jpg" alt="">
 		</div>
 	</div>
 </section>
