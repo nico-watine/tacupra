@@ -65,12 +65,12 @@ upload-date: April 14, 2021
 
 <!-- Traced & Cut Section -->
 <section class="traced-and-cut-section" style="background: #fff;">
-	<div class="row">
+	<div class="row" style="position: relative;">
 		<div class="medium-3 columns">
 			<img style="width: 170px; float: right;" src="/img/icons/svg/pencil-saw.svg" alt="">
 		</div>
 		<div class="medium-9 columns">
-			<div class="prose" style="max-width: 770px;">
+			<div class="prose vertical-center" style="max-width: 770px;">
 				<p class="h4">Various shots of the <b>side motor mount flanges</b> getting traced and cut. These flanges attach to the Tacoma’s frame.</p>
 			</div>
 		</div>
