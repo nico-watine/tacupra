@@ -12,6 +12,7 @@ hero-background-image: /img/update-post/making-2jz-4x4-tacoma-motor-mounts/motor
 post-title: Making the 2JZ 4x4 Tacoma Motor Mounts
 upload-date: April 14, 2021
 ---
+<!-- Page Intro -->
 <section class="pageIntro-section">
 	<br>
 	<div class="row collapse">
@@ -33,6 +34,7 @@ upload-date: April 14, 2021
 	<br>
 </section>
 
+<!-- Fab Pen Section -->
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
 		<div class="fab-pen-prose columns">
