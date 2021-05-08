@@ -156,8 +156,25 @@
 // Traced & Cut Section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.traced-and-cut-section {
+		margin-bottom: 80px;
+
 		.section-intro {
 			background: #fff url('/img/icons/svg/ruler-wide-9F031B.svg') center -30px/100% no-repeat;
+
+			.row.section-text {
+				position: relative;
+				padding-top: 100px;
+				padding-bottom: 80px;
+
+				.prose-wrap {
+					max-width: rem-calc(770);
+				}
+			}
+		}
+
+		img,
+		video {
+			border: 1px solid #000;
 		}
 	}
 }

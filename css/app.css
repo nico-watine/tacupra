@@ -13478,8 +13478,27 @@ body.index {
   }
 }
 
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section {
+  margin-bottom: 80px;
+}
+
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section .section-intro {
   background: #fff url("/img/icons/svg/ruler-wide-9F031B.svg") center -30px/100% no-repeat;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section .section-intro .row.section-text {
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section .section-intro .row.section-text .prose-wrap {
+  max-width: 48.125rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section img,
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .traced-and-cut-section video {
+  border: 1px solid #000;
 }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {
