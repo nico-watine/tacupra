@@ -90,7 +90,7 @@ upload-date: April 14, 2021
 	<div class="row">
 		<div class="column text-center">
 			<figure>
-				<video playsinline autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
+				<video playsinline autoplay muted controls loop poster="poster.jpg">
 					<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/h25RgJH.mp4" type="video/mp4">
 					<!-- <source src="video.webm" type="video/webm"> -->
 					<!-- <source src="video.ogv" type="video/ogg"> -->
