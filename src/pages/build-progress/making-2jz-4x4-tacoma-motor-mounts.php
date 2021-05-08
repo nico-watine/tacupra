@@ -64,7 +64,7 @@ upload-date: April 14, 2021
 <br>
 
 <!-- Traced & Cut Section -->
-<section class="traced-and-cut-section">
+<section class="traced-and-cut-section" style="margin-bottom: 80px;">
 	<div class="section-intro">
 		<div class="row" style="position: relative; padding-top: 100px; padding-bottom: 80px;">
 			<div class="medium-3 columns">
@@ -87,7 +87,7 @@ upload-date: April 14, 2021
 			<img style="border: 1px solid #000;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/INA65jn.jpg" alt="">
 		</div>
 	</div>
-	<div class="row" style="padding-bottom: 80px;">
+	<div class="row">
 		<div class="column text-center">
 			<figure>
 				<video style="border: 1px solid #000;" playsinline autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
