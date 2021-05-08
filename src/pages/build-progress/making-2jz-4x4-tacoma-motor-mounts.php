@@ -77,7 +77,7 @@ upload-date: April 14, 2021
 			</div>
 		</div>
 	</div>
-	<div class="row expanded collapse mb-40">
+	<div class="row expanded collapse mb-40 images">
 		<div class="medium-6 columns">
 			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/ZlpYWdo.jpg" alt="">
 			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/pZyRjJk.jpg" alt="">
@@ -90,7 +90,7 @@ upload-date: April 14, 2021
 	<div class="row">
 		<div class="column text-center">
 			<figure>
-				<video playsinline autoplay muted controls loop poster="poster.jpg">
+				<video style="border: 1px solid #000;" playsinline autoplay muted controls loop poster="poster.jpg">
 					<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/h25RgJH.mp4" type="video/mp4">
 					<!-- <source src="video.webm" type="video/webm"> -->
 					<!-- <source src="video.ogv" type="video/ogg"> -->

@@ -172,9 +172,10 @@
 			}
 		}
 
-		img,
-		video {
-			border: 1px solid #000;
+		.row.images {
+			img {
+				border: 1px solid #000;
+			}
 		}
 	}
 }
