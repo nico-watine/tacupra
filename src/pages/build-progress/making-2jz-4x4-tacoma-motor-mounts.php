@@ -12,6 +12,7 @@ hero-background-image: /img/update-post/making-2jz-4x4-tacoma-motor-mounts/motor
 post-title: Making the 2JZ 4x4 Tacoma Motor Mounts
 upload-date: April 14, 2021
 ---
+<!-- Page Intro -->
 <section class="pageIntro-section">
 	<br>
 	<div class="row collapse">
@@ -33,6 +34,7 @@ upload-date: April 14, 2021
 	<br>
 </section>
 
+<!-- Fab Pen Section -->
 <section class="fab-pen-section overflow-hidden">
 	<div class="row expanded collapse">
 		<div class="fab-pen-prose columns">
@@ -60,3 +62,41 @@ upload-date: April 14, 2021
 </section>
 
 <br>
+
+<!-- Traced & Cut Section -->
+<section class="traced-and-cut-section">
+	<div class="section-intro">
+		<div class="row section-text">
+			<div class="medium-3 columns">
+				<img style="width: 170px; float: right;" src="/img/icons/svg/pencil-saw.svg" alt="">
+			</div>
+			<div class="medium-9 columns">
+				<div class="prose-wrap vertical-center">
+					<p class="h4">Various shots of the <b>side motor mount flanges</b> getting traced and cut. These flanges attach to the Tacoma’s frame.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row expanded collapse mb-40 images">
+		<div class="medium-6 columns">
+			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/ZlpYWdo.jpg" alt="">
+			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/pZyRjJk.jpg" alt="">
+		</div>
+		<div class="medium-6 columns">
+			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/mUv1Mrh.jpg" alt="">
+			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/INA65jn.jpg" alt="">
+		</div>
+	</div>
+	<div class="row">
+		<div class="column text-center">
+			<figure>
+				<video style="border: 1px solid #000;" playsinline autoplay muted controls loop poster="poster.jpg">
+					<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/traced-and-cut/_temp/h25RgJH.mp4" type="video/mp4">
+					<!-- <source src="video.webm" type="video/webm"> -->
+					<!-- <source src="video.ogv" type="video/ogg"> -->
+				</video>
+				<figcaption class="h5"><i>Test fitting the 2JZ side motor mount flange after cutting out the trace</i></figcaption>
+			</figure>
+		</div>
+	</div>
+</section>
