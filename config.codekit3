@@ -7034,6 +7034,16 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/img\/assets\/amazon\/amazon-badge.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/assets\/amazon\/amazon-badge.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/img\/assets\/logos\/toyota\/icon\/BB3938\/toyota-icon.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -7089,6 +7099,56 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/img\/icons\/svg\/pencil-saw.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/pencil-saw.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/icons\/svg\/ruler-thin.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/ruler-thin.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/icons\/svg\/ruler-wide-9F031B.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/ruler-wide-9F031B.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/icons\/svg\/ruler-wide.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/ruler-wide.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/img\/icons\/svg\/ruler.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/icons\/svg\/ruler.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
     },
     "\/img\/index\/build-specs\/build-truck\/tacoma.jpg" : {
       "ft" : 16384,
@@ -7954,12 +8014,106 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/_temp\/fab-pen-video-thumbnail.png" : {
+      "ft" : 32768,
+      "iS" : 1365141,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/_temp\/fab-pen-video-thumbnail.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/_temp\/fab-pen-video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/_temp\/fab-pen-video.mp4",
+      "oF" : 0
+    },
     "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/motor-mounts-hero.jpg" : {
       "ft" : 16384,
       "iS" : 207495,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/motor-mounts-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/h25RgJH.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/h25RgJH.mp4",
+      "oF" : 0
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/INA65jn.jpg" : {
+      "ft" : 16384,
+      "iS" : 4890433,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/INA65jn.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/mUv1Mrh.jpg" : {
+      "ft" : 16384,
+      "iS" : 1792796,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/mUv1Mrh.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/pZyRjJk.jpg" : {
+      "ft" : 16384,
+      "iS" : 4660716,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/pZyRjJk.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/ZlpYWdo.jpg" : {
+      "ft" : 16384,
+      "iS" : 4304626,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/traced-and-cut\/_temp\/ZlpYWdo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/white-sharpie-paint-marker.jpg" : {
+      "ft" : 16384,
+      "iS" : 31343,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/update-post\/making-2jz-4x4-tacoma-motor-mounts\/white-sharpie-paint-marker.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9029,21 +9183,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/updatePost\/_unique.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_unique.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/pages\/updatePost\/_updatePost.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -9074,6 +9213,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/updatePost\/unique\/_making-2jz-4x4-tacoma-motor-mounts.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/updatePost\/css\/_making-2jz-4x4-tacoma-motor-mounts.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/updatePost\/unique\/_tacoma-tundra-brake-swap.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -9084,6 +9238,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/updatePost\/css\/_tacoma-tundra-brake-swap.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/updatePost\/unique\/_unique.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/updatePost\/css\/_unique.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
