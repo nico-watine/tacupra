@@ -121,7 +121,7 @@ layout: index-video-splash
 </section>
 <br>
 <br>
-<section class="updatePost-links">
+<section class="updatePost-links grid-container">
 	<div class="grid-x align-center large-align-left grid-padding-x">
 		<div class="medium-6 large-4 cell mb-40">
 			<div class="postLink-card h-100">
