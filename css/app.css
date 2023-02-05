@@ -12293,11 +12293,23 @@ body.index {
   background: #0a0a0a;
 }
 
+.updatePost-links.grid-container {
+  max-width: 93.75rem;
+}
+
 .postLink-card {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   border: 0.1875rem solid #9f031b;
   border-radius: 0.25rem;
   background: #fefefe;
+  max-width: 26.25rem;
+  margin: 0 auto;
+}
+
+@media print, screen and (min-width: 64em) {
+  .postLink-card {
+    max-width: none;
+  }
 }
 
 .postLink-card .prose {

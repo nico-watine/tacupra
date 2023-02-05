@@ -121,9 +121,9 @@ layout: index-video-splash
 </section>
 <br>
 <br>
-<section class="updatePost-links">
-	<div class="grid-x align-center grid-padding-x">
-		<div class="medium-8 large-4 cell mb-40">
+<section class="updatePost-links grid-container">
+	<div class="grid-x align-center large-align-left grid-padding-x">
+		<div class="medium-6 large-4 cell mb-40">
 			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
 				<div class="prose">
@@ -132,7 +132,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 large-4 cell mb-40">
+		<div class="medium-6 large-4 cell mb-40">
 			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/tacoma-tundra-brake-swap/tundra-brake-setup.jpg" alt="Tacoma Tundra Brake Swap Preview">
 				<div class="prose">
@@ -141,7 +141,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 large-4 cell mb-40">
+		<div class="medium-6 large-4 cell mb-40">
 			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/index/triple-image-banner/3.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
@@ -150,7 +150,7 @@ layout: index-video-splash
 				</div>
 			</div>
 		</div>
-		<div class="medium-8 large-4 cell mb-40">
+		<div class="medium-6 large-4 cell mb-40">
 			<div class="postLink-card">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/2001-toyota-tacoma-suspension/post-thumb.jpg" alt="Update Post Thumbnail">
 				<div class="prose">
@@ -163,5 +163,5 @@ layout: index-video-splash
 </section>
 <footer class="text-center">
 	<a href="https://studioncreations.com/" target="_blank">A <span>Studio N</span> Creation</a>
-	<a class="display-block text-underline" href="/build-progress/making-2jz-4x4-tacoma-motor-mounts">Motor Mounts Post</a>
+	<!-- <a class="display-block text-underline" href="/build-progress/making-2jz-4x4-tacoma-motor-mounts">Motor Mounts Post</a> -->
 </footer>

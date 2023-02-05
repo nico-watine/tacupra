@@ -1,9 +1,18 @@
+.updatePost-links.grid-container {
+	max-width: rem-calc(1500);
+}
+
 .postLink-card {
 	box-shadow: $z-1;
 	border: rem-calc(3) solid $tacupra-red;
 	border-radius: rem-calc(4);
-	// margin-bottom: rem-calc(30);
 	background: $white;
+	max-width: rem-calc(420);
+	margin: 0 auto;
+
+	@include breakpoint(large) {
+		max-width: none;
+	}
 
 	.prose {
 		padding: rem-calc(16);
