@@ -122,7 +122,7 @@ layout: index-video-splash
 <br>
 <br>
 <section class="updatePost-links">
-	<div class="grid-x align-center grid-padding-x">
+	<div class="grid-x align-center large-align-left grid-padding-x">
 		<div class="medium-8 large-4 cell mb-40">
 			<div class="postLink-card h-100">
 				<img class="feature-image" src="{{ cdn }}/img/update-post/4x4-2jz-tacoma-transmission-mount/4x4-2jz-tacoma-transmission-mount.jpg" alt="4x4 2JZ Tacoma Transmission Mount">
