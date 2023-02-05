@@ -1,9 +1,9 @@
 {
-  "name": "tacupra",
-  "authors": [
+  "name": "zurb-f6-boilerplate",
+  "author": [
     "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
-  "description": "Website for @2jz_tacupra, built on zurb-f6-boilerplate",
+  "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -11,9 +11,9 @@
     "bower_components"
   ],
   "dependencies": {
-    "foundation-sites": "6.7.4",
+    "foundation-sites": "6.7.5",
+    "jquery": "^3.6.0",
     "motion-ui": "latest",
-    "masonry-layout": "masonry#^4.2.2",
-    "imagesloaded": "^4.1.4"
+    "what-input": "^5.2.10"
   }
 }
