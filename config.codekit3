@@ -69,25 +69,25 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/.editorconfig",
-      "oF" : 0
+      "oF" : 1
     },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/.gitignore",
-      "oF" : 0
+      "oF" : 1
     },
     "\/.yarnclean" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/.yarnclean",
-      "oF" : 0
+      "oF" : 1
     },
     "\/assets\/.htaccess" : {
       "cB" : 0,
@@ -7001,9 +7001,9 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/config.yml",
-      "oF" : 0
+      "oF" : 1
     },
     "\/css\/app.css" : {
       "aP" : 1,
@@ -9456,6 +9456,14 @@
       "oA" : 2,
       "oAP" : "\/src\/partials\/updatePost-nav.html",
       "oF" : 0
+    },
+    "\/TODO" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/TODO",
+      "oF" : 1
     },
     "\/yarn.lock" : {
       "cB" : 0,
