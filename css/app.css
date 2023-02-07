@@ -12236,6 +12236,8 @@ body.index {
 .specCard {
   background: #fefefe;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
+  overflow: hidden;
 }
 
 .specCard-header {
