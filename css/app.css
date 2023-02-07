@@ -12236,6 +12236,8 @@ body.index {
 .specCard {
   background: #fefefe;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
+  overflow: hidden;
 }
 
 .specCard-header {
@@ -12300,7 +12302,8 @@ body.index {
 .postLink-card {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   border: 0.1875rem solid #9f031b;
-  border-radius: 0.25rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
   background: #fefefe;
   max-width: 26.25rem;
   margin: 0 auto;
@@ -12325,7 +12328,7 @@ body.index {
   font-size: 1rem;
   line-height: 1.25rem;
   background: #9f031b;
-  border-radius: 0.25rem;
+  border-radius: 0.5rem;
   max-width: 13.75rem;
   width: 100%;
   display: inline-block;
