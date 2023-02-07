@@ -5,7 +5,8 @@
 .postLink-card {
 	box-shadow: $z-1;
 	border: rem-calc(3) solid $tacupra-red;
-	border-radius: rem-calc(4);
+	border-radius: rem-calc(12);
+	overflow: hidden;
 	background: $white;
 	max-width: rem-calc(420);
 	margin: 0 auto;
@@ -26,7 +27,7 @@
 			font-size: rem-calc(16);
 			line-height: rem-calc(20);
 			background: $tacupra-red;
-			border-radius: rem-calc(4);
+			border-radius: rem-calc(8);
 			max-width: rem-calc(220);
 			width: 100%;
 			display: inline-block;
