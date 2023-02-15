@@ -163,5 +163,5 @@ layout: index-video-splash
 </section>
 <footer class="text-center">
 	<a href="https://studioncreations.com/" target="_blank">A <span>Studio N</span> Creation</a>
-	<!-- <a class="display-block text-underline" href="/build-progress/making-2jz-4x4-tacoma-motor-mounts">Motor Mounts Post</a> -->
+	<a class="display-block text-underline" href="/build-progress/making-2jz-4x4-tacoma-motor-mounts">Motor Mounts Post</a>
 </footer>
