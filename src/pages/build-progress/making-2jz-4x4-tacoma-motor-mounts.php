@@ -100,3 +100,16 @@ upload-date: April 14, 2021
 		</div>
 	</div>
 </section>
+
+<section class="bolt-trimming" style="border-top: 2px solid #000;">
+	<div class="row py-40">
+		<div class="large-4 columns"></div>
+		<div class="large-8 columns">
+			<h2><b>The Bolts</b></h2>
+			<div class="prose-wrap" style="max-width: 470px;">
+				<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
+				<p>I trimmed the bolts to be flush against the flange, so they no longer bottom out. After the motor mounts were fully built, I used new and proper length flange bolts.</p>
+			</div>
+		</div>
+	</div>
+</section>
