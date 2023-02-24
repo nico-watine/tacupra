@@ -121,14 +121,14 @@ upload-date: April 14, 2021
 							<p class="text-white lead text-right mr-16 float-right" style="max-width: 240px;">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
 						</div>
 						<div class="cell medium-6">
-							<img src="https://via.placeholder.com/300x375" alt="">
+							<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/first-trimmed-bolt.jpg" alt="">
 						</div>
 					</div>
 				</div>
 				<div class="cell medium-6">
 					<div class="grid-x align-middle">
 						<div class="cell medium-6">
-							<img src="https://via.placeholder.com/300x375" alt="">
+							<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/bolt-comparison.jpg" alt="">
 						</div>
 						<div class="cell medium-6">
 							<p class="text-white lead ml-16">Side-by-side comparison.</p>
