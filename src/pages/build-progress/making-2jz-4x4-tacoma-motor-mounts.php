@@ -112,25 +112,27 @@ upload-date: April 14, 2021
 			</div>
 		</div>
 	</div>
-	<div class="grid-container">
-		<div class="grid-x grid-padding-x">
-			<div class="cell medium-6">
-				<div class="grid-x align-middle">
-					<div class="cell medium-6">
-						<p class="lead text-right mr-16 float-right" style="max-width: 240px;">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
-					</div>
-					<div class="cell medium-6">
-						<img src="https://via.placeholder.com/300x375" alt="">
+	<div class="dark-banner" style="background: #282B2F;">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x">
+				<div class="cell medium-6">
+					<div class="grid-x align-middle">
+						<div class="cell medium-6">
+							<p class="text-white lead text-right mr-16 float-right" style="max-width: 240px;">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+						</div>
+						<div class="cell medium-6">
+							<img src="https://via.placeholder.com/300x375" alt="">
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="cell medium-6">
-				<div class="grid-x align-middle">
-					<div class="cell medium-6">
-						<img src="https://via.placeholder.com/300x375" alt="">
-					</div>
-					<div class="cell medium-6">
-						<p class="lead ml-16">Side-by-side comparison.</p>
+				<div class="cell medium-6">
+					<div class="grid-x align-middle">
+						<div class="cell medium-6">
+							<img src="https://via.placeholder.com/300x375" alt="">
+						</div>
+						<div class="cell medium-6">
+							<p class="text-white lead ml-16">Side-by-side comparison.</p>
+						</div>
 					</div>
 				</div>
 			</div>
