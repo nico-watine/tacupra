@@ -182,37 +182,45 @@
 
 // bolt trimming section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
-	.bolt-icon {
-		svg {
-			width: 230px;
-			height: 230px;
-
-			path {
-				fill: $tacupra-red;
+	@include breakpoint(large) {
+		.section-intro {
+			.prose-wrap {
+				max-width: rem-calc(470);
 			}
 		}
-	}
 
-	.bg-bolt-icon {
-		top: 10px;
-		left: 0;
-		z-index: -10;
+		.bolt-icon {
+			svg {
+				width: 230px;
+				height: 230px;
 
-		svg {
-			width: 370px;
-
-			path {
-				fill: #dedede;
+				path {
+					fill: $tacupra-red;
+				}
 			}
 		}
-	}
 
-	.bg-nut-icon {
-		right: 0;
-		bottom: 0;
+		.bg-bolt-icon {
+			top: 10px;
+			left: 0;
+			z-index: -10;
 
-		svg {
-			width: 280px;
+			svg {
+				width: 370px;
+
+				path {
+					fill: #dedede;
+				}
+			}
+		}
+
+		.bg-nut-icon {
+			right: 0;
+			bottom: 0;
+
+			svg {
+				width: 280px;
+			}
 		}
 	}
 }
