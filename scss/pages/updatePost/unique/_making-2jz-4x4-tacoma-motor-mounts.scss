@@ -187,6 +187,24 @@
 			max-width: rem-calc(450);
 			margin: 0 auto;
 		}
+
+		.bg-bolt-icon {
+			@include breakpoint(small only) {
+				@include horizontal-center;
+			}
+
+			left: -20px;
+			top: 10px;
+			z-index: -10;
+
+			svg {
+				width: 370px;
+
+				path {
+					fill: #dedede;
+				}
+			}
+		}
 	}
 
 	.section-details {
@@ -208,6 +226,7 @@
 		.section-intro {
 			.prose-wrap {
 				max-width: rem-calc(470);
+				margin: initial;
 			}
 		}
 
@@ -218,20 +237,6 @@
 
 				path {
 					fill: $tacupra-red;
-				}
-			}
-		}
-
-		.bg-bolt-icon {
-			top: 10px;
-			left: 0;
-			z-index: -10;
-
-			svg {
-				width: 370px;
-
-				path {
-					fill: #dedede;
 				}
 			}
 		}
