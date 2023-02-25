@@ -133,7 +133,7 @@ upload-date: April 14, 2021
 							</div>
 							<div class="cell medium-6">
 								<div class="detail-shot position-relative">
-									<p class="position-absolute hide-for-large text-white p-12 m-0">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+									<p class="position-absolute hide-for-large text-white p-12 m-0 w-100">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
 									<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/first-trimmed-bolt.jpg" alt="">
 								</div>
 							</div>
@@ -142,9 +142,12 @@ upload-date: April 14, 2021
 					<div class="cell medium-6">
 						<div class="grid-x align-middle">
 							<div class="cell medium-6">
-								<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/bolt-comparison.jpg" alt="">
+								<div class="detail-shot position-relative">
+									<p class="position-absolute hide-for-large text-white p-12 m-0 w-100">Side-by-side comparison.</p>
+									<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/bolt-comparison.jpg" alt="">
+								</div>
 							</div>
-							<div class="cell medium-6">
+							<div class="show-for-large cell medium-6">
 								<p class="text-white lead ml-16">Side-by-side comparison.</p>
 							</div>
 						</div>
