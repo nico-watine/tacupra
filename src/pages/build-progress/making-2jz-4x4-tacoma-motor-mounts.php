@@ -109,8 +109,8 @@ upload-date: April 14, 2021
 					<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 				</div>
 				<div class="large-8 cell">
-					<h2><b>The Bolts</b></h2>
 					<div class="prose-wrap">
+						<h2><b>The Bolts</b></h2>
 						<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
 						<p>I trimmed the bolts to be flush against the flange, so they no longer bottom out. After the motor mounts were fully built, I used new and proper length flange bolts.</p>
 					</div>
