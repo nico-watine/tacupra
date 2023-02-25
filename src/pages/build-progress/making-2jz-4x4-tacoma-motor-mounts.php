@@ -102,7 +102,7 @@ upload-date: April 14, 2021
 </section>
 
 <section class="bolt-trimming" style="border-top: 2px solid #000;">
-	<div style="max-width: 1600px;" class="grid-container position-relative overflow-hidden">
+	<div class="grid-container-1600 position-relative overflow-hidden">
 		<div class="grid-container py-40">
 			<div class="grid-x grid-padding-x">
 				<div class="large-4 cell bolt-icon">
@@ -122,7 +122,7 @@ upload-date: April 14, 2021
 		</div>
 	</div>
 	<div class="dark-banner position-relative overflow-hidden" style="background: #282B2F;">
-		<div class="grid-container position-relative" style="max-width: 1500px;">
+		<div class="grid-container-1500 position-relative">
 			<div class="grid-container position-relative" style="z-index: 10;">
 				<div class="grid-x grid-padding-x">
 					<div class="cell medium-6">
