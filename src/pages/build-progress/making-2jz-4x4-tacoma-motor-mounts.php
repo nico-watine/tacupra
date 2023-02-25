@@ -102,18 +102,23 @@ upload-date: April 14, 2021
 </section>
 
 <section class="bolt-trimming" style="border-top: 2px solid #000;">
-	<div class="grid-container py-40">
-		<div class="grid-x grid-padding-x">
-			<div class="large-4 cell bolt-icon">
-				<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
-			</div>
-			<div class="large-8 cell">
-				<h2><b>The Bolts</b></h2>
-				<div class="prose-wrap" style="max-width: 470px;">
-					<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
-					<p>I trimmed the bolts to be flush against the flange, so they no longer bottom out. After the motor mounts were fully built, I used new and proper length flange bolts.</p>
+	<div style="max-width: 1600px;" class="grid-container position-relative overflow-hidden">
+		<div class="grid-container py-40">
+			<div class="grid-x grid-padding-x">
+				<div class="large-4 cell bolt-icon">
+					<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
+				</div>
+				<div class="large-8 cell">
+					<h2><b>The Bolts</b></h2>
+					<div class="prose-wrap" style="max-width: 470px;">
+						<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
+						<p>I trimmed the bolts to be flush against the flange, so they no longer bottom out. After the motor mounts were fully built, I used new and proper length flange bolts.</p>
+					</div>
 				</div>
 			</div>
+		</div>
+		<div class="position-absolute bg-bolt-icon" style="top: 10px; left: 0; z-index: -10;">
+			<img class="svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 		</div>
 	</div>
 	<div class="dark-banner" style="background: #282B2F;">
