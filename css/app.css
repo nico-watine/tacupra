@@ -12884,7 +12884,8 @@ body.index {
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details .detail-shot {
-  margin-bottom: 1.25rem;
+  margin: 0 auto 1.25rem;
+  max-width: 26.25rem;
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details .detail-shot p {

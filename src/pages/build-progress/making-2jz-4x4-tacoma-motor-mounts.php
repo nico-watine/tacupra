@@ -127,7 +127,7 @@ upload-date: April 14, 2021
 				<div class="grid-x grid-padding-x">
 					<div class="cell medium-6">
 						<div class="grid-x align-middle">
-							<div class="cell medium-6 show-for-medium">
+							<div class="cell medium-6 show-for-large">
 								<!-- style="max-width: 240px;" -->
 								<p class="text-white lead text-right mr-16 float-right">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
 							</div>

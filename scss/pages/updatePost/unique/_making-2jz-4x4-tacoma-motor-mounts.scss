@@ -186,7 +186,8 @@
 		background: $tacupra-black;
 
 		.detail-shot {
-			margin-bottom: rem-calc(20);
+			margin: 0 auto rem-calc(20);
+			max-width: rem-calc(420);
 
 			p {
 				bottom: 0;
