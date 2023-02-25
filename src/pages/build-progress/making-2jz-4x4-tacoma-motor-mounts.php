@@ -105,7 +105,7 @@ upload-date: April 14, 2021
 	<div class="section-intro grid-container-1600 position-relative overflow-hidden">
 		<div class="grid-container py-40">
 			<div class="grid-x grid-padding-x">
-				<div class="large-4 cell bolt-icon">
+				<div class="large-4 cell bolt-icon show-for-large">
 					<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 				</div>
 				<div class="large-8 cell">
@@ -127,12 +127,15 @@ upload-date: April 14, 2021
 				<div class="grid-x grid-padding-x">
 					<div class="cell medium-6">
 						<div class="grid-x align-middle">
-							<div class="cell medium-6">
+							<div class="cell medium-6 show-for-medium">
 								<!-- style="max-width: 240px;" -->
 								<p class="text-white lead text-right mr-16 float-right">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
 							</div>
 							<div class="cell medium-6">
-								<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/first-trimmed-bolt.jpg" alt="">
+								<div class="detail-shot position-relative">
+									<p class="position-absolute hide-for-large text-white p-12 m-0">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+									<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/first-trimmed-bolt.jpg" alt="">
+								</div>
 							</div>
 						</div>
 					</div>

@@ -184,6 +184,14 @@
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.section-details {
 		background: $tacupra-black;
+
+		.detail-shot {
+			p {
+				bottom: 0;
+				background: rgba(40,43,47,.50);
+				text-shadow: 0 0 10px #000;
+			}
+		}
 	}
 
 	@include breakpoint(large) {

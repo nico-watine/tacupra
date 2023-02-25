@@ -12883,6 +12883,12 @@ body.index {
   background: #282b2f;
 }
 
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details .detail-shot p {
+  bottom: 0;
+  background: rgba(40, 43, 47, 0.5);
+  text-shadow: 0 0 10px #000;
+}
+
 @media print, screen and (min-width: 64em) {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .prose-wrap {
     max-width: 29.375rem;
