@@ -12888,12 +12888,23 @@ body.index {
   fill: #9f031b;
 }
 
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-bolt-icon {
+  top: 10px;
+  left: 0;
+  z-index: -10;
+}
+
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-bolt-icon svg {
   width: 370px;
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-bolt-icon svg path {
   fill: #dedede;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon {
+  right: 0;
+  bottom: 0;
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon svg {

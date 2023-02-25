@@ -117,7 +117,7 @@ upload-date: April 14, 2021
 				</div>
 			</div>
 		</div>
-		<div class="position-absolute bg-bolt-icon" style="top: 10px; left: 0; z-index: -10;">
+		<div class="position-absolute bg-bolt-icon">
 			<img class="svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 		</div>
 	</div>
@@ -147,7 +147,7 @@ upload-date: April 14, 2021
 					</div>
 				</div>
 			</div>
-			<div class="position-absolute bg-nut-icon" style="right: 0; bottom: 0;">
+			<div class="position-absolute bg-nut-icon">
 				<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/nut.svg" alt="" class="svg">
 			</div>
 		</div>

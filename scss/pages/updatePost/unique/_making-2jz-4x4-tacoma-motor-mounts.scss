@@ -194,6 +194,10 @@
 	}
 
 	.bg-bolt-icon {
+		top: 10px;
+		left: 0;
+		z-index: -10;
+
 		svg {
 			width: 370px;
 
@@ -204,6 +208,9 @@
 	}
 
 	.bg-nut-icon {
+		right: 0;
+		bottom: 0;
+
 		svg {
 			width: 280px;
 		}
