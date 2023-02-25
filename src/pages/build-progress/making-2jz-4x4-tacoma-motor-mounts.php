@@ -121,7 +121,7 @@ upload-date: April 14, 2021
 			<img class="svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 		</div>
 	</div>
-	<div class="dark-banner position-relative overflow-hidden" style="background: #282B2F;">
+	<div class="section-details position-relative overflow-hidden">
 		<div class="grid-container-1500 position-relative">
 			<div class="grid-container position-relative" style="z-index: 10;">
 				<div class="grid-x grid-padding-x">

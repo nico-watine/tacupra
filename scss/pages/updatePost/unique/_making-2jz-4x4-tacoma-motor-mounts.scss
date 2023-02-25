@@ -182,6 +182,10 @@
 
 // bolt trimming section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
+	.section-details {
+		background: $tacupra-black;
+	}
+
 	@include breakpoint(large) {
 		.section-intro {
 			.prose-wrap {
