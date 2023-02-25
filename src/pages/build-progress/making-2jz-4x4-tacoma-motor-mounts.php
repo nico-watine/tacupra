@@ -121,8 +121,8 @@ upload-date: April 14, 2021
 			<img class="svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 		</div>
 	</div>
-	<div class="dark-banner" style="background: #282B2F;">
-		<div class="grid-container">
+	<div class="dark-banner position-relative overflow-hidden" style="background: #282B2F;">
+		<div class="grid-container position-relative" style="z-index: 10;">
 			<div class="grid-x grid-padding-x">
 				<div class="cell medium-6">
 					<div class="grid-x align-middle">
@@ -145,6 +145,9 @@ upload-date: April 14, 2021
 					</div>
 				</div>
 			</div>
+		</div>
+		<div class="position-absolute bg-nut-icon" style="right: 0; bottom: 0;">
+			<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/nut.svg" alt="" class="svg">
 		</div>
 	</div>
 </section>
