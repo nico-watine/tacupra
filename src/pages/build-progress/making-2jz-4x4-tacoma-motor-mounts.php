@@ -103,8 +103,8 @@ upload-date: April 14, 2021
 
 <section class="bolt-trimming" style="border-top: 2px solid #000;">
 	<div class="row py-40">
-		<div class="large-4 columns">
-			<img class="float-right" style="width:230px;" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
+		<div class="large-4 columns bolt-icon">
+			<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 		</div>
 		<div class="large-8 columns">
 			<h2><b>The Bolts</b></h2>
