@@ -12884,10 +12884,28 @@ body.index {
   margin: 0 auto;
 }
 
+@media print, screen and (min-width: 64em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .prose-wrap {
+    max-width: 29.375rem;
+    margin: unset;
+  }
+}
+
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon {
   left: -20px;
   top: 10px;
   z-index: -10;
+  /* uncss:ignore */
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg {
+  width: 370px;
+  height: 370px;
+  /* uncss:ignore */
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg path {
+  fill: #dedede;
 }
 
 @media print, screen and (max-width: 39.99875em) {
@@ -12896,14 +12914,6 @@ body.index {
     left: 50%;
     transform: translateX(-50%);
   }
-}
-
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg {
-  width: 370px;
-}
-
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg path {
-  fill: #dedede;
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details {
@@ -12922,13 +12932,13 @@ body.index {
 }
 
 @media print, screen and (min-width: 64em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .prose-wrap {
-    max-width: 29.375rem;
-    margin: initial;
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-icon {
+    /* uncss:ignore */
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-icon svg {
     width: 230px;
     height: 230px;
+    /* uncss:ignore */
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-icon svg path {
     fill: #9f031b;
@@ -12936,6 +12946,7 @@ body.index {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon {
     right: 0;
     bottom: 0;
+    /* uncss:ignore */
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon svg {
     width: 280px;

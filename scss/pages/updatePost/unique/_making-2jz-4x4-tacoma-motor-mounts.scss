@@ -186,23 +186,31 @@
 		.prose-wrap {
 			max-width: rem-calc(450);
 			margin: 0 auto;
+
+			@include breakpoint(large) {
+				max-width: rem-calc(470);
+				margin: unset;
+			}
 		}
 
 		.bg-bolt-icon {
-			@include breakpoint(small only) {
-				@include horizontal-center;
-			}
-
 			left: -20px;
 			top: 10px;
 			z-index: -10;
 
+			/* uncss:ignore */
 			svg {
 				width: 370px;
+				height: 370px;
 
+				/* uncss:ignore */
 				path {
 					fill: #dedede;
 				}
+			}
+
+			@include breakpoint(small only) {
+				@include horizontal-center;
 			}
 		}
 	}
@@ -223,18 +231,14 @@
 	}
 
 	@include breakpoint(large) {
-		.section-intro {
-			.prose-wrap {
-				max-width: rem-calc(470);
-				margin: initial;
-			}
-		}
-
 		.bolt-icon {
+
+			/* uncss:ignore */
 			svg {
 				width: 230px;
 				height: 230px;
 
+				/* uncss:ignore */
 				path {
 					fill: $tacupra-red;
 				}
@@ -245,6 +249,7 @@
 			right: 0;
 			bottom: 0;
 
+			/* uncss:ignore */
 			svg {
 				width: 280px;
 			}
