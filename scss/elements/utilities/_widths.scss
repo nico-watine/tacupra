@@ -64,3 +64,20 @@
 .min-width-25 {
 	min-width: 25%;
 }
+
+// -------------------------------------------
+// |            .grid-container-X            |
+// -------------------------------------------
+
+.grid-container-1500,
+.grid-container-1600 {
+	@extend .grid-container;
+}
+
+.grid-container-1500 {
+	max-width: rem-calc(1500);
+}
+
+.grid-container-1600 {
+	max-width: rem-calc(1600);
+}

@@ -179,3 +179,99 @@
 		}
 	}
 }
+
+// bolt trimming section
+.updatePost#making-2jz-4x4-tacoma-motor-mounts {
+	.section-intro {
+		.cell.bolt-icon {
+			display: none;
+			visibility: hidden;
+
+			/* uncss:ignore */
+			svg {
+				width: 160px;
+				height: 160px;
+
+				/* uncss:ignore */
+				path {
+					fill: $tacupra-red;
+				}
+			}
+
+			@include breakpoint(760) {
+				display: block;
+				visibility: visible;
+			}
+
+			@include breakpoint(large) {
+				/* uncss:ignore */
+				svg {
+					width: 230px;
+					height: 230px;
+				}
+			}
+		}
+
+		.cell.text {
+			@include breakpoint(760) {
+				@include xy-cell(8);
+			}
+		}
+
+		.prose-wrap {
+			max-width: rem-calc(450);
+			margin: 0 auto;
+
+			@include breakpoint(large) {
+				max-width: rem-calc(470);
+				margin: unset;
+			}
+		}
+
+		.bg-bolt-icon {
+			left: -20px;
+			top: 10px;
+			z-index: -10;
+
+			/* uncss:ignore */
+			svg {
+				width: 370px;
+				height: 370px;
+
+				/* uncss:ignore */
+				path {
+					fill: #dedede;
+				}
+			}
+
+			@include breakpoint(small only) {
+				@include horizontal-center;
+			}
+		}
+	}
+
+	.section-details {
+		background: $tacupra-black;
+
+		.detail-shot {
+			margin: 0 auto rem-calc(20);
+			max-width: rem-calc(420);
+
+			p {
+				bottom: 0;
+				background: rgba(40,43,47,.50);
+				text-shadow: 0 0 10px #000;
+			}
+		}
+	}
+
+	.bg-nut-icon {
+		right: 0;
+		bottom: 0;
+
+		/* uncss:ignore */
+		svg {
+			width: 280px;
+		}
+	}
+}

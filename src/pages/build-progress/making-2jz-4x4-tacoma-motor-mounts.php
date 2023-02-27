@@ -100,3 +100,62 @@ upload-date: April 14, 2021
 		</div>
 	</div>
 </section>
+
+<section class="bolt-trimming" style="border-top: 2px solid #000;">
+	<div class="section-intro grid-container-1600 position-relative">
+		<div class="grid-container py-40">
+			<div class="grid-x grid-padding-x">
+				<div class="medium-4 cell bolt-icon">
+					<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
+				</div>
+				<div class="large-8 cell text">
+					<div class="prose-wrap">
+						<h2><b>The Bolts</b></h2>
+						<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
+						<p>I trimmed the bolts to be flush against the flange, so they no longer bottom out. After the motor mounts were fully built, I used new and proper length flange bolts.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="position-absolute bg-bolt-icon">
+			<img class="svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
+		</div>
+	</div>
+	<div class="section-details position-relative overflow-hidden">
+		<div class="grid-container-1500 position-relative">
+			<div class="grid-container position-relative" style="z-index: 10;">
+				<div class="grid-x grid-padding-x">
+					<div class="cell medium-6">
+						<div class="grid-x align-middle">
+							<div class="cell medium-6 show-for-large">
+								<p class="text-white lead text-right mr-16 float-right" style="max-width:15rem;">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+							</div>
+							<div class="cell medium-10 medium-offset-2 large-offset-0 large-6">
+								<div class="detail-shot position-relative">
+									<p class="position-absolute hide-for-large text-white p-12 m-0 w-100">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+									<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/first-trimmed-bolt.jpg" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="cell medium-6">
+						<div class="grid-x align-middle">
+							<div class="cell medium-10 large-6">
+								<div class="detail-shot position-relative">
+									<p class="position-absolute hide-for-large text-white p-12 m-0 w-100">Side-by-side comparison.</p>
+									<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/bolt-comparison.jpg" alt="">
+								</div>
+							</div>
+							<div class="show-for-large cell medium-6">
+								<p class="text-white lead ml-16">Side-by-side comparison.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="position-absolute bg-nut-icon">
+				<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/nut.svg" alt="" class="svg">
+			</div>
+		</div>
+	</div>
+</section>
