@@ -128,8 +128,7 @@ upload-date: April 14, 2021
 					<div class="cell medium-6">
 						<div class="grid-x align-middle">
 							<div class="cell medium-6 show-for-large">
-								<!-- style="max-width: 240px;" -->
-								<p class="text-white lead text-right mr-16 float-right">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
+								<p class="text-white lead text-right mr-16 float-right" style="max-width:15rem;">The first trimmed bolt, flush with the flange. The other 3 protruding bolts show how much longer they originally were.</p>
 							</div>
 							<div class="cell medium-10 medium-offset-2 large-offset-0 large-6">
 								<div class="detail-shot position-relative">

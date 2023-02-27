@@ -187,22 +187,27 @@
 			display: none;
 			visibility: hidden;
 
+			/* uncss:ignore */
+			svg {
+				width: 160px;
+				height: 160px;
+
+				/* uncss:ignore */
+				path {
+					fill: $tacupra-red;
+				}
+			}
+
 			@include breakpoint(760) {
 				display: block;
 				visibility: visible;
 			}
 
 			@include breakpoint(large) {
-				//
 				/* uncss:ignore */
 				svg {
 					width: 230px;
 					height: 230px;
-
-					/* uncss:ignore */
-					path {
-						fill: $tacupra-red;
-					}
 				}
 			}
 		}
