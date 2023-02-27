@@ -265,15 +265,13 @@
 		}
 	}
 
-	@include breakpoint(large) {
-		.bg-nut-icon {
-			right: 0;
-			bottom: 0;
+	.bg-nut-icon {
+		right: 0;
+		bottom: 0;
 
-			/* uncss:ignore */
-			svg {
-				width: 280px;
-			}
+		/* uncss:ignore */
+		svg {
+			width: 280px;
 		}
 	}
 }

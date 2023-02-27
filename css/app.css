@@ -12973,15 +12973,14 @@ body.index {
   text-shadow: 0 0 10px #000;
 }
 
-@media print, screen and (min-width: 64em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon {
-    right: 0;
-    bottom: 0;
-    /* uncss:ignore */
-  }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon svg {
-    width: 280px;
-  }
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon {
+  right: 0;
+  bottom: 0;
+  /* uncss:ignore */
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon svg {
+  width: 280px;
 }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {
