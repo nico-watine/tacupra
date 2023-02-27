@@ -105,10 +105,10 @@ upload-date: April 14, 2021
 	<div class="section-intro grid-container-1600 position-relative">
 		<div class="grid-container py-40">
 			<div class="grid-x grid-padding-x">
-				<div class="large-4 cell bolt-icon show-for-large">
+				<div class="medium-4 cell bolt-icon">
 					<img class="float-right svg" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/bolt.svg" alt="">
 				</div>
-				<div class="large-8 cell">
+				<div class="large-8 cell text">
 					<div class="prose-wrap">
 						<h2><b>The Bolts</b></h2>
 						<p>The engine side flanges were thinner than the factory aluminum flanges. This made the bolts bottom out in the block, preventing them from securing the flange.</p>
