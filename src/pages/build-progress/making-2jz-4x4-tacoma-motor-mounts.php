@@ -47,7 +47,7 @@ upload-date: April 14, 2021
 				<p class="mb-40">If you haven't used a paint pen for fab work, try it. I run through these Sharpies so fast because I can use them for tons of different projects.</p>
 				<div class="amazon-link mb-40">
 					<span class="m-0 display-inline-block p-8">SHARPIE MED WHT OB PAINT MARKER</span>
-					<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
+					<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
 				</div>
 			</div>
 		</div>
@@ -171,7 +171,11 @@ upload-date: April 14, 2021
 						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
 					</div>
 					<div class="section-info" style="background: #FFFFFF;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 12px;padding: 24px 16px;">
-						<p class="lead">These <b>DEWALT Trigger Clamps</b> have more than enough gripping power to hold both the drill press and makeshift fences together on my band saw.</p>
+						<p class="lead mb-24">These <b>DEWALT Trigger Clamps</b> have more than enough gripping power to hold both the drill press and makeshift fences together on my band saw.</p>
+						<div class="amazon-link">
+							<span class="m-0 display-inline-block p-8">DEWALT DWHT83158 <br>12” Medium Trigger Clamp</span>
+							<a href="https://www.amazon.com/gp/product/B006H94YCS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=527ce463ab481f02f16560537d052e23" target="_blank"><img src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="DEWALT Clamps product page on Amazon.com"></a>
+						</div>
 					</div>
 				</div>
 			</div>

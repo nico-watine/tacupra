@@ -281,6 +281,17 @@
 // DEWALT Clamps Flange Slots Section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.drilling-flange-slots-section {
+		.amazon-link {
+			width: 370px;
+			background: #f1f1f1;
+			border-radius: 6px;
+			font-size: 14px;
+
+			img {
+				vertical-align: top;
+			}
+		}
+
 		.bg-video {
 			&:after {
 				content: '';
