@@ -292,6 +292,10 @@
 			}
 		}
 
+		.clamp-img {
+			@include vertical-center;
+		}
+
 		.bg-video {
 			&:after {
 				content: '';

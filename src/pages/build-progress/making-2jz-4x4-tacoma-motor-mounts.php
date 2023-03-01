@@ -181,8 +181,11 @@ upload-date: April 14, 2021
 			</div>
 		</div>
 	</div>
+	<div class="position-absolute width-100 clamp-img overflow-hidden" style="left: 50%;">
+		<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
+	</div>
 	<div class="position-absolute bg-video" style="z-index: -10; top: 0; left: 0; width: 100%; height: 100%;">
-		<video height="100%" width="100%" playsinline autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
+		<video style="width: 100%; object-fit: cover; height: 100%;" playsinline autoplay muted loop preload="none|auto|metadata" poster="poster.jpg">
 			<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps-video.mp4" type="video/mp4">
 			<!-- <source src="video.webm" type="video/webm"> -->
 			<!-- <source src="video.ogv" type="video/ogg"> -->
