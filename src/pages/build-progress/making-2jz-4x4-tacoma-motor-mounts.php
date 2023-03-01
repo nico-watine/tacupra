@@ -159,3 +159,20 @@ upload-date: April 14, 2021
 		</div>
 	</div>
 </section>
+
+<section class="drilling-flange-slots-section py-40 position-relative overflow-hidden">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x">
+			<div class="cell large-5">
+				<h2 style="text-shadow: 0 0 15px #000000;" class="text-white"><b>Drilling the Flange Slots</b></h2>
+			</div>
+		</div>
+	</div>
+	<div class="position-absolute bg-video" style="z-index: -10; top: 0; left: 0; width: 100%; height: 100%;">
+		<video height="100%" width="100%" playsinline autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
+			<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps-video.mp4" type="video/mp4">
+			<!-- <source src="video.webm" type="video/webm"> -->
+			<!-- <source src="video.ogv" type="video/ogg"> -->
+		</video>
+	</div>
+</section>
