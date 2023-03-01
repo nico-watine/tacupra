@@ -101,7 +101,7 @@ upload-date: April 14, 2021
 	</div>
 </section>
 
-<section class="bolt-trimming" style="border-top: 2px solid #000;">
+<section class="bolt-trimming-section" style="border-top: 2px solid #000;">
 	<div class="section-intro grid-container-1600 position-relative">
 		<div class="grid-container py-40">
 			<div class="grid-x grid-padding-x">
