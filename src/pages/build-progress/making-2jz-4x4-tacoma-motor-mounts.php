@@ -166,7 +166,7 @@ upload-date: April 14, 2021
 			<div class="cell large-5">
 				<div class="content-wrap">
 					<h2 style="text-shadow: 0 0 15px #000000; margin-bottom: 40px;" class="text-white"><b>Drilling the Flange Slots</b></h2>
-					<div class="detail-shot position-relative overflow-hidden" style="box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 12px;">
+					<div class="detail-shot position-relative overflow-hidden" style="margin-bottom: 40px;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 12px;">
 						<p style="bottom: 0; left: 0; background: rgba(40,43,47,0.50);" class="position-absolute text-white p-12 m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
 						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
 					</div>
