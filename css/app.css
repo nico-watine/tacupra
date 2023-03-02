@@ -12988,21 +12988,53 @@ body.index {
   width: 280px;
 }
 
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
+  margin-bottom: 1.5rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 12px;
+  background: #fff;
+  margin-bottom: 1.25rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.img-overlay {
+  display: none;
+  visibility: hidden;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.under-img {
+  padding: 0.5rem 0.75rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video {
+  display: none;
+  visibility: hidden;
+}
+
 @media print, screen and (min-width: 64em) {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
     text-shadow: 0 0 15px #000;
     margin-bottom: 2.5rem;
+    color: #fff;
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot {
     margin-bottom: 40px;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
     border-radius: 12px;
   }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.img-overlay {
+    display: block;
+    visibility: visible;
     bottom: 0;
     left: 0;
     background: rgba(40, 43, 47, 0.5);
     text-shadow: 0 0 10px #000;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.under-img {
+    display: none;
+    visibility: hidden;
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
     width: 370px;
@@ -13025,6 +13057,8 @@ body.index {
     transform: translateY(-50%);
   }
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video {
+    display: block;
+    visibility: visible;
     z-index: -10;
     top: 0;
     left: 0;
