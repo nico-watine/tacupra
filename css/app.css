@@ -13035,6 +13035,12 @@ body.index {
   font-size: 14px;
 }
 
+@media screen and (min-width: 28.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+    width: 23.125rem;
+  }
+}
+
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link img {
   vertical-align: top;
 }

@@ -327,6 +327,10 @@
 			border-radius: 6px;
 			font-size: 14px;
 
+			@include breakpoint(460) {
+				width: rem-calc(370);
+			}
+
 			img {
 				vertical-align: top;
 			}
