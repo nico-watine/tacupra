@@ -12988,31 +12988,63 @@ body.index {
   width: 280px;
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
-  width: 370px;
-  background: #f1f1f1;
-  border-radius: 6px;
-  font-size: 14px;
-}
-
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link img {
-  vertical-align: top;
-}
-
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .clamp-img {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video:after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(68, 68, 68, 0.5);
+@media print, screen and (min-width: 64em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
+    text-shadow: 0 0 15px #000;
+    margin-bottom: 2.5rem;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot {
+    margin-bottom: 40px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+    border-radius: 12px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p {
+    bottom: 0;
+    left: 0;
+    background: rgba(40, 43, 47, 0.5);
+    text-shadow: 0 0 10px #000;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+    width: 370px;
+    background: #f1f1f1;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link img {
+    vertical-align: top;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card {
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+    border-radius: 12px;
+    padding: 24px 16px;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .clamp-img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video {
+    z-index: -10;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video video {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+  }
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(68, 68, 68, 0.5);
+  }
 }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {

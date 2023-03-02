@@ -165,12 +165,12 @@ upload-date: April 14, 2021
 		<div class="grid-x grid-padding-x">
 			<div class="cell large-5">
 				<div class="content-wrap">
-					<h2 style="text-shadow: 0 0 15px #000000; margin-bottom: 40px;" class="text-white"><b>Drilling the Flange Slots</b></h2>
-					<div class="detail-shot position-relative overflow-hidden" style="margin-bottom: 40px;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 12px;">
-						<p style="bottom: 0; left: 0; background: rgba(40,43,47,0.50);text-shadow:0 0 10px #000;" class="position-absolute text-white p-12 m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
+					<h2 class="text-white"><b>Drilling the Flange Slots</b></h2>
+					<div class="detail-shot position-relative overflow-hidden">
+						<p class="position-absolute text-white p-12 m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
 						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
 					</div>
-					<div class="section-info" style="background: #FFFFFF;box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);border-radius: 12px;padding: 24px 16px;">
+					<div class="dewalt-clamp-card">
 						<p class="lead mb-24">These <b>DEWALT Trigger Clamps</b> have more than enough gripping power to hold both the drill press and makeshift fences together on my band saw.</p>
 						<div class="amazon-link">
 							<span class="m-0 display-inline-block p-8">DEWALT DWHT83158 <br>12” Medium Trigger Clamp</span>
@@ -184,8 +184,8 @@ upload-date: April 14, 2021
 	<div class="position-absolute width-100 clamp-img overflow-hidden" style="left: 50%;">
 		<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
 	</div>
-	<div class="position-absolute bg-video" style="z-index: -10; top: 0; left: 0; width: 100%; height: 100%;">
-		<video style="width: 100%; object-fit: cover; height: 100%;" playsinline autoplay muted loop preload="none|auto|metadata" poster="poster.jpg">
+	<div class="position-absolute bg-video">
+		<video playsinline autoplay muted loop preload="none|auto|metadata" poster="poster.jpg">
 			<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps-video.mp4" type="video/mp4">
 			<!-- <source src="video.webm" type="video/webm"> -->
 			<!-- <source src="video.ogv" type="video/ogg"> -->
