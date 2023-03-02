@@ -171,6 +171,9 @@ upload-date: April 14, 2021
 						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
 						<p class="under-img m-0">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
 					</div>
+					<div class="clamp-img mb-20">
+						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
+					</div>
 					<div class="dewalt-clamp-card">
 						<p class="lead mb-24">These <b>DEWALT Trigger Clamps</b> have more than enough gripping power to hold both the drill press and makeshift fences together on my band saw.</p>
 						<div class="amazon-link">
@@ -182,7 +185,7 @@ upload-date: April 14, 2021
 			</div>
 		</div>
 	</div>
-	<div class="position-absolute width-100 clamp-img overflow-hidden" style="left: 50%;">
+	<div style="display: none;" class="position-absolute width-100 clamp-img-wrap overflow-hidden">
 		<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
 	</div>
 	<div class="position-absolute bg-video">

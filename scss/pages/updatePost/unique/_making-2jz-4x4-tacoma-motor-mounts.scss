@@ -281,22 +281,54 @@
 // DEWALT Clamps Flange Slots Section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
 	.drilling-flange-slots-section {
+		// min-height: 1000px;
+
 		h2 {
 			margin-bottom: rem-calc(24);
+			text-align: center;
 		}
+
 		.detail-shot {
 			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
 			border-radius: 12px;
 			background: #fff;
 			margin-bottom: rem-calc(20);
+			max-width: rem-calc(500);
+
+			@extend .float-center;
 
 			p.img-overlay {
 				display: none;
 				visibility: hidden;
+
+				@include breakpoint(460) {
+					display: block;
+					visibility: visible;
+					bottom: 0;
+					left: 0;
+					background: rgba(40,43,47,.50);
+					text-shadow: 0 0 10px #000;
+				}
 			}
 
 			p.under-img {
 				padding: rem-calc(8 12);
+
+				@include breakpoint(460) {
+					display: none;
+					visibility: hidden;
+				}
+			}
+		}
+
+		.amazon-link {
+			width: 180px;
+			background: #f1f1f1;
+			border-radius: 6px;
+			font-size: 14px;
+
+			img {
+				vertical-align: top;
 			}
 		}
 
@@ -305,17 +337,18 @@
 			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
 			border-radius: 12px;
 			padding: 24px 16px;
+			max-width: rem-calc(500);
+
+			@extend .float-center;
 		}
 
-		.amazon-link {
-			// width: 370px;
-			width: 180px;
-			background: #f1f1f1;
-			border-radius: 6px;
-			font-size: 14px;
+		.clamp-img-wrap {
+			// @include vertical-center;
+			top: 45%;
+			padding-left: rem-calc(20);
 
-			img {
-				vertical-align: top;
+			@include breakpoint(460) {
+				top: 40%;
 			}
 		}
 
@@ -337,20 +370,6 @@
 				margin-bottom: 40px;
 				box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
 				border-radius: 12px;
-
-				p.img-overlay {
-					display: block;
-					visibility: visible;
-					bottom: 0;
-					left: 0;
-					background: rgba(40,43,47,.50);
-					text-shadow: 0 0 10px #000;
-				}
-
-				p.under-img {
-					display: none;
-					visibility: hidden;
-				}
 			}
 
 			.amazon-link {
@@ -365,13 +384,12 @@
 			}
 
 			.dewalt-clamp-card {
-				// background: #fff;
-				// box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
-				// border-radius: 12px;
 				padding: 24px 16px;
 			}
 
-			.clamp-img {
+			.clamp-img-wrap {
+				padding-left: 0;
+				left: 50%;
 				@include vertical-center;
 			}
 
