@@ -288,6 +288,12 @@
 			text-align: center;
 		}
 
+		.content-wrap {
+			@include breakpoint(700) {
+				@include xy-cell(6);
+			}
+		}
+
 		.detail-shot {
 			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
 			border-radius: 12px;
@@ -302,6 +308,7 @@
 				visibility: hidden;
 
 				@include breakpoint(460) {
+					padding: rem-calc(8 12);
 					display: block;
 					visibility: visible;
 					bottom: 0;
@@ -331,6 +338,10 @@
 				width: rem-calc(370);
 			}
 
+			@include breakpoint(700) {
+				width: rem-calc(180);
+			}
+
 			img {
 				vertical-align: top;
 			}
@@ -355,13 +366,15 @@
 			@extend .float-center;
 		}
 
-		.clamp-img-wrap {
-			// @include vertical-center;
-			top: 45%;
-			padding-left: rem-calc(20);
+		.absolute-clamp-img-wrap {
+			display: none;
+			visibility: hidden;
 
-			@include breakpoint(460) {
-				top: 40%;
+			@include breakpoint(700) {
+				@include vertical-center;
+				display: block;
+				visibility: visible;
+				left: 50%;
 			}
 		}
 
