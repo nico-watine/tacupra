@@ -336,6 +336,15 @@
 			}
 		}
 
+		.content-wrap {
+			.clamp-img {
+				@include breakpoint(700) {
+					display: none;
+					visibility: hidden;
+				}
+			}
+		}
+
 		.dewalt-clamp-card {
 			background: #fff;
 			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);

@@ -13045,6 +13045,13 @@ body.index {
   vertical-align: top;
 }
 
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .content-wrap .clamp-img {
+    display: none;
+    visibility: hidden;
+  }
+}
+
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card {
   background: #fff;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
