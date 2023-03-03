@@ -351,6 +351,10 @@
 				width: rem-calc(180);
 			}
 
+			@include breakpoint(large) {
+				width: rem-calc(370);
+			}
+
 			img {
 				vertical-align: top;
 			}
