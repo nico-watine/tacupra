@@ -163,7 +163,7 @@ upload-date: April 14, 2021
 <section class="drilling-flange-slots-section py-40 position-relative overflow-hidden">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
-			<div class="cell large-5">
+			<div class="cell">
 				<h2><b>Drilling the Flange Slots</b></h2>
 				<div class="content-wrap">
 					<div class="detail-shot position-relative overflow-hidden">
