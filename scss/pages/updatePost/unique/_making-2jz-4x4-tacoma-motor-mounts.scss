@@ -290,10 +290,6 @@
 				margin-bottom: rem-calc(40);
 				color: #fff;
 			}
-
-			// @include breakpoint(large) {
-			// 	text-align: left;
-			// }
 		}
 
 		.content-wrap {
@@ -358,10 +354,6 @@
 			img {
 				vertical-align: top;
 			}
-
-			@include breakpoint(large) {
-				// padding: rem-calc(0 12);
-			}
 		}
 
 		.content-wrap {
@@ -377,7 +369,6 @@
 			background: #fff;
 			box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
 			border-radius: 12px;
-			// padding: 24px 16px;
 			padding: rem-calc(24 0);
 			max-width: rem-calc(500);
 
