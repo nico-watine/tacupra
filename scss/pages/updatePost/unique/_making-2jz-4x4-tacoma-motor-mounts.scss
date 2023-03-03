@@ -360,12 +360,10 @@
 			}
 		}
 
-		.content-wrap {
-			.clamp-img {
-				@include breakpoint(700) {
-					display: none;
-					visibility: hidden;
-				}
+		img.clamps {
+			@include breakpoint(700) {
+				display: none;
+				visibility: hidden;
 			}
 		}
 
