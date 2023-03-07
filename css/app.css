@@ -12995,7 +12995,7 @@ body.index {
 
 @media screen and (min-width: 43.75em) {
   .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
-    text-shadow: 0 0 15px #000;
+    text-shadow: 0 0 0.9375rem #000;
     margin-bottom: 2.5rem;
     color: #fff;
   }
@@ -13020,8 +13020,8 @@ body.index {
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot {
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border-radius: 12px;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
   background: #fff;
   margin-bottom: 2.5rem;
   max-width: 31.25rem;
@@ -13040,7 +13040,7 @@ body.index {
     bottom: 0;
     left: 0;
     background: rgba(40, 43, 47, 0.5);
-    text-shadow: 0 0 10px #000;
+    text-shadow: 0 0 0.625rem #000;
   }
 }
 
@@ -13056,10 +13056,10 @@ body.index {
 }
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
-  width: 180px;
+  width: 11.25rem;
   background: #f1f1f1;
-  border-radius: 6px;
-  font-size: 14px;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
   margin-left: 0.75rem;
 }
 
@@ -13094,8 +13094,8 @@ body.index {
 
 .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card {
   background: #fff;
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border-radius: 12px;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
   padding: 1.5rem 0;
   max-width: 31.25rem;
 }
