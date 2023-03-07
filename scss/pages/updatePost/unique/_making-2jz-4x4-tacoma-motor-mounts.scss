@@ -311,7 +311,7 @@
 
 			@extend .float-center;
 
-			p.img-overlay {
+			p.on-img {
 				display: none;
 				visibility: hidden;
 
@@ -326,7 +326,7 @@
 				}
 			}
 
-			p.under-img {
+			p.below-img {
 				padding: rem-calc(8 12);
 
 				@include breakpoint(460) {

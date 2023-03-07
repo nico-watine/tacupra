@@ -167,9 +167,9 @@ upload-date: April 14, 2021
 				<h2><b>Drilling the Flange Slots</b></h2>
 				<div class="content-wrap">
 					<div class="detail-shot position-relative overflow-hidden">
-						<p class="img-overlay position-absolute text-white m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
+						<p class="on-img position-absolute text-white m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
 						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
-						<p class="under-img m-0">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
+						<p class="below-img m-0">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
 					</div>
 					<img class="mb-20 clamps" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
 					<div class="dewalt-clamp-card">
