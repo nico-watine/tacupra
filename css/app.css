@@ -8010,7 +8010,7 @@ html.is-reveal-open body {
   float: right !important;
 }
 
-.float-center, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
+.float-center, .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card, .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap .amazon-link, .updatePost#making-2jz-4x4-tacoma-motor-mounts .fab-pen-section .fab-pen-prose .prose-wrap {
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -12884,41 +12884,41 @@ body.index {
   border: 1px solid #000;
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon {
   display: none;
   visibility: hidden;
   /* uncss:ignore */
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon svg {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon svg {
   width: 160px;
   height: 160px;
   /* uncss:ignore */
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon svg path {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon svg path {
   fill: #9f031b;
 }
 
 @media screen and (min-width: 47.5em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon {
     display: block;
     visibility: visible;
   }
 }
 
 @media print, screen and (min-width: 64em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon {
     /* uncss:ignore */
   }
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.bolt-icon svg {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.bolt-icon svg {
     width: 230px;
     height: 230px;
   }
 }
 
 @media screen and (min-width: 47.5em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .cell.text {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .cell.text {
     flex: 0 0 auto;
     width: calc(66.6666666667% - 1.25rem);
     margin-left: 0.625rem;
@@ -12926,66 +12926,231 @@ body.index {
   }
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .prose-wrap {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .prose-wrap {
   max-width: 28.125rem;
   margin: 0 auto;
 }
 
 @media print, screen and (min-width: 64em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .prose-wrap {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .prose-wrap {
     max-width: 29.375rem;
     margin: unset;
   }
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .bg-bolt-icon {
   left: -20px;
   top: 10px;
   z-index: -10;
   /* uncss:ignore */
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .bg-bolt-icon svg {
   width: 370px;
   height: 370px;
   /* uncss:ignore */
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon svg path {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .bg-bolt-icon svg path {
   fill: #dedede;
 }
 
 @media print, screen and (max-width: 39.99875em) {
-  .updatePost#making-2jz-4x4-tacoma-motor-mounts .section-intro .bg-bolt-icon {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-intro .bg-bolt-icon {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
   }
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-details {
   background: #282b2f;
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details .detail-shot {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-details .detail-shot {
   margin: 0 auto 1.25rem;
   max-width: 26.25rem;
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .section-details .detail-shot p {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .section-details .detail-shot p {
   bottom: 0;
   background: rgba(40, 43, 47, 0.5);
   text-shadow: 0 0 10px #000;
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .bg-nut-icon {
   right: 0;
   bottom: 0;
   /* uncss:ignore */
 }
 
-.updatePost#making-2jz-4x4-tacoma-motor-mounts .bg-nut-icon svg {
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .bolt-trimming-section .bg-nut-icon svg {
   width: 280px;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section h2 {
+    text-shadow: 0 0 0.9375rem #000;
+    margin-bottom: 2.5rem;
+    color: #fff;
+  }
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .content-wrap {
+    flex: 0 0 auto;
+    width: calc(50% - 1.25rem);
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .content-wrap {
+    flex: 0 0 auto;
+    width: calc(41.6666666667% - 2rem);
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot {
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
+  background: #fff;
+  margin-bottom: 2.5rem;
+  max-width: 31.25rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.on-img {
+  display: none;
+  visibility: hidden;
+}
+
+@media screen and (min-width: 28.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.on-img {
+    padding: 0.5rem 0.75rem;
+    display: block;
+    visibility: visible;
+    bottom: 0;
+    left: 0;
+    background: rgba(40, 43, 47, 0.5);
+    text-shadow: 0 0 0.625rem #000;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.below-img {
+  padding: 0.5rem 0.75rem;
+}
+
+@media screen and (min-width: 28.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .detail-shot p.below-img {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+  width: 11.25rem;
+  background: #f1f1f1;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  margin-left: 0.75rem;
+}
+
+@media screen and (min-width: 28.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+    width: 23.125rem;
+  }
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+    width: 11.25rem;
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link {
+    width: 23.125rem;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .amazon-link img {
+  vertical-align: top;
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section img.clamps {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card {
+  background: #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  border-radius: 0.75rem;
+  padding: 1.5rem 0;
+  max-width: 31.25rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .dewalt-clamp-card p {
+  padding: 0 1rem;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .absolute-clamp-img-wrap {
+  display: none;
+  visibility: hidden;
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .absolute-clamp-img-wrap {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: block;
+    visibility: visible;
+    left: 50%;
+  }
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video {
+  display: none;
+  visibility: hidden;
+  z-index: -10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video video {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+
+.updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(68, 68, 68, 0.5);
+}
+
+@media screen and (min-width: 43.75em) {
+  .updatePost#making-2jz-4x4-tacoma-motor-mounts .drilling-flange-slots-section .bg-video {
+    display: block;
+    visibility: visible;
+  }
 }
 
 .updatePost#id-4x4-2jz-tacoma-transmission-mount .pageIntro-section {

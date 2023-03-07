@@ -47,7 +47,7 @@ upload-date: April 14, 2021
 				<p class="mb-40">If you haven't used a paint pen for fab work, try it. I run through these Sharpies so fast because I can use them for tons of different projects.</p>
 				<div class="amazon-link mb-40">
 					<span class="m-0 display-inline-block p-8">SHARPIE MED WHT OB PAINT MARKER</span>
-					<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img  src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
+					<a href="https://www.amazon.com/gp/product/B001PLKRZQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=68a6a11cc748192893f33b7300a99cea" target="_blank"><img src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="Sharpie product page on Amazon.com"></a>
 				</div>
 			</div>
 		</div>
@@ -101,7 +101,7 @@ upload-date: April 14, 2021
 	</div>
 </section>
 
-<section class="bolt-trimming" style="border-top: 2px solid #000;">
+<section class="bolt-trimming-section" style="border-top: 2px solid #000;">
 	<div class="section-intro grid-container-1600 position-relative">
 		<div class="grid-container py-40">
 			<div class="grid-x grid-padding-x">
@@ -157,5 +157,40 @@ upload-date: April 14, 2021
 				<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/icons/nut.svg" alt="" class="svg">
 			</div>
 		</div>
+	</div>
+</section>
+
+<section class="drilling-flange-slots-section py-40 position-relative overflow-hidden">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x">
+			<div class="cell">
+				<h2><b>Drilling the Flange Slots</b></h2>
+				<div class="content-wrap">
+					<div class="detail-shot position-relative overflow-hidden">
+						<p class="on-img position-absolute text-white m-0 w-100">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
+						<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/flange-slot-detail-shot.jpg" alt="">
+						<p class="below-img m-0">I used a dremel with a carbide bit to cut slots to mimic the factory slots on the Tacoma Frame Side Motor Mount Flanges.</p>
+					</div>
+					<img class="mb-20 clamps" src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
+					<div class="dewalt-clamp-card">
+						<p class="lead mb-24">These <b>DEWALT Trigger Clamps</b> have more than enough gripping power to hold both the drill press and makeshift fences together on my band saw.</p>
+						<div class="amazon-link">
+							<span class="m-0 display-inline-block p-8">DEWALT DWHT83158 <br>12” Medium Trigger Clamp</span>
+							<a href="https://www.amazon.com/gp/product/B006H94YCS/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=quatt01-20&linkId=527ce463ab481f02f16560537d052e23" target="_blank"><img src="/img/assets/amazon/amazon-badge.svg" alt="Available on Amazon link badge" title="DEWALT Clamps product page on Amazon.com"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="position-absolute width-100 absolute-clamp-img-wrap overflow-hidden">
+		<img src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps.png" alt="">
+	</div>
+	<div class="position-absolute bg-video">
+		<video playsinline autoplay muted loop preload="none|auto|metadata" poster="poster.jpg">
+			<source src="/img/update-post/making-2jz-4x4-tacoma-motor-mounts/_temp/dewalt-clamps-video.mp4" type="video/mp4">
+			<!-- <source src="video.webm" type="video/webm"> -->
+			<!-- <source src="video.ogv" type="video/ogg"> -->
+		</video>
 	</div>
 </section>

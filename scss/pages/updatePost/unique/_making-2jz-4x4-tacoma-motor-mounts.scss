@@ -182,96 +182,247 @@
 
 // bolt trimming section
 .updatePost#making-2jz-4x4-tacoma-motor-mounts {
-	.section-intro {
-		.cell.bolt-icon {
+	.bolt-trimming-section {
+		.section-intro {
+			.cell.bolt-icon {
+				display: none;
+				visibility: hidden;
+
+				/* uncss:ignore */
+				svg {
+					width: 160px;
+					height: 160px;
+
+					/* uncss:ignore */
+					path {
+						fill: $tacupra-red;
+					}
+				}
+
+				@include breakpoint(760) {
+					display: block;
+					visibility: visible;
+				}
+
+				@include breakpoint(large) {
+					/* uncss:ignore */
+					svg {
+						width: 230px;
+						height: 230px;
+					}
+				}
+			}
+
+			.cell.text {
+				@include breakpoint(760) {
+					@include xy-cell(8);
+				}
+			}
+
+			.prose-wrap {
+				max-width: rem-calc(450);
+				margin: 0 auto;
+
+				@include breakpoint(large) {
+					max-width: rem-calc(470);
+					margin: unset;
+				}
+			}
+
+			.bg-bolt-icon {
+				left: -20px;
+				top: 10px;
+				z-index: -10;
+
+				/* uncss:ignore */
+				svg {
+					width: 370px;
+					height: 370px;
+
+					/* uncss:ignore */
+					path {
+						fill: #dedede;
+					}
+				}
+
+				@include breakpoint(small only) {
+					@include horizontal-center;
+				}
+			}
+		}
+
+		.section-details {
+			background: $tacupra-black;
+
+			.detail-shot {
+				margin: 0 auto rem-calc(20);
+				max-width: rem-calc(420);
+
+				p {
+					bottom: 0;
+					background: rgba(40,43,47,.50);
+					text-shadow: 0 0 10px #000;
+				}
+			}
+		}
+
+		.bg-nut-icon {
+			right: 0;
+			bottom: 0;
+
+			/* uncss:ignore */
+			svg {
+				width: 280px;
+			}
+		}
+	}
+}
+
+// DEWALT Clamps Flange Slots Section
+.updatePost#making-2jz-4x4-tacoma-motor-mounts {
+	.drilling-flange-slots-section {
+		h2 {
+			margin-bottom: rem-calc(24);
+			text-align: center;
+
+			@include breakpoint(700) {
+				text-shadow: 0 0 rem-calc(15) #000;
+				margin-bottom: rem-calc(40);
+				color: #fff;
+			}
+		}
+
+		.content-wrap {
+			@include breakpoint(700) {
+				@include xy-cell(6);
+			}
+
+			@include breakpoint(large) {
+				@include xy-cell(5);
+			}
+		}
+
+		.detail-shot {
+			box-shadow: rem-calc(0 1 4 0) rgba(0,0,0,.37);
+			border-radius: rem-calc(12);
+			background: #fff;
+			margin-bottom: rem-calc(40);
+			max-width: rem-calc(500);
+
+			@extend .float-center;
+
+			p.on-img {
+				display: none;
+				visibility: hidden;
+
+				@include breakpoint(460) {
+					padding: rem-calc(8 12);
+					display: block;
+					visibility: visible;
+					bottom: 0;
+					left: 0;
+					background: rgba(40,43,47,.50);
+					text-shadow: 0 0 rem-calc(10) #000;
+				}
+			}
+
+			p.below-img {
+				padding: rem-calc(8 12);
+
+				@include breakpoint(460) {
+					display: none;
+					visibility: hidden;
+				}
+			}
+		}
+
+		.amazon-link {
+			width: rem-calc(180);
+			background: #f1f1f1;
+			border-radius: rem-calc(6);
+			font-size: rem-calc(14);
+			margin-left: rem-calc(12);
+
+			@include breakpoint(460) {
+				width: rem-calc(370);
+			}
+
+			@include breakpoint(700) {
+				width: rem-calc(180);
+			}
+
+			@include breakpoint(large) {
+				width: rem-calc(370);
+			}
+
+			img {
+				vertical-align: top;
+			}
+		}
+
+		img.clamps {
+			@include breakpoint(700) {
+				display: none;
+				visibility: hidden;
+			}
+		}
+
+		.dewalt-clamp-card {
+			background: #fff;
+			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
+			border-radius: rem-calc(12);
+			padding: rem-calc(24 0);
+			max-width: rem-calc(500);
+
+			@extend .float-center;
+
+			p {
+				padding: rem-calc(0 16);
+			}
+		}
+
+		.absolute-clamp-img-wrap {
 			display: none;
 			visibility: hidden;
 
-			/* uncss:ignore */
-			svg {
-				width: 160px;
-				height: 160px;
+			@include breakpoint(700) {
+				@include vertical-center;
+				display: block;
+				visibility: visible;
+				left: 50%;
+			}
+		}
 
-				/* uncss:ignore */
-				path {
-					fill: $tacupra-red;
-				}
+		.bg-video {
+			display: none;
+			visibility: hidden;
+			z-index: -10;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+
+			video {
+				width: 100%;
+				object-fit: cover;
+				height: 100%;
 			}
 
-			@include breakpoint(760) {
+			&:after {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background: rgba(68,68,68,.50);
+				// mix-blend-mode: multiply;
+			}
+
+			@include breakpoint(700) {
 				display: block;
 				visibility: visible;
 			}
-
-			@include breakpoint(large) {
-				/* uncss:ignore */
-				svg {
-					width: 230px;
-					height: 230px;
-				}
-			}
-		}
-
-		.cell.text {
-			@include breakpoint(760) {
-				@include xy-cell(8);
-			}
-		}
-
-		.prose-wrap {
-			max-width: rem-calc(450);
-			margin: 0 auto;
-
-			@include breakpoint(large) {
-				max-width: rem-calc(470);
-				margin: unset;
-			}
-		}
-
-		.bg-bolt-icon {
-			left: -20px;
-			top: 10px;
-			z-index: -10;
-
-			/* uncss:ignore */
-			svg {
-				width: 370px;
-				height: 370px;
-
-				/* uncss:ignore */
-				path {
-					fill: #dedede;
-				}
-			}
-
-			@include breakpoint(small only) {
-				@include horizontal-center;
-			}
-		}
-	}
-
-	.section-details {
-		background: $tacupra-black;
-
-		.detail-shot {
-			margin: 0 auto rem-calc(20);
-			max-width: rem-calc(420);
-
-			p {
-				bottom: 0;
-				background: rgba(40,43,47,.50);
-				text-shadow: 0 0 10px #000;
-			}
-		}
-	}
-
-	.bg-nut-icon {
-		right: 0;
-		bottom: 0;
-
-		/* uncss:ignore */
-		svg {
-			width: 280px;
 		}
 	}
 }
