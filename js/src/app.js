@@ -3,7 +3,9 @@ $(document).foundation();
 
 /*
 * Replace all SVG images with inline SVG
+* https://stackoverflow.com/questions/11978995/how-to-change-color-of-svg-image-using-css-jquery-svg-image-replacement
 */
+// img[src$=".svg"]
 jQuery('img.svg').each(function(){
 	var $img = jQuery(this);
 	var imgID = $img.attr('id');
